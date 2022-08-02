@@ -1,0 +1,5698 @@
+[
+    {
+        "id": 96,
+        "lat": "",
+        "lng": "",
+        "name": "1St 3 Mile Opening",
+        "region": "QLD",
+        "station_id": "QLD_TP226"
+    },
+    {
+        "id": 191,
+        "lat": 37.42324456842828,
+        "lng": -121.914894049727,
+        "name": "Abbot Point",
+        "region": "QLD",
+        "station_id": "QLD_TP001"
+    },
+    {
+        "id": 561,
+        "lat": -13.2377597,
+        "lng": 131.1061792,
+        "name": "Adelaide River",
+        "region": "NT",
+        "station_id": "NT_TP004"
+    },
+    {
+        "id": 332,
+        "lat": 37.2868231,
+        "lng": -121.908525,
+        "name": "Adele I.",
+        "region": "WA",
+        "station_id": "WA_TP125"
+    },
+    {
+        "id": 333,
+        "lat": "",
+        "lng": "",
+        "name": "Adolphus I.",
+        "region": "WA",
+        "station_id": "WA_TP114"
+    },
+    {
+        "id": 415,
+        "lat": 37.887296,
+        "lng": -122.298057,
+        "name": "Albany",
+        "region": "WA",
+        "station_id": "WA_TP001"
+    },
+    {
+        "id": 79,
+        "lat": "",
+        "lng": "",
+        "name": "Albert River Mouth",
+        "region": "QLD",
+        "station_id": "QLD_TP139"
+    },
+    {
+        "id": 192,
+        "lat": -18.7721664,
+        "lng": 146.7178745,
+        "name": "Albino Rock",
+        "region": "QLD",
+        "station_id": "QLD_TP037"
+    },
+    {
+        "id": 131,
+        "lat": "",
+        "lng": "",
+        "name": "Alert Patches",
+        "region": "QLD",
+        "station_id": "QLD_TP115"
+    },
+    {
+        "id": 651,
+        "lat": "",
+        "lng": "",
+        "name": "Alotau (Milne Bay)",
+        "region": "INT",
+        "station_id": "INT_TP010"
+    },
+    {
+        "id": 132,
+        "lat": "",
+        "lng": "",
+        "name": "Alpha Rock",
+        "region": "QLD",
+        "station_id": "QLD_TP246"
+    },
+    {
+        "id": 489,
+        "lat": "",
+        "lng": "",
+        "name": "Althorpe I.",
+        "region": "SA",
+        "station_id": "SA_TP058"
+    },
+    {
+        "id": 38,
+        "lat": -37.8693775,
+        "lng": 144.8303135,
+        "name": "Altona",
+        "region": "VIC",
+        "station_id": "VIC_TP014"
+    },
+    {
+        "id": 463,
+        "lat": 38.5787377,
+        "lng": -121.3449546,
+        "name": "American River",
+        "region": "SA",
+        "station_id": "SA_TP067"
+    },
+    {
+        "id": 652,
+        "lat": "",
+        "lng": "",
+        "name": "Anewa Bay",
+        "region": "INT",
+        "station_id": "INT_TP011"
+    },
+    {
+        "id": 562,
+        "lat": "",
+        "lng": "",
+        "name": "Anson Bay",
+        "region": "NT",
+        "station_id": "NT_TP049"
+    },
+    {
+        "id": 653,
+        "lat": -13.8327481,
+        "lng": -171.7546501,
+        "name": "Apia",
+        "region": "INT",
+        "station_id": "INT_TP022"
+    },
+    {
+        "id": 39,
+        "lat": -38.7569431,
+        "lng": 143.6694863,
+        "name": "Apollo Bay",
+        "region": "VIC",
+        "station_id": "VIC_TP038"
+    },
+    {
+        "id": 563,
+        "lat": -9.3130847,
+        "lng": 137.1930666,
+        "name": "Arafura Sea",
+        "region": "NT",
+        "station_id": "NT_TP081"
+    },
+    {
+        "id": 80,
+        "lat": -13.4371165,
+        "lng": 141.6888838,
+        "name": "Archer River",
+        "region": "QLD",
+        "station_id": "QLD_TP038"
+    },
+    {
+        "id": 490,
+        "lat": -34.4230838,
+        "lng": 137.9169264,
+        "name": "Ardrossan",
+        "region": "SA",
+        "station_id": "SA_TP054"
+    },
+    {
+        "id": 491,
+        "lat": -33.9163158,
+        "lng": 136.5733802,
+        "name": "Arno Bay",
+        "region": "SA",
+        "station_id": "SA_TP009"
+    },
+    {
+        "id": 386,
+        "lat": 37.2368506,
+        "lng": -121.8134114,
+        "name": "Ashburton North",
+        "region": "WA",
+        "station_id": "WA_TP025"
+    },
+    {
+        "id": 334,
+        "lat": "",
+        "lng": "",
+        "name": "Ashmore Reef",
+        "region": "WA",
+        "station_id": "WA_TP026"
+    },
+    {
+        "id": 133,
+        "lat": "",
+        "lng": "",
+        "name": "Ashmore Reef (Qld)",
+        "region": "QLD",
+        "station_id": "QLD_TP268"
+    },
+    {
+        "id": 564,
+        "lat": -11.7117622,
+        "lng": 133.2193243,
+        "name": "Aurari Bay",
+        "region": "NT",
+        "station_id": "NT_TP087"
+    },
+    {
+        "id": 134,
+        "lat": "",
+        "lng": "",
+        "name": "Aureed I.",
+        "region": "QLD",
+        "station_id": "QLD_TP269"
+    },
+    {
+        "id": 565,
+        "lat": 37.296147,
+        "lng": -122.0395477,
+        "name": "Auster Point",
+        "region": "NT",
+        "station_id": "NT_TP005"
+    },
+    {
+        "id": 387,
+        "lat": -22.0971773,
+        "lng": 114.0574353,
+        "name": "Badjirrajirra",
+        "region": "WA",
+        "station_id": "WA_TP027"
+    },
+    {
+        "id": 135,
+        "lat": "",
+        "lng": "",
+        "name": "Badu I.",
+        "region": "QLD",
+        "station_id": "QLD_TP255"
+    },
+    {
+        "id": 196,
+        "lat": "",
+        "lng": "",
+        "name": "Bailay Creek",
+        "region": "QLD",
+        "station_id": "QLD_TP212"
+    },
+    {
+        "id": 0,
+        "lat": -28.8600168,
+        "lng": 153.5592943,
+        "name": "Ballina",
+        "region": "NSW",
+        "station_id": "NSW_TP009"
+    },
+    {
+        "id": 137,
+        "lat": 37.52065996963843,
+        "lng": -121.96770459394976,
+        "name": "Bampfield Head",
+        "region": "QLD",
+        "station_id": "QLD_TP251"
+    },
+    {
+        "id": 231,
+        "lat": 37.9263737,
+        "lng": -122.0844656,
+        "name": "Barnett Patches",
+        "region": "QLD",
+        "station_id": "QLD_TP199"
+    },
+    {
+        "id": 40,
+        "lat": "",
+        "lng": "",
+        "name": "Barracouta Platform",
+        "region": "VIC",
+        "station_id": "VIC_TP015"
+    },
+    {
+        "id": 388,
+        "lat": 46.483172,
+        "lng": -82.1017855,
+        "name": "Barrow Island (Tanker Mooring)",
+        "region": "WA",
+        "station_id": "WA_TP002"
+    },
+    {
+        "id": 389,
+        "lat": 46.483172,
+        "lng": -82.1017855,
+        "name": "Barrow Island (Wapet Landing)",
+        "region": "WA",
+        "station_id": "WA_TP003"
+    },
+    {
+        "id": 41,
+        "lat": -38.2785596,
+        "lng": 144.4922806,
+        "name": "Barwon Heads",
+        "region": "VIC",
+        "station_id": "VIC_TP016"
+    },
+    {
+        "id": 523,
+        "lat": "",
+        "lng": "",
+        "name": "Bass Pyramid",
+        "region": "TAS",
+        "station_id": "TAS_TP030"
+    },
+    {
+        "id": 335,
+        "lat": 38.29598462942344,
+        "lng": -122.46648034686753,
+        "name": "Baudin I.",
+        "region": "WA",
+        "station_id": "WA_TP132"
+    },
+    {
+        "id": 464,
+        "lat": -37.4821819,
+        "lng": 140.0145676,
+        "name": "Beachport",
+        "region": "SA",
+        "station_id": "SA_TP010"
+    },
+    {
+        "id": 566,
+        "lat": "",
+        "lng": "",
+        "name": "Beagle A",
+        "region": "NT",
+        "station_id": "NT_TP059"
+    },
+    {
+        "id": 193,
+        "lat": 39.730669,
+        "lng": -84.068853,
+        "name": "Beaver Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP039"
+    },
+    {
+        "id": 336,
+        "lat": 37.3500292,
+        "lng": -122.0619412,
+        "name": "Bedford I.",
+        "region": "WA",
+        "station_id": "WA_TP123"
+    },
+    {
+        "id": 337,
+        "lat": -19.5888777,
+        "lng": 119.0994098,
+        "name": "Bedout Island",
+        "region": "WA",
+        "station_id": "WA_TP028"
+    },
+    {
+        "id": 524,
+        "lat": 47.4715082,
+        "lng": -116.8400144,
+        "name": "Bell Bay",
+        "region": "TAS",
+        "station_id": "TAS_TP016"
+    },
+    {
+        "id": 243,
+        "lat": 16.061417,
+        "lng": -86.9737485,
+        "name": "Bell Cay",
+        "region": "QLD",
+        "station_id": "QLD_TP040"
+    },
+    {
+        "id": 1,
+        "lat": -36.427271,
+        "lng": 150.0764311,
+        "name": "Bermagui",
+        "region": "NSW",
+        "station_id": "NSW_TP010"
+    },
+    {
+        "id": 525,
+        "lat": -41.874693,
+        "lng": 148.3043145,
+        "name": "Bicheno",
+        "region": "TAS",
+        "station_id": "TAS_TP028"
+    },
+    {
+        "id": 526,
+        "lat": -40.2658491,
+        "lng": 148.0982724,
+        "name": "Big River Cove",
+        "region": "TAS",
+        "station_id": "TAS_TP031"
+    },
+    {
+        "id": 244,
+        "lat": 39.0066197,
+        "lng": -120.7432443,
+        "name": "Blacksmith I.",
+        "region": "QLD",
+        "station_id": "QLD_TP182"
+    },
+    {
+        "id": 465,
+        "lat": 37.32238704273456,
+        "lng": -122.04038761998505,
+        "name": "Blanche Port",
+        "region": "SA",
+        "station_id": "SA_TP061"
+    },
+    {
+        "id": 287,
+        "lat": -34.5050213,
+        "lng": 136.2881615,
+        "name": "Bn M2, Moreton Bay",
+        "region": "QLD",
+        "station_id": "QLD_TP148"
+    },
+    {
+        "id": 654,
+        "lat": "",
+        "lng": "",
+        "name": "Bobo Island",
+        "region": "INT",
+        "station_id": "INT_TP028"
+    },
+    {
+        "id": 655,
+        "lat": 30.8424089,
+        "lng": -87.3244203,
+        "name": "Bogia",
+        "region": "INT",
+        "station_id": "INT_TP029"
+    },
+    {
+        "id": 656,
+        "lat": "",
+        "lng": "",
+        "name": "Boia Boia Waga",
+        "region": "INT",
+        "station_id": "INT_TP030"
+    },
+    {
+        "id": 338,
+        "lat": -14.4505782,
+        "lng": 129.1783163,
+        "name": "Bonaparte Gulf",
+        "region": "WA",
+        "station_id": "WA_TP029"
+    },
+    {
+        "id": 136,
+        "lat": 11.3220916,
+        "lng": -60.558479,
+        "name": "Booby Island",
+        "region": "QLD",
+        "station_id": "QLD_TP026"
+    },
+    {
+        "id": 288,
+        "lat": 37.53299653235905,
+        "lng": -121.98324120321749,
+        "name": "Boonlye Point",
+        "region": "QLD",
+        "station_id": "QLD_TP152"
+    },
+    {
+        "id": 245,
+        "lat": 37.3617845,
+        "lng": -122.0997514,
+        "name": "Border I.",
+        "region": "QLD",
+        "station_id": "QLD_TP190"
+    },
+    {
+        "id": 2,
+        "lat": -33.9668416,
+        "lng": 151.2025306,
+        "name": "Botany Bay",
+        "region": "NSW",
+        "station_id": "NSW_TP001"
+    },
+    {
+        "id": 42,
+        "lat": -38.2697704,
+        "lng": 145.4018285,
+        "name": "Bouchier Channel",
+        "region": "VIC",
+        "station_id": "VIC_TP017"
+    },
+    {
+        "id": 81,
+        "lat": -16.6588203,
+        "lng": 139.8712305,
+        "name": "Bountiful Island",
+        "region": "QLD",
+        "station_id": "QLD_TP045"
+    },
+    {
+        "id": 246,
+        "lat": -20.0131968,
+        "lng": 148.2443002,
+        "name": "Bowen",
+        "region": "QLD",
+        "station_id": "QLD_TP002"
+    },
+    {
+        "id": 82,
+        "lat": 37.4565037,
+        "lng": -121.9062614,
+        "name": "Boyd Point",
+        "region": "QLD",
+        "station_id": "QLD_TP046"
+    },
+    {
+        "id": 138,
+        "lat": -9.1417921,
+        "lng": 143.8756827,
+        "name": "Bramble Cay",
+        "region": "QLD",
+        "station_id": "QLD_TP277"
+    },
+    {
+        "id": 527,
+        "lat": 37.372669740638074,
+        "lng": -122.0158548115565,
+        "name": "Bramble Cove",
+        "region": "TAS",
+        "station_id": "TAS_TP017"
+    },
+    {
+        "id": 289,
+        "lat": "",
+        "lng": "",
+        "name": "Breaksea Spit",
+        "region": "QLD",
+        "station_id": "QLD_TP159"
+    },
+    {
+        "id": 416,
+        "lat": -34.3947096,
+        "lng": 119.3821639,
+        "name": "Bremer Bay",
+        "region": "WA",
+        "station_id": "WA_TP086"
+    },
+    {
+        "id": 290,
+        "lat": "",
+        "lng": "",
+        "name": "Bribie I., Bongaree",
+        "region": "QLD",
+        "station_id": "QLD_TP147"
+    },
+    {
+        "id": 492,
+        "lat": 50.8209222,
+        "lng": -0.140021,
+        "name": "Brighton",
+        "region": "SA",
+        "station_id": "SA_TP056"
+    },
+    {
+        "id": 291,
+        "lat": 37.68669,
+        "lng": -122.402223,
+        "name": "Brisbane Bar",
+        "region": "QLD",
+        "station_id": "QLD_TP003"
+    },
+    {
+        "id": 292,
+        "lat": "",
+        "lng": "",
+        "name": "Brisbane Port Office",
+        "region": "QLD",
+        "station_id": "QLD_TP138"
+    },
+    {
+        "id": 194,
+        "lat": "",
+        "lng": "",
+        "name": "Britomart Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP047"
+    },
+    {
+        "id": 339,
+        "lat": -17.9599097,
+        "lng": 122.2389384,
+        "name": "Broome",
+        "region": "WA",
+        "station_id": "WA_TP004"
+    },
+    {
+        "id": 3,
+        "lat": 37.5380483,
+        "lng": -122.2663032,
+        "name": "Broughton I.",
+        "region": "NSW",
+        "station_id": "NSW_TP037"
+    },
+    {
+        "id": 340,
+        "lat": "",
+        "lng": "",
+        "name": "Browse I.",
+        "region": "WA",
+        "station_id": "WA_TP126"
+    },
+    {
+        "id": 4,
+        "lat": -28.5401823,
+        "lng": 153.5479684,
+        "name": "Brunswick Heads",
+        "region": "NSW",
+        "station_id": "NSW_TP016"
+    },
+    {
+        "id": 247,
+        "lat": "",
+        "lng": "",
+        "name": "Bugatti Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP004"
+    },
+    {
+        "id": 657,
+        "lat": "",
+        "lng": "",
+        "name": "Bulavai Point",
+        "region": "INT",
+        "station_id": "INT_TP032"
+    },
+    {
+        "id": 417,
+        "lat": -33.3270558,
+        "lng": 115.6391391,
+        "name": "Bunbury",
+        "region": "WA",
+        "station_id": "WA_TP005"
+    },
+    {
+        "id": 293,
+        "lat": -24.8795251,
+        "lng": 152.3509834,
+        "name": "Bundaberg (Burnett Heads)",
+        "region": "QLD",
+        "station_id": "QLD_TP005"
+    },
+    {
+        "id": 418,
+        "lat": -42.6638459,
+        "lng": 148.133202,
+        "name": "Bunker Bay",
+        "region": "WA",
+        "station_id": "WA_TP090"
+    },
+    {
+        "id": 567,
+        "lat": "",
+        "lng": "",
+        "name": "Burge Point",
+        "region": "NT",
+        "station_id": "NT_TP057"
+    },
+    {
+        "id": 83,
+        "lat": -17.7409386,
+        "lng": 139.5479889,
+        "name": "Burketown",
+        "region": "QLD",
+        "station_id": "QLD_TP140"
+    },
+    {
+        "id": 528,
+        "lat": 37.549331248905794,
+        "lng": -121.9380196100742,
+        "name": "Burnie",
+        "region": "TAS",
+        "station_id": "TAS_TP001"
+    },
+    {
+        "id": 419,
+        "lat": -33.6490892,
+        "lng": 115.3538761,
+        "name": "Busselton",
+        "region": "WA",
+        "station_id": "WA_TP082"
+    },
+    {
+        "id": 568,
+        "lat": "",
+        "lng": "",
+        "name": "Cache Point",
+        "region": "NT",
+        "station_id": "NT_TP071"
+    },
+    {
+        "id": 569,
+        "lat": -12.0070973,
+        "lng": 135.7201894,
+        "name": "Cadell Strait",
+        "region": "NT",
+        "station_id": "NT_TP073"
+    },
+    {
+        "id": 195,
+        "lat": -16.9229133,
+        "lng": 145.7712436,
+        "name": "Cairns",
+        "region": "QLD",
+        "station_id": "QLD_TP006"
+    },
+    {
+        "id": 570,
+        "lat": "",
+        "lng": "",
+        "name": "Calder Shoal",
+        "region": "NT",
+        "station_id": "NT_TP006"
+    },
+    {
+        "id": 294,
+        "lat": "",
+        "lng": "",
+        "name": "Caloundra Head",
+        "region": "QLD",
+        "station_id": "QLD_TP150"
+    },
+    {
+        "id": 5,
+        "lat": -31.6480879,
+        "lng": 152.7966308,
+        "name": "Camden Haven",
+        "region": "NSW",
+        "station_id": "NSW_TP038"
+    },
+    {
+        "id": 6,
+        "lat": 56.954626,
+        "lng": -154.1319913,
+        "name": "Camp Cove",
+        "region": "NSW",
+        "station_id": "NSW_TP011"
+    },
+    {
+        "id": 571,
+        "lat": 40.039921,
+        "lng": -91.064856,
+        "name": "Camp Point",
+        "region": "NT",
+        "station_id": "NT_TP068"
+    },
+    {
+        "id": 572,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Arnhem",
+        "region": "NT",
+        "station_id": "NT_TP007"
+    },
+    {
+        "id": 341,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Baskerville",
+        "region": "WA",
+        "station_id": "WA_TP030"
+    },
+    {
+        "id": 573,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Beatrice",
+        "region": "NT",
+        "station_id": "NT_TP039"
+    },
+    {
+        "id": 197,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Bedford",
+        "region": "QLD",
+        "station_id": "QLD_TP216"
+    },
+    {
+        "id": 342,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Boileau",
+        "region": "WA",
+        "station_id": "WA_TP031"
+    },
+    {
+        "id": 295,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Capricorn",
+        "region": "QLD",
+        "station_id": "QLD_TP164"
+    },
+    {
+        "id": 574,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Cockburn",
+        "region": "NT",
+        "station_id": "NT_TP083"
+    },
+    {
+        "id": 575,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Crocker Offshore",
+        "region": "NT",
+        "station_id": "NT_TP008"
+    },
+    {
+        "id": 420,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Cuvier",
+        "region": "WA",
+        "station_id": "WA_TP006"
+    },
+    {
+        "id": 658,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Deliverance",
+        "region": "INT",
+        "station_id": "INT_TP033"
+    },
+    {
+        "id": 343,
+        "lat": -42.878881,
+        "lng": 173.3076783,
+        "name": "Cape Domett",
+        "region": "WA",
+        "station_id": "WA_TP032"
+    },
+    {
+        "id": 576,
+        "lat": -33.9220161,
+        "lng": 18.4195824,
+        "name": "Cape Don",
+        "region": "NT",
+        "station_id": "NT_TP040"
+    },
+    {
+        "id": 493,
+        "lat": 43.563696,
+        "lng": -70.2000467,
+        "name": "Cape Elizabeth",
+        "region": "SA",
+        "station_id": "SA_TP011"
+    },
+    {
+        "id": 208,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Ferguson",
+        "region": "QLD",
+        "station_id": "QLD_TP007"
+    },
+    {
+        "id": 198,
+        "lat": 37.3720712,
+        "lng": -121.8655133,
+        "name": "Cape Flattery",
+        "region": "QLD",
+        "station_id": "QLD_TP221"
+    },
+    {
+        "id": 577,
+        "lat": 37.4103738,
+        "lng": -121.876346,
+        "name": "Cape Ford",
+        "region": "NT",
+        "station_id": "NT_TP009"
+    },
+    {
+        "id": 199,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Grenville",
+        "region": "QLD",
+        "station_id": "QLD_TP240"
+    },
+    {
+        "id": 578,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Grey",
+        "region": "NT",
+        "station_id": "NT_TP010"
+    },
+    {
+        "id": 421,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Hamelin",
+        "region": "WA",
+        "station_id": "WA_TP070"
+    },
+    {
+        "id": 494,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Hardy",
+        "region": "SA",
+        "station_id": "SA_TP050"
+    },
+    {
+        "id": 579,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Hotham",
+        "region": "NT",
+        "station_id": "NT_TP011"
+    },
+    {
+        "id": 466,
+        "lat": -36.9455482,
+        "lng": 139.6998434,
+        "name": "Cape Jaffa",
+        "region": "SA",
+        "station_id": "SA_TP012"
+    },
+    {
+        "id": 467,
+        "lat": -35.6091788,
+        "lng": 138.1097071,
+        "name": "Cape Jervis",
+        "region": "SA",
+        "station_id": "SA_TP013"
+    },
+    {
+        "id": 390,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Legendre",
+        "region": "WA",
+        "station_id": "WA_TP035"
+    },
+    {
+        "id": 97,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Melville",
+        "region": "QLD",
+        "station_id": "QLD_TP050"
+    },
+    {
+        "id": 468,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Rabelais (Off)",
+        "region": "SA",
+        "station_id": "SA_TP065"
+    },
+    {
+        "id": 580,
+        "lat": 37.342691922721144,
+        "lng": -122.08379704955097,
+        "name": "Cape Scott (Off)",
+        "region": "NT",
+        "station_id": "NT_TP048"
+    },
+    {
+        "id": 529,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Sorell (Off)",
+        "region": "TAS",
+        "station_id": "TAS_TP041"
+    },
+    {
+        "id": 581,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Van Dieman",
+        "region": "NT",
+        "station_id": "NT_TP069"
+    },
+    {
+        "id": 344,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Voltaire (Krait Bay)",
+        "region": "WA",
+        "station_id": "WA_TP007"
+    },
+    {
+        "id": 582,
+        "lat": "",
+        "lng": "",
+        "name": "Cape Wessel",
+        "region": "NT",
+        "station_id": "NT_TP012"
+    },
+    {
+        "id": 209,
+        "lat": -18.2635998,
+        "lng": 146.0236246,
+        "name": "Cardwell",
+        "region": "QLD",
+        "station_id": "QLD_TP135"
+    },
+    {
+        "id": 248,
+        "lat": 37.348564133495856,
+        "lng": -122.02215509776333,
+        "name": "Carlisle I. (Off)",
+        "region": "QLD",
+        "station_id": "QLD_TP177"
+    },
+    {
+        "id": 422,
+        "lat": -24.8861369,
+        "lng": 113.6578021,
+        "name": "Carnarvon",
+        "region": "WA",
+        "station_id": "WA_TP008"
+    },
+    {
+        "id": 139,
+        "lat": 34.3989241,
+        "lng": -119.5183559,
+        "name": "Carpentaria",
+        "region": "QLD",
+        "station_id": "QLD_TP253"
+    },
+    {
+        "id": 345,
+        "lat": "",
+        "lng": "",
+        "name": "Carronade I.",
+        "region": "WA",
+        "station_id": "WA_TP140"
+    },
+    {
+        "id": 98,
+        "lat": "",
+        "lng": "",
+        "name": "Carter Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP218"
+    },
+    {
+        "id": 706,
+        "lat": 41.5068163,
+        "lng": -94.5192412,
+        "name": "Casey",
+        "region": "TAS",
+        "station_id": "TAS_TP009"
+    },
+    {
+        "id": 346,
+        "lat": "",
+        "lng": "",
+        "name": "Cassini I.",
+        "region": "WA",
+        "station_id": "WA_TP135"
+    },
+    {
+        "id": 583,
+        "lat": 38.6927896,
+        "lng": -90.5408484,
+        "name": "Catfish Island",
+        "region": "NT",
+        "station_id": "NT_TP013"
+    },
+    {
+        "id": 296,
+        "lat": 37.444747,
+        "lng": -87.144413,
+        "name": "Cato Island",
+        "region": "QLD",
+        "station_id": "QLD_TP051"
+    },
+    {
+        "id": 584,
+        "lat": 49.8469423,
+        "lng": -126.9319606,
+        "name": "Centre Island",
+        "region": "NT",
+        "station_id": "NT_TP014"
+    },
+    {
+        "id": 423,
+        "lat": -30.4967962,
+        "lng": 115.0668464,
+        "name": "Cervantes",
+        "region": "WA",
+        "station_id": "WA_TP095"
+    },
+    {
+        "id": 585,
+        "lat": 47.1849008,
+        "lng": -122.5796454,
+        "name": "Chambers Bay",
+        "region": "NT",
+        "station_id": "NT_TP065"
+    },
+    {
+        "id": 99,
+        "lat": 55.8112594,
+        "lng": -102.0697248,
+        "name": "Chapman Island",
+        "region": "QLD",
+        "station_id": "QLD_TP052"
+    },
+    {
+        "id": 586,
+        "lat": "",
+        "lng": "",
+        "name": "Charles Point Patches",
+        "region": "NT",
+        "station_id": "NT_TP036"
+    },
+    {
+        "id": 587,
+        "lat": "",
+        "lng": "",
+        "name": "Christine Reef",
+        "region": "NT",
+        "station_id": "NT_TP066"
+    },
+    {
+        "id": 84,
+        "lat": -28.1720054,
+        "lng": 152.9897482,
+        "name": "Christmas Creek",
+        "region": "QLD",
+        "station_id": "QLD_TP053"
+    },
+    {
+        "id": 659,
+        "lat": -10.488897,
+        "lng": 105.6394828,
+        "name": "Christmas Island",
+        "region": "WA",
+        "station_id": "WA_TP009"
+    },
+    {
+        "id": 249,
+        "lat": -20.2623244,
+        "lng": 148.94293,
+        "name": "Cid Harbour",
+        "region": "QLD",
+        "station_id": "QLD_TP188"
+    },
+    {
+        "id": 297,
+        "lat": 32.9310168,
+        "lng": -95.8713127,
+        "name": "Clews Point",
+        "region": "QLD",
+        "station_id": "QLD_TP155"
+    },
+    {
+        "id": 210,
+        "lat": "",
+        "lng": "",
+        "name": "Clump Point",
+        "region": "QLD",
+        "station_id": "QLD_TP136"
+    },
+    {
+        "id": 140,
+        "lat": 19.7296277,
+        "lng": -155.0685794,
+        "name": "Coconut Island ",
+        "region": "QLD",
+        "station_id": "QLD_TP116"
+    },
+    {
+        "id": 469,
+        "lat": "",
+        "lng": "",
+        "name": "Coffin Bay Entrance Beacon",
+        "region": "SA",
+        "station_id": "SA_TP046"
+    },
+    {
+        "id": 470,
+        "lat": -34.6218181,
+        "lng": 135.4662684,
+        "name": "Coffin Bay Jetty",
+        "region": "SA",
+        "station_id": "SA_TP047"
+    },
+    {
+        "id": 7,
+        "lat": -30.2951187,
+        "lng": 153.1176695,
+        "name": "Coffs Harbour",
+        "region": "NSW",
+        "station_id": "NSW_TP012"
+    },
+    {
+        "id": 530,
+        "lat": -42.1257583,
+        "lng": 148.2899129,
+        "name": "Coles Bay",
+        "region": "TAS",
+        "station_id": "TAS_TP037"
+    },
+    {
+        "id": 100,
+        "lat": "",
+        "lng": "",
+        "name": "Collette Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP236"
+    },
+    {
+        "id": 707,
+        "lat": "",
+        "lng": "",
+        "name": "Commonwealth Bay",
+        "region": "TAS",
+        "station_id": "TAS_TP010"
+    },
+    {
+        "id": 101,
+        "lat": -15.4744313,
+        "lng": 145.2499594,
+        "name": "Cooktown",
+        "region": "QLD",
+        "station_id": "QLD_TP054"
+    },
+    {
+        "id": 588,
+        "lat": 37.23806241569894,
+        "lng": -121.91862813547881,
+        "name": "Copeland I.",
+        "region": "NT",
+        "station_id": "NT_TP082"
+    },
+    {
+        "id": 424,
+        "lat": -23.1422447,
+        "lng": 113.7724159,
+        "name": "Coral Bay",
+        "region": "WA",
+        "station_id": "WA_TP105"
+    },
+    {
+        "id": 425,
+        "lat": 37.25545483067259,
+        "lng": -121.82391530439713,
+        "name": "Cosy Corner",
+        "region": "WA",
+        "station_id": "WA_TP040"
+    },
+    {
+        "id": 426,
+        "lat": -33.851332,
+        "lng": 115.1024694,
+        "name": "Cowaramup",
+        "region": "WA",
+        "station_id": "WA_TP089"
+    },
+    {
+        "id": 43,
+        "lat": -38.456847,
+        "lng": 145.2255957,
+        "name": "Cowes Jetty",
+        "region": "VIC",
+        "station_id": "VIC_TP018"
+    },
+    {
+        "id": 220,
+        "lat": -17.6959185,
+        "lng": 146.1100797,
+        "name": "Cowley Beach",
+        "region": "QLD",
+        "station_id": "QLD_TP202"
+    },
+    {
+        "id": 85,
+        "lat": 30.3905386,
+        "lng": -81.5868639,
+        "name": "Crab Island",
+        "region": "QLD",
+        "station_id": "QLD_TP055"
+    },
+    {
+        "id": 251,
+        "lat": "",
+        "lng": "",
+        "name": "Creal Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP056"
+    },
+    {
+        "id": 250,
+        "lat": "",
+        "lng": "",
+        "name": "Credlin Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP180"
+    },
+    {
+        "id": 102,
+        "lat": "",
+        "lng": "",
+        "name": "Creech Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP227"
+    },
+    {
+        "id": 8,
+        "lat": "",
+        "lng": "",
+        "name": "Crookhaven Heads",
+        "region": "NSW",
+        "station_id": "NSW_TP027"
+    },
+    {
+        "id": 9,
+        "lat": -31.8402355,
+        "lng": 152.7507282,
+        "name": "Crowdy Head",
+        "region": "NSW",
+        "station_id": "NSW_TP017"
+    },
+    {
+        "id": 211,
+        "lat": -15.689517,
+        "lng": 145.8018522,
+        "name": "Cruiser Passage",
+        "region": "QLD",
+        "station_id": "QLD_TP057"
+    },
+    {
+        "id": 86,
+        "lat": 37.273698,
+        "lng": -121.9694094,
+        "name": "Cullen Point",
+        "region": "QLD",
+        "station_id": "QLD_TP058"
+    },
+    {
+        "id": 531,
+        "lat": 37.343650480896045,
+        "lng": -121.99061622387134,
+        "name": "Curtis I.",
+        "region": "TAS",
+        "station_id": "TAS_TP044"
+    },
+    {
+        "id": 589,
+        "lat": 37.79407030458288,
+        "lng": -122.21423250491836,
+        "name": "Cuthbert Point",
+        "region": "NT",
+        "station_id": "NT_TP015"
+    },
+    {
+        "id": 591,
+        "lat": "",
+        "lng": "",
+        "name": "D&apos;Urville Point",
+        "region": "NT",
+        "station_id": "NT_TP080"
+    },
+    {
+        "id": 391,
+        "lat": -20.662133,
+        "lng": 116.7107251,
+        "name": "Dampier (King Bay)",
+        "region": "WA",
+        "station_id": "WA_TP011"
+    },
+    {
+        "id": 10,
+        "lat": "",
+        "lng": "",
+        "name": "Dangar I.",
+        "region": "NSW",
+        "station_id": "NSW_TP034"
+    },
+    {
+        "id": 532,
+        "lat": 34.300223,
+        "lng": -79.87599,
+        "name": "Darlington Jetty",
+        "region": "TAS",
+        "station_id": "TAS_TP002"
+    },
+    {
+        "id": 141,
+        "lat": "",
+        "lng": "",
+        "name": "Darnley I. Barge",
+        "region": "QLD",
+        "station_id": "QLD_TP274"
+    },
+    {
+        "id": 660,
+        "lat": 24.016043,
+        "lng": 85.563495,
+        "name": "Daru",
+        "region": "INT",
+        "station_id": "INT_TP034"
+    },
+    {
+        "id": 590,
+        "lat": -12.4620214,
+        "lng": 130.8426305,
+        "name": "Darwin",
+        "region": "NT",
+        "station_id": "NT_TP001"
+    },
+    {
+        "id": 144,
+        "lat": -9.4120425,
+        "lng": 142.5378005,
+        "name": "Dauan Island",
+        "region": "QLD",
+        "station_id": "QLD_TP144"
+    },
+    {
+        "id": 708,
+        "lat": 38.5462903,
+        "lng": -121.7466799,
+        "name": "Davis",
+        "region": "TAS",
+        "station_id": "TAS_TP011"
+    },
+    {
+        "id": 427,
+        "lat": "",
+        "lng": "",
+        "name": "Daw I.",
+        "region": "WA",
+        "station_id": "WA_TP083"
+    },
+    {
+        "id": 661,
+        "lat": "",
+        "lng": "",
+        "name": "Dedele Point",
+        "region": "INT",
+        "station_id": "INT_TP035"
+    },
+    {
+        "id": 347,
+        "lat": -15.3354188,
+        "lng": 124.198945,
+        "name": "Degerando Island",
+        "region": "WA",
+        "station_id": "WA_TP042"
+    },
+    {
+        "id": 428,
+        "lat": -25.9277196,
+        "lng": 113.5361387,
+        "name": "Denham",
+        "region": "WA",
+        "station_id": "WA_TP012"
+    },
+    {
+        "id": 392,
+        "lat": "",
+        "lng": "",
+        "name": "Depuch I.",
+        "region": "WA",
+        "station_id": "WA_TP116"
+    },
+    {
+        "id": 348,
+        "lat": 52.9230042,
+        "lng": -1.4747453,
+        "name": "Derby",
+        "region": "WA",
+        "station_id": "WA_TP043"
+    },
+    {
+        "id": 533,
+        "lat": -41.1771006,
+        "lng": 146.3510409,
+        "name": "Devonport",
+        "region": "TAS",
+        "station_id": "TAS_TP005"
+    },
+    {
+        "id": 349,
+        "lat": 45.2179188,
+        "lng": -112.6355898,
+        "name": "Dillon Shoal",
+        "region": "WA",
+        "station_id": "WA_TP044"
+    },
+    {
+        "id": 232,
+        "lat": "",
+        "lng": "",
+        "name": "Dip Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP198"
+    },
+    {
+        "id": 252,
+        "lat": -33.8758435,
+        "lng": 151.2419895,
+        "name": "Double Bay",
+        "region": "QLD",
+        "station_id": "QLD_TP186"
+    },
+    {
+        "id": 662,
+        "lat": "",
+        "lng": "",
+        "name": "Dregerhafen",
+        "region": "INT",
+        "station_id": "INT_TP012"
+    },
+    {
+        "id": 142,
+        "lat": "",
+        "lng": "",
+        "name": "Dugong I.",
+        "region": "QLD",
+        "station_id": "QLD_TP260"
+    },
+    {
+        "id": 143,
+        "lat": "",
+        "lng": "",
+        "name": "Dungeness Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP271"
+    },
+    {
+        "id": 212,
+        "lat": -17.9453926,
+        "lng": 146.1591187,
+        "name": "Dunk Island",
+        "region": "QLD",
+        "station_id": "QLD_TP062"
+    },
+    {
+        "id": 663,
+        "lat": -38.2859803,
+        "lng": 177.8516948,
+        "name": "East Cape",
+        "region": "INT",
+        "station_id": "INT_TP048"
+    },
+    {
+        "id": 145,
+        "lat": 18.2850657,
+        "lng": -63.2365715,
+        "name": "East Cay",
+        "region": "QLD",
+        "station_id": "QLD_TP117"
+    },
+    {
+        "id": 253,
+        "lat": "",
+        "lng": "",
+        "name": "East Diamond I.",
+        "region": "QLD",
+        "station_id": "QLD_TP283"
+    },
+    {
+        "id": 592,
+        "lat": 44.4684866,
+        "lng": -89.5633369,
+        "name": "East Field Island",
+        "region": "NT",
+        "station_id": "NT_TP016"
+    },
+    {
+        "id": 227,
+        "lat": 48.241787,
+        "lng": -116.296794,
+        "name": "East Hope I.",
+        "region": "QLD",
+        "station_id": "QLD_TP211"
+    },
+    {
+        "id": 534,
+        "lat": "",
+        "lng": "",
+        "name": "East Moncoeur I.",
+        "region": "TAS",
+        "station_id": "TAS_TP043"
+    },
+    {
+        "id": 103,
+        "lat": "",
+        "lng": "",
+        "name": "East Petherbridge I.",
+        "region": "QLD",
+        "station_id": "QLD_TP219"
+    },
+    {
+        "id": 254,
+        "lat": "",
+        "lng": "",
+        "name": "East Repulse I.",
+        "region": "QLD",
+        "station_id": "QLD_TP181"
+    },
+    {
+        "id": 429,
+        "lat": -28.759789,
+        "lng": 113.8419113,
+        "name": "Easter Group",
+        "region": "WA",
+        "station_id": "WA_TP099"
+    },
+    {
+        "id": 350,
+        "lat": "",
+        "lng": "",
+        "name": "Echo Shoal",
+        "region": "WA",
+        "station_id": "WA_TP079"
+    },
+    {
+        "id": 221,
+        "lat": "",
+        "lng": "",
+        "name": "Eddy Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP203"
+    },
+    {
+        "id": 535,
+        "lat": 37.53504135709917,
+        "lng": -122.24578296158552,
+        "name": "Eddystone Point",
+        "region": "TAS",
+        "station_id": "TAS_TP034"
+    },
+    {
+        "id": 11,
+        "lat": 37.3052717,
+        "lng": -121.9574721,
+        "name": "Eden",
+        "region": "NSW",
+        "station_id": "NSW_TP002"
+    },
+    {
+        "id": 104,
+        "lat": 37.7060591,
+        "lng": -122.0197977,
+        "name": "Eden Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP223"
+    },
+    {
+        "id": 298,
+        "lat": "",
+        "lng": "",
+        "name": "Elbow Point",
+        "region": "QLD",
+        "station_id": "QLD_TP151"
+    },
+    {
+        "id": 593,
+        "lat": -12.0198349,
+        "lng": 135.5663374,
+        "name": "Elcho Island",
+        "region": "NT",
+        "station_id": "NT_TP018"
+    },
+    {
+        "id": 664,
+        "lat": -5.5020845,
+        "lng": 149.7311675,
+        "name": "Eleonora Bay",
+        "region": "INT",
+        "station_id": "INT_TP036"
+    },
+    {
+        "id": 44,
+        "lat": 59.1569564,
+        "lng": -151.8286142,
+        "name": "Elizabeth Island",
+        "region": "VIC",
+        "station_id": "VIC_TP019"
+    },
+    {
+        "id": 299,
+        "lat": -35.5124079,
+        "lng": 174.4940681,
+        "name": "Elizabeth Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP285"
+    },
+    {
+        "id": 300,
+        "lat": -24.9158302,
+        "lng": 152.4935877,
+        "name": "Elliott Heads",
+        "region": "QLD",
+        "station_id": "QLD_TP154"
+    },
+    {
+        "id": 471,
+        "lat": -33.6485274,
+        "lng": 134.8893044,
+        "name": "Elliston",
+        "region": "SA",
+        "station_id": "SA_TP014"
+    },
+    {
+        "id": 255,
+        "lat": "",
+        "lng": "",
+        "name": "Elusive Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP174"
+    },
+    {
+        "id": 105,
+        "lat": "",
+        "lng": "",
+        "name": "Endeavour River North",
+        "region": "QLD",
+        "station_id": "QLD_TP065"
+    },
+    {
+        "id": 594,
+        "lat": "",
+        "lng": "",
+        "name": "Entrance I.",
+        "region": "NT",
+        "station_id": "NT_TP089"
+    },
+    {
+        "id": 430,
+        "lat": -33.8607809,
+        "lng": 121.8902895,
+        "name": "Esperance",
+        "region": "WA",
+        "station_id": "WA_TP013"
+    },
+    {
+        "id": 12,
+        "lat": -33.5333934,
+        "lng": 151.3108584,
+        "name": "Ettalong",
+        "region": "NSW",
+        "station_id": "NSW_TP035"
+    },
+    {
+        "id": 431,
+        "lat": "",
+        "lng": "",
+        "name": "Eucla",
+        "region": "WA",
+        "station_id": "WA_TP045"
+    },
+    {
+        "id": 213,
+        "lat": "",
+        "lng": "",
+        "name": "Euston Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP066"
+    },
+    {
+        "id": 13,
+        "lat": -29.1159989,
+        "lng": 153.4335198,
+        "name": "Evans Head",
+        "region": "NSW",
+        "station_id": "NSW_TP013"
+    },
+    {
+        "id": 595,
+        "lat": "",
+        "lng": "",
+        "name": "Evans Shoal",
+        "region": "NT",
+        "station_id": "NT_TP047"
+    },
+    {
+        "id": 393,
+        "lat": -21.9315947,
+        "lng": 114.1240004,
+        "name": "Exmouth",
+        "region": "WA",
+        "station_id": "WA_TP014"
+    },
+    {
+        "id": 394,
+        "lat": 41.50834,
+        "lng": -73.977561,
+        "name": "Fairway Beacon",
+        "region": "WA",
+        "station_id": "WA_TP046"
+    },
+    {
+        "id": 536,
+        "lat": 41.551572,
+        "lng": -70.618151,
+        "name": "Falmouth",
+        "region": "TAS",
+        "station_id": "TAS_TP036"
+    },
+    {
+        "id": 596,
+        "lat": 37.3838888,
+        "lng": -121.8322904,
+        "name": "Fenton Patches",
+        "region": "NT",
+        "station_id": "NT_TP061"
+    },
+    {
+        "id": 106,
+        "lat": 58.4668353,
+        "lng": -103.2495518,
+        "name": "Fife Island",
+        "region": "QLD",
+        "station_id": "QLD_TP067"
+    },
+    {
+        "id": 597,
+        "lat": -45.4010243,
+        "lng": 170.8961159,
+        "name": "Fish Reef",
+        "region": "NT",
+        "station_id": "NT_TP054"
+    },
+    {
+        "id": 214,
+        "lat": -16.9314097,
+        "lng": 145.9886212,
+        "name": "Fitzroy Island",
+        "region": "QLD",
+        "station_id": "QLD_TP068"
+    },
+    {
+        "id": 432,
+        "lat": -42.9858215,
+        "lng": 147.8467071,
+        "name": "Flinders Bay",
+        "region": "WA",
+        "station_id": "WA_TP088"
+    },
+    {
+        "id": 45,
+        "lat": "",
+        "lng": "",
+        "name": "Flinders Jetty",
+        "region": "VIC",
+        "station_id": "VIC_TP020"
+    },
+    {
+        "id": 215,
+        "lat": "",
+        "lng": "",
+        "name": "Flinders Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP069"
+    },
+    {
+        "id": 14,
+        "lat": -32.1802676,
+        "lng": 152.5103505,
+        "name": "Forster",
+        "region": "NSW",
+        "station_id": "NSW_TP018"
+    },
+    {
+        "id": 395,
+        "lat": "",
+        "lng": "",
+        "name": "Fortescue Road",
+        "region": "WA",
+        "station_id": "WA_TP115"
+    },
+    {
+        "id": 495,
+        "lat": -33.7249611,
+        "lng": 136.9358917,
+        "name": "Franklin Harbor",
+        "region": "SA",
+        "station_id": "SA_TP016"
+    },
+    {
+        "id": 496,
+        "lat": "",
+        "lng": "",
+        "name": "Franklin Harbor Entrance Beacon",
+        "region": "SA",
+        "station_id": "SA_TP049"
+    },
+    {
+        "id": 146,
+        "lat": -33.4416147,
+        "lng": 151.3435249,
+        "name": "Frederick Point",
+        "region": "QLD",
+        "station_id": "QLD_TP118"
+    },
+    {
+        "id": 433,
+        "lat": 38.7527491,
+        "lng": -121.3424313,
+        "name": "Fremantle",
+        "region": "WA",
+        "station_id": "WA_TP015"
+    },
+    {
+        "id": 665,
+        "lat": -8.4958845,
+        "lng": 179.194299,
+        "name": "Funafuti",
+        "region": "INT",
+        "station_id": "INT_TP026"
+    },
+    {
+        "id": 46,
+        "lat": "",
+        "lng": "",
+        "name": "Gabo I.",
+        "region": "VIC",
+        "station_id": "VIC_TP039"
+    },
+    {
+        "id": 256,
+        "lat": -21.9804144,
+        "lng": 152.4728411,
+        "name": "Gannet Cay",
+        "region": "QLD",
+        "station_id": "QLD_TP070"
+    },
+    {
+        "id": 537,
+        "lat": 25.1688055,
+        "lng": -80.3718561,
+        "name": "Garden Cove",
+        "region": "TAS",
+        "station_id": "TAS_TP046"
+    },
+    {
+        "id": 301,
+        "lat": "",
+        "lng": "",
+        "name": "Gatcombe Head",
+        "region": "QLD",
+        "station_id": "QLD_TP071"
+    },
+    {
+        "id": 47,
+        "lat": -38.1465317,
+        "lng": 144.3581252,
+        "name": "Geelong",
+        "region": "VIC",
+        "station_id": "VIC_TP005"
+    },
+    {
+        "id": 434,
+        "lat": -28.7741671,
+        "lng": 114.6130361,
+        "name": "Geraldton",
+        "region": "WA",
+        "station_id": "WA_TP016"
+    },
+    {
+        "id": 302,
+        "lat": -23.8402584,
+        "lng": 151.2538329,
+        "name": "Gladstone",
+        "region": "QLD",
+        "station_id": "QLD_TP008"
+    },
+    {
+        "id": 497,
+        "lat": 39.2564256,
+        "lng": -77.0296549,
+        "name": "Glenelg",
+        "region": "SA",
+        "station_id": "SA_TP017"
+    },
+    {
+        "id": 598,
+        "lat": -12.1811985,
+        "lng": 131.0783131,
+        "name": "Glyde Point",
+        "region": "NT",
+        "station_id": "NT_TP064"
+    },
+    {
+        "id": 666,
+        "lat": -7.7753597,
+        "lng": 144.2240582,
+        "name": "Goaribari Island",
+        "region": "INT",
+        "station_id": "INT_TP037"
+    },
+    {
+        "id": 303,
+        "lat": 38.274031473783204,
+        "lng": -122.02167309457477,
+        "name": "Gold Coast Operations Base",
+        "region": "QLD",
+        "station_id": "QLD_TP009"
+    },
+    {
+        "id": 304,
+        "lat": "",
+        "lng": "",
+        "name": "Gold Coast Sand Bypass Jetty",
+        "region": "QLD",
+        "station_id": "QLD_TP010"
+    },
+    {
+        "id": 305,
+        "lat": -27.9592238,
+        "lng": 153.4185176,
+        "name": "Gold Coast Seaway",
+        "region": "QLD",
+        "station_id": "QLD_TP011"
+    },
+    {
+        "id": 599,
+        "lat": "",
+        "lng": "",
+        "name": "Goodrich Bank",
+        "region": "NT",
+        "station_id": "NT_TP050"
+    },
+    {
+        "id": 147,
+        "lat": 37.444747,
+        "lng": -87.144413,
+        "name": "Goods Island",
+        "region": "QLD",
+        "station_id": "QLD_TP027"
+    },
+    {
+        "id": 233,
+        "lat": "",
+        "lng": "",
+        "name": "Goold I.",
+        "region": "QLD",
+        "station_id": "QLD_TP200"
+    },
+    {
+        "id": 435,
+        "lat": "",
+        "lng": "",
+        "name": "Goose I. Bay",
+        "region": "WA",
+        "station_id": "WA_TP084"
+    },
+    {
+        "id": 15,
+        "lat": 35.3040636,
+        "lng": -119.0797038,
+        "name": "Gosford",
+        "region": "NSW",
+        "station_id": "NSW_TP036"
+    },
+    {
+        "id": 600,
+        "lat": 37.3386041,
+        "lng": -122.06858,
+        "name": "Grant I.",
+        "region": "NT",
+        "station_id": "NT_TP086"
+    },
+    {
+        "id": 538,
+        "lat": -41.8077668,
+        "lng": 145.0351237,
+        "name": "Granville Harbour",
+        "region": "TAS",
+        "station_id": "TAS_TP018"
+    },
+    {
+        "id": 216,
+        "lat": 38.2015809,
+        "lng": -122.3044876,
+        "name": "Green Island",
+        "region": "QLD",
+        "station_id": "QLD_TP073"
+    },
+    {
+        "id": 472,
+        "lat": 51.3788923,
+        "lng": -57.1909182,
+        "name": "Greenly Island",
+        "region": "SA",
+        "station_id": "SA_TP018"
+    },
+    {
+        "id": 601,
+        "lat": -11.5267372,
+        "lng": 136.4173584,
+        "name": "Guluwuru Island",
+        "region": "NT",
+        "station_id": "NT_TP019"
+    },
+    {
+        "id": 351,
+        "lat": "",
+        "lng": "",
+        "name": "Guy Point",
+        "region": "WA",
+        "station_id": "WA_TP141"
+    },
+    {
+        "id": 148,
+        "lat": 37.5745642,
+        "lng": -122.041957,
+        "name": "Half Way I.",
+        "region": "QLD",
+        "station_id": "QLD_TP261"
+    },
+    {
+        "id": 352,
+        "lat": 37.319142,
+        "lng": -122.0221282,
+        "name": "Hall Point",
+        "region": "WA",
+        "station_id": "WA_TP128"
+    },
+    {
+        "id": 107,
+        "lat": "",
+        "lng": "",
+        "name": "Ham Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP229"
+    },
+    {
+        "id": 436,
+        "lat": -26.4099234,
+        "lng": 114.4605617,
+        "name": "Hamelin Pool",
+        "region": "WA",
+        "station_id": "WA_TP047"
+    },
+    {
+        "id": 190,
+        "lat": -6.7835924,
+        "lng": 39.332516,
+        "name": "Hammond Rock",
+        "region": "stream_QLD",
+        "station_id": "stream_QLD_TS001"
+    },
+    {
+        "id": 602,
+        "lat": "",
+        "lng": "",
+        "name": "Hancox Shoal",
+        "region": "NT",
+        "station_id": "NT_TP062"
+    },
+    {
+        "id": 108,
+        "lat": 37.93777601988236,
+        "lng": -122.09976456074384,
+        "name": "Hannibal I.",
+        "region": "QLD",
+        "station_id": "QLD_TP238"
+    },
+    {
+        "id": 16,
+        "lat": -31.8758046,
+        "lng": 152.7128182,
+        "name": "Harrington Inlet",
+        "region": "NSW",
+        "station_id": "NSW_TP019"
+    },
+    {
+        "id": 149,
+        "lat": 37.3196589,
+        "lng": -122.3010611,
+        "name": "Harrington Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP249"
+    },
+    {
+        "id": 109,
+        "lat": 40.1596716,
+        "lng": -105.8514425,
+        "name": "Harvey Island",
+        "region": "QLD",
+        "station_id": "QLD_TP074"
+    },
+    {
+        "id": 257,
+        "lat": "",
+        "lng": "",
+        "name": "Haslewood I.",
+        "region": "QLD",
+        "station_id": "QLD_TP191"
+    },
+    {
+        "id": 396,
+        "lat": 37.2514182,
+        "lng": -122.0128861,
+        "name": "Hauy Island",
+        "region": "WA",
+        "station_id": "WA_TP048"
+    },
+    {
+        "id": 603,
+        "lat": 37.3470895,
+        "lng": -122.0197393,
+        "name": "Hawk I.",
+        "region": "NT",
+        "station_id": "NT_TP041"
+    },
+    {
+        "id": 150,
+        "lat": 37.53775431827803,
+        "lng": -122.26788135685476,
+        "name": "Hawkesbury I.",
+        "region": "QLD",
+        "station_id": "QLD_TP259"
+    },
+    {
+        "id": 258,
+        "lat": -21.295034,
+        "lng": 149.2902393,
+        "name": "Hay Point",
+        "region": "QLD",
+        "station_id": "QLD_TP012"
+    },
+    {
+        "id": 259,
+        "lat": 37.3653441,
+        "lng": -122.0830006,
+        "name": "Hayman I.",
+        "region": "QLD",
+        "station_id": "QLD_TP184"
+    },
+    {
+        "id": 709,
+        "lat": 50.8282527,
+        "lng": -127.5126118,
+        "name": "Heard Island",
+        "region": "TAS",
+        "station_id": "TAS_TP015"
+    },
+    {
+        "id": 151,
+        "lat": 37.339657911157566,
+        "lng": -121.85473133614302,
+        "name": "Herald Camp",
+        "region": "QLD",
+        "station_id": "QLD_TP250"
+    },
+    {
+        "id": 306,
+        "lat": -23.4426003,
+        "lng": 151.9150085,
+        "name": "Heron Island",
+        "region": "QLD",
+        "station_id": "QLD_TP075"
+    },
+    {
+        "id": 353,
+        "lat": 37.2087959,
+        "lng": -121.8228133,
+        "name": "Heywood Shoal",
+        "region": "WA",
+        "station_id": "WA_TP138"
+    },
+    {
+        "id": 110,
+        "lat": 37.4022593,
+        "lng": -76.8947898,
+        "name": "Hicks Island",
+        "region": "QLD",
+        "station_id": "QLD_TP076"
+    },
+    {
+        "id": 200,
+        "lat": 37.44025536819696,
+        "lng": -122.15730706298557,
+        "name": "High I.",
+        "region": "QLD",
+        "station_id": "QLD_TP207"
+    },
+    {
+        "id": 260,
+        "lat": -21.9566533,
+        "lng": 150.6878662,
+        "name": "High Peak Island",
+        "region": "QLD",
+        "station_id": "QLD_TP077"
+    },
+    {
+        "id": 437,
+        "lat": -31.8084547,
+        "lng": 115.7437414,
+        "name": "Hillarys",
+        "region": "WA",
+        "station_id": "WA_TP017"
+    },
+    {
+        "id": 539,
+        "lat": -42.8826254,
+        "lng": 147.3257119,
+        "name": "Hobart",
+        "region": "TAS",
+        "station_id": "TAS_TP003"
+    },
+    {
+        "id": 540,
+        "lat": 37.402124868709635,
+        "lng": -121.96057795198915,
+        "name": "Hogan I.",
+        "region": "TAS",
+        "station_id": "TAS_TP045"
+    },
+    {
+        "id": 605,
+        "lat": "",
+        "lng": "",
+        "name": "Hogmany Shoal",
+        "region": "NT",
+        "station_id": "NT_TP020"
+    },
+    {
+        "id": 201,
+        "lat": "",
+        "lng": "",
+        "name": "Holmes Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP214"
+    },
+    {
+        "id": 667,
+        "lat": 63.4270499,
+        "lng": -20.2693172,
+        "name": "Home Island",
+        "region": "WA",
+        "station_id": "WA_TP010"
+    },
+    {
+        "id": 668,
+        "lat": -9.4308284,
+        "lng": 159.9547026,
+        "name": "Honiara",
+        "region": "INT",
+        "station_id": "INT_TP023"
+    },
+    {
+        "id": 261,
+        "lat": "",
+        "lng": "",
+        "name": "Hook I.",
+        "region": "QLD",
+        "station_id": "QLD_TP189"
+    },
+    {
+        "id": 604,
+        "lat": -11.4214403,
+        "lng": 136.4925756,
+        "name": "Hopeful Bay",
+        "region": "NT",
+        "station_id": "NT_TP092"
+    },
+    {
+        "id": 48,
+        "lat": "",
+        "lng": "",
+        "name": "Hovell Pile",
+        "region": "VIC",
+        "station_id": "VIC_TP006"
+    },
+    {
+        "id": 17,
+        "lat": -35.0388349,
+        "lng": 150.6709272,
+        "name": "Huskisson",
+        "region": "NSW",
+        "station_id": "NSW_TP031"
+    },
+    {
+        "id": 606,
+        "lat": 40.9823272,
+        "lng": -73.7890241,
+        "name": "Hutchison River",
+        "region": "NT",
+        "station_id": "NT_TP021"
+    },
+    {
+        "id": 354,
+        "lat": 37.5682484,
+        "lng": -122.2844862,
+        "name": "Imperieuse Reef",
+        "region": "WA",
+        "station_id": "WA_TP117"
+    },
+    {
+        "id": 541,
+        "lat": -43.0505821,
+        "lng": 147.7746595,
+        "name": "Impression Bay",
+        "region": "TAS",
+        "station_id": "TAS_TP038"
+    },
+    {
+        "id": 152,
+        "lat": "",
+        "lng": "",
+        "name": "Ince Point",
+        "region": "QLD",
+        "station_id": "QLD_TP028"
+    },
+    {
+        "id": 355,
+        "lat": -12.6729862,
+        "lng": 132.8364641,
+        "name": "Jabiru",
+        "region": "WA",
+        "station_id": "WA_TP131"
+    },
+    {
+        "id": 669,
+        "lat": 35.9118434,
+        "lng": -95.3118391,
+        "name": "Jackson Bay",
+        "region": "INT",
+        "station_id": "INT_TP008"
+    },
+    {
+        "id": 234,
+        "lat": "",
+        "lng": "",
+        "name": "Jaguar Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP195"
+    },
+    {
+        "id": 356,
+        "lat": -14.1537199,
+        "lng": 126.2362645,
+        "name": "Jar Island",
+        "region": "WA",
+        "station_id": "WA_TP081"
+    },
+    {
+        "id": 18,
+        "lat": -35.1288692,
+        "lng": 150.7061469,
+        "name": "Jervis Bay",
+        "region": "NSW",
+        "station_id": "NSW_TP014"
+    },
+    {
+        "id": 235,
+        "lat": "",
+        "lng": "",
+        "name": "John Brewer Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP197"
+    },
+    {
+        "id": 307,
+        "lat": "",
+        "lng": "",
+        "name": "Johnson Patch - Nw",
+        "region": "QLD",
+        "station_id": "QLD_TP169"
+    },
+    {
+        "id": 607,
+        "lat": 37.34157167642671,
+        "lng": -122.06623642599769,
+        "name": "Jones Point",
+        "region": "NT",
+        "station_id": "NT_TP022"
+    },
+    {
+        "id": 111,
+        "lat": "",
+        "lng": "",
+        "name": "Jubilee Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP230"
+    },
+    {
+        "id": 438,
+        "lat": -30.3054617,
+        "lng": 115.0388295,
+        "name": "Jurien Bay",
+        "region": "WA",
+        "station_id": "WA_TP049"
+    },
+    {
+        "id": 153,
+        "lat": "",
+        "lng": "",
+        "name": "Kai-Maituine Rf - Ne",
+        "region": "QLD",
+        "station_id": "QLD_TP270"
+    },
+    {
+        "id": 439,
+        "lat": -27.7104451,
+        "lng": 114.1646059,
+        "name": "Kalbarri",
+        "region": "WA",
+        "station_id": "WA_TP100"
+    },
+    {
+        "id": 670,
+        "lat": -17.2649009,
+        "lng": -179.1513177,
+        "name": "Kanawea Island",
+        "region": "INT",
+        "station_id": "INT_TP038"
+    },
+    {
+        "id": 308,
+        "lat": "",
+        "lng": "",
+        "name": "Karamea Bank",
+        "region": "QLD",
+        "station_id": "QLD_TP168"
+    },
+    {
+        "id": 357,
+        "lat": -16.3771882,
+        "lng": 123.0281261,
+        "name": "Karrakatta Bay",
+        "region": "WA",
+        "station_id": "WA_TP122"
+    },
+    {
+        "id": 87,
+        "lat": -17.4875523,
+        "lng": 140.8369845,
+        "name": "Karumba",
+        "region": "QLD",
+        "station_id": "QLD_TP013"
+    },
+    {
+        "id": 671,
+        "lat": "",
+        "lng": "",
+        "name": "Kavieng",
+        "region": "INT",
+        "station_id": "INT_TP016"
+    },
+    {
+        "id": 112,
+        "lat": "",
+        "lng": "",
+        "name": "Kay Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP234"
+    },
+    {
+        "id": 236,
+        "lat": "",
+        "lng": "",
+        "name": "Kennedy Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP193"
+    },
+    {
+        "id": 672,
+        "lat": -35.413042,
+        "lng": 144.6662472,
+        "name": "Kieta",
+        "region": "INT",
+        "station_id": "INT_TP039"
+    },
+    {
+        "id": 542,
+        "lat": 38.063963,
+        "lng": -121.4356201,
+        "name": "King Island (Grassy)",
+        "region": "TAS",
+        "station_id": "TAS_TP023"
+    },
+    {
+        "id": 19,
+        "lat": -28.2563065,
+        "lng": 153.5780704,
+        "name": "Kingscliff",
+        "region": "NSW",
+        "station_id": "NSW_TP029"
+    },
+    {
+        "id": 473,
+        "lat": -35.6529317,
+        "lng": 137.6343935,
+        "name": "Kingscote",
+        "region": "SA",
+        "station_id": "SA_TP062"
+    },
+    {
+        "id": 474,
+        "lat": 41.926531,
+        "lng": -73.995912,
+        "name": "Kingston",
+        "region": "SA",
+        "station_id": "SA_TP055"
+    },
+    {
+        "id": 154,
+        "lat": "",
+        "lng": "",
+        "name": "Kirkcaldie Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP256"
+    },
+    {
+        "id": 20,
+        "lat": "",
+        "lng": "",
+        "name": "Ku-Ring-Gai Y.C.",
+        "region": "NSW",
+        "station_id": "NSW_TP033"
+    },
+    {
+        "id": 155,
+        "lat": -10.233851,
+        "lng": 142.2169433,
+        "name": "Kubin (Moa Island)",
+        "region": "QLD",
+        "station_id": "QLD_TP080"
+    },
+    {
+        "id": 358,
+        "lat": -14.7505388,
+        "lng": 128.3131409,
+        "name": "Lacrosse Island",
+        "region": "WA",
+        "station_id": "WA_TP050"
+    },
+    {
+        "id": 543,
+        "lat": -40.2107559,
+        "lng": 148.2395352,
+        "name": "Lady Barron",
+        "region": "TAS",
+        "station_id": "TAS_TP032"
+    },
+    {
+        "id": 309,
+        "lat": "",
+        "lng": "",
+        "name": "Lady Elliot I.",
+        "region": "QLD",
+        "station_id": "QLD_TP158"
+    },
+    {
+        "id": 310,
+        "lat": "",
+        "lng": "",
+        "name": "Lady Musgrave I.",
+        "region": "QLD",
+        "station_id": "QLD_TP157"
+    },
+    {
+        "id": 673,
+        "lat": -6.7225479,
+        "lng": 146.995426,
+        "name": "Lae",
+        "region": "INT",
+        "station_id": "INT_TP013"
+    },
+    {
+        "id": 359,
+        "lat": -18.6394094,
+        "lng": 121.722284,
+        "name": "Lagrange Bay",
+        "region": "WA",
+        "station_id": "WA_TP119"
+    },
+    {
+        "id": 262,
+        "lat": -20.6104869,
+        "lng": 148.6696359,
+        "name": "Laguna Quays",
+        "region": "QLD",
+        "station_id": "QLD_TP137"
+    },
+    {
+        "id": 49,
+        "lat": -37.8778245,
+        "lng": 147.994206,
+        "name": "Lakes Entrance (Outer)",
+        "region": "VIC",
+        "station_id": "VIC_TP001"
+    },
+    {
+        "id": 360,
+        "lat": 37.39622,
+        "lng": -122.2033657,
+        "name": "Laminaria",
+        "region": "WA",
+        "station_id": "WA_TP133"
+    },
+    {
+        "id": 440,
+        "lat": -31.0188017,
+        "lng": 115.3320355,
+        "name": "Lancelin",
+        "region": "WA",
+        "station_id": "WA_TP094"
+    },
+    {
+        "id": 397,
+        "lat": "",
+        "lng": "",
+        "name": "Large I.",
+        "region": "WA",
+        "station_id": "WA_TP112"
+    },
+    {
+        "id": 674,
+        "lat": "",
+        "lng": "",
+        "name": "Lata Wharf",
+        "region": "INT",
+        "station_id": "INT_TP050"
+    },
+    {
+        "id": 544,
+        "lat": -41.4339305,
+        "lng": 147.1385175,
+        "name": "Launceston",
+        "region": "TAS",
+        "station_id": "TAS_TP019"
+    },
+    {
+        "id": 675,
+        "lat": -17.6102288,
+        "lng": 177.4558304,
+        "name": "Lautoka",
+        "region": "INT",
+        "station_id": "INT_TP003"
+    },
+    {
+        "id": 398,
+        "lat": -37.4333665,
+        "lng": 143.7310708,
+        "name": "Learmonth",
+        "region": "WA",
+        "station_id": "WA_TP108"
+    },
+    {
+        "id": 441,
+        "lat": -29.9453013,
+        "lng": 114.9826802,
+        "name": "Leeman",
+        "region": "WA",
+        "station_id": "WA_TP097"
+    },
+    {
+        "id": 113,
+        "lat": -14.5472738,
+        "lng": 144.8683177,
+        "name": "Leggatt Island",
+        "region": "QLD",
+        "station_id": "QLD_TP014"
+    },
+    {
+        "id": 361,
+        "lat": -13.8191185,
+        "lng": 127.2713928,
+        "name": "Lesueur Island",
+        "region": "WA",
+        "station_id": "WA_TP051"
+    },
+    {
+        "id": 263,
+        "lat": 37.5682484,
+        "lng": -122.2844862,
+        "name": "Lihou Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP015"
+    },
+    {
+        "id": 114,
+        "lat": "",
+        "lng": "",
+        "name": "Lizard I. (Qld)",
+        "region": "QLD",
+        "station_id": "QLD_TP016"
+    },
+    {
+        "id": 362,
+        "lat": -14.6652145,
+        "lng": 145.46315,
+        "name": "Lizard Island",
+        "region": "WA",
+        "station_id": "WA_TP052"
+    },
+    {
+        "id": 676,
+        "lat": "",
+        "lng": "",
+        "name": "Lombrum",
+        "region": "INT",
+        "station_id": "INT_TP015"
+    },
+    {
+        "id": 21,
+        "lat": -31.5281546,
+        "lng": 159.0663333,
+        "name": "Lord Howe Island",
+        "region": "NSW",
+        "station_id": "NSW_TP003"
+    },
+    {
+        "id": 50,
+        "lat": -38.5409111,
+        "lng": 143.9753629,
+        "name": "Lorne",
+        "region": "VIC",
+        "station_id": "VIC_TP002"
+    },
+    {
+        "id": 545,
+        "lat": -41.0681826,
+        "lng": 146.8045938,
+        "name": "Low Head",
+        "region": "TAS",
+        "station_id": "TAS_TP004"
+    },
+    {
+        "id": 202,
+        "lat": "",
+        "lng": "",
+        "name": "Low I.",
+        "region": "QLD",
+        "station_id": "QLD_TP213"
+    },
+    {
+        "id": 203,
+        "lat": "",
+        "lng": "",
+        "name": "Low Wooded I.",
+        "region": "QLD",
+        "station_id": "QLD_TP215"
+    },
+    {
+        "id": 608,
+        "lat": "",
+        "lng": "",
+        "name": "Loxton Shoal",
+        "region": "NT",
+        "station_id": "NT_TP037"
+    },
+    {
+        "id": 217,
+        "lat": -18.5279457,
+        "lng": 146.3340953,
+        "name": "Lucinda (Offshore)",
+        "region": "QLD",
+        "station_id": "QLD_TP017"
+    },
+    {
+        "id": 677,
+        "lat": "",
+        "lng": "",
+        "name": "Luganville Wharf",
+        "region": "INT",
+        "station_id": "INT_TP049"
+    },
+    {
+        "id": 609,
+        "lat": "",
+        "lng": "",
+        "name": "Lynedoch Bank",
+        "region": "NT",
+        "station_id": "NT_TP023"
+    },
+    {
+        "id": 363,
+        "lat": "",
+        "lng": "",
+        "name": "Lynher Bank",
+        "region": "WA",
+        "station_id": "WA_TP137"
+    },
+    {
+        "id": 546,
+        "lat": "",
+        "lng": "",
+        "name": "Maatsuyker I.",
+        "region": "TAS",
+        "station_id": "TAS_TP040"
+    },
+    {
+        "id": 156,
+        "lat": "",
+        "lng": "",
+        "name": "Mabuiag I. Barge",
+        "region": "QLD",
+        "station_id": "QLD_TP262"
+    },
+    {
+        "id": 264,
+        "lat": -21.1043054,
+        "lng": 149.2276362,
+        "name": "Mackay Outer Harbour",
+        "region": "QLD",
+        "station_id": "QLD_TP018"
+    },
+    {
+        "id": 364,
+        "lat": "",
+        "lng": "",
+        "name": "Macleay I.",
+        "region": "WA",
+        "station_id": "WA_TP124"
+    },
+    {
+        "id": 115,
+        "lat": "",
+        "lng": "",
+        "name": "Maclennan Cay",
+        "region": "QLD",
+        "station_id": "QLD_TP241"
+    },
+    {
+        "id": 547,
+        "lat": -54.6278418,
+        "lng": 158.8616037,
+        "name": "Macquarie Island",
+        "region": "TAS",
+        "station_id": "TAS_TP014"
+    },
+    {
+        "id": 678,
+        "lat": "",
+        "lng": "",
+        "name": "Madang (Nagada Harbour)",
+        "region": "INT",
+        "station_id": "INT_TP014"
+    },
+    {
+        "id": 265,
+        "lat": 37.283593320346064,
+        "lng": -121.82881378445136,
+        "name": "Magdelaine Cays",
+        "region": "QLD",
+        "station_id": "QLD_TP284"
+    },
+    {
+        "id": 679,
+        "lat": 7.0908319,
+        "lng": 171.3801845,
+        "name": "Majuro",
+        "region": "INT",
+        "station_id": "INT_TP006"
+    },
+    {
+        "id": 680,
+        "lat": "",
+        "lng": "",
+        "name": "Malakal Harbour",
+        "region": "INT",
+        "station_id": "INT_TP009"
+    },
+    {
+        "id": 610,
+        "lat": "",
+        "lng": "",
+        "name": "Mallison I.",
+        "region": "NT",
+        "station_id": "NT_TP090"
+    },
+    {
+        "id": 442,
+        "lat": -32.5326654,
+        "lng": 115.7212125,
+        "name": "Mandurah",
+        "region": "WA",
+        "station_id": "WA_TP091"
+    },
+    {
+        "id": 365,
+        "lat": -14.4051109,
+        "lng": 124.9795988,
+        "name": "Maret Island",
+        "region": "WA",
+        "station_id": "WA_TP054"
+    },
+    {
+        "id": 681,
+        "lat": 37.4028641,
+        "lng": -121.9971301,
+        "name": "Margarida",
+        "region": "INT",
+        "station_id": "INT_TP040"
+    },
+    {
+        "id": 266,
+        "lat": "",
+        "lng": "",
+        "name": "Marion Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP281"
+    },
+    {
+        "id": 267,
+        "lat": 37.5870013,
+        "lng": -122.0006174,
+        "name": "Marquis I.",
+        "region": "QLD",
+        "station_id": "QLD_TP172"
+    },
+    {
+        "id": 443,
+        "lat": "",
+        "lng": "",
+        "name": "Mary Ann Haven",
+        "region": "WA",
+        "station_id": "WA_TP085"
+    },
+    {
+        "id": 399,
+        "lat": 37.444747,
+        "lng": -87.144413,
+        "name": "Mawby Island",
+        "region": "WA",
+        "station_id": "WA_TP055"
+    },
+    {
+        "id": 710,
+        "lat": 43.07217,
+        "lng": -89.381892,
+        "name": "Mawson",
+        "region": "TAS",
+        "station_id": "TAS_TP012"
+    },
+    {
+        "id": 268,
+        "lat": "",
+        "lng": "",
+        "name": "Mcewin Islet",
+        "region": "QLD",
+        "station_id": "QLD_TP082"
+    },
+    {
+        "id": 157,
+        "lat": "",
+        "lng": "",
+        "name": "Mcsweeny Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP235"
+    },
+    {
+        "id": 611,
+        "lat": "",
+        "lng": "",
+        "name": "Medina Inlet South",
+        "region": "NT",
+        "station_id": "NT_TP044"
+    },
+    {
+        "id": 158,
+        "lat": "",
+        "lng": "",
+        "name": "Meer I. Barge",
+        "region": "QLD",
+        "station_id": "QLD_TP276"
+    },
+    {
+        "id": 51,
+        "lat": -37.8150309,
+        "lng": 144.9663466,
+        "name": "Melbourne (Williamstown)",
+        "region": "VIC",
+        "station_id": "VIC_TP003"
+    },
+    {
+        "id": 269,
+        "lat": -17.3932817,
+        "lng": 155.8567183,
+        "name": "Mellish Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP282"
+    },
+    {
+        "id": 612,
+        "lat": -12.235777,
+        "lng": 136.6819846,
+        "name": "Melville Bay (Gove Harbour)",
+        "region": "NT",
+        "station_id": "NT_TP002"
+    },
+    {
+        "id": 400,
+        "lat": "",
+        "lng": "",
+        "name": "Mermaid Reef",
+        "region": "WA",
+        "station_id": "WA_TP118"
+    },
+    {
+        "id": 159,
+        "lat": 54.4957628,
+        "lng": 8.8775496,
+        "name": "Merrie England Sh.",
+        "region": "QLD",
+        "station_id": "QLD_TP272"
+    },
+    {
+        "id": 218,
+        "lat": 35.305660844353234,
+        "lng": -120.82272060018708,
+        "name": "Michaelmas Cay",
+        "region": "QLD",
+        "station_id": "QLD_TP083"
+    },
+    {
+        "id": 311,
+        "lat": "",
+        "lng": "",
+        "name": "Middle I., Keppel I.",
+        "region": "QLD",
+        "station_id": "QLD_TP165"
+    },
+    {
+        "id": 270,
+        "lat": "",
+        "lng": "",
+        "name": "Middle I., Percy I.",
+        "region": "QLD",
+        "station_id": "QLD_TP176"
+    },
+    {
+        "id": 613,
+        "lat": -13.8538256,
+        "lng": 136.4151414,
+        "name": "Milner Bay (Groote Eylandt)",
+        "region": "NT",
+        "station_id": "NT_TP003"
+    },
+    {
+        "id": 271,
+        "lat": "",
+        "lng": "",
+        "name": "Molle I.",
+        "region": "QLD",
+        "station_id": "QLD_TP187"
+    },
+    {
+        "id": 614,
+        "lat": "",
+        "lng": "",
+        "name": "Money Shoal",
+        "region": "NT",
+        "station_id": "NT_TP024"
+    },
+    {
+        "id": 444,
+        "lat": -25.7946063,
+        "lng": 113.7191026,
+        "name": "Monkey Mia",
+        "region": "WA",
+        "station_id": "WA_TP104"
+    },
+    {
+        "id": 312,
+        "lat": -26.6817518,
+        "lng": 153.1189922,
+        "name": "Mooloolaba",
+        "region": "QLD",
+        "station_id": "QLD_TP019"
+    },
+    {
+        "id": 52,
+        "lat": -38.2211796,
+        "lng": 145.0450987,
+        "name": "Mornington",
+        "region": "VIC",
+        "station_id": "VIC_TP022"
+    },
+    {
+        "id": 88,
+        "lat": -16.6635689,
+        "lng": 139.1801163,
+        "name": "Mornington Island",
+        "region": "QLD",
+        "station_id": "QLD_TP084"
+    },
+    {
+        "id": 116,
+        "lat": 43.7517112,
+        "lng": -65.8977303,
+        "name": "Morris Island",
+        "region": "QLD",
+        "station_id": "QLD_TP085"
+    },
+    {
+        "id": 22,
+        "lat": -35.9118168,
+        "lng": 150.0780438,
+        "name": "Moruya",
+        "region": "NSW",
+        "station_id": "NSW_TP030"
+    },
+    {
+        "id": 219,
+        "lat": -17.5976095,
+        "lng": 146.119406,
+        "name": "Mourilyan Harbour",
+        "region": "QLD",
+        "station_id": "QLD_TP020"
+    },
+    {
+        "id": 272,
+        "lat": 37.41589800360848,
+        "lng": -122.11531218508983,
+        "name": "Mumford I.",
+        "region": "QLD",
+        "station_id": "QLD_TP170"
+    },
+    {
+        "id": 615,
+        "lat": "",
+        "lng": "",
+        "name": "Munkunuwa",
+        "region": "NT",
+        "station_id": "NT_TP058"
+    },
+    {
+        "id": 117,
+        "lat": "",
+        "lng": "",
+        "name": "Munro Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP222"
+    },
+    {
+        "id": 160,
+        "lat": "",
+        "lng": "",
+        "name": "Mutacomal Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP273"
+    },
+    {
+        "id": 366,
+        "lat": -13.9786342,
+        "lng": 126.6066471,
+        "name": "Napier Broome Bay",
+        "region": "WA",
+        "station_id": "WA_TP080"
+    },
+    {
+        "id": 161,
+        "lat": "",
+        "lng": "",
+        "name": "Nardana Patches",
+        "region": "QLD",
+        "station_id": "QLD_TP029"
+    },
+    {
+        "id": 89,
+        "lat": "",
+        "lng": "",
+        "name": "Nassau River Offshore",
+        "region": "QLD",
+        "station_id": "QLD_TP086"
+    },
+    {
+        "id": 222,
+        "lat": "",
+        "lng": "",
+        "name": "Nathan Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP205"
+    },
+    {
+        "id": 616,
+        "lat": "",
+        "lng": "",
+        "name": "Native Point",
+        "region": "NT",
+        "station_id": "NT_TP053"
+    },
+    {
+        "id": 682,
+        "lat": "",
+        "lng": "",
+        "name": "Natovi Wharf",
+        "region": "INT",
+        "station_id": "INT_TP052"
+    },
+    {
+        "id": 683,
+        "lat": -0.528743,
+        "lng": 166.9231353,
+        "name": "Nauru",
+        "region": "INT",
+        "station_id": "INT_TP007"
+    },
+    {
+        "id": 684,
+        "lat": "",
+        "lng": "",
+        "name": "Neiafu",
+        "region": "INT",
+        "station_id": "INT_TP053"
+    },
+    {
+        "id": 313,
+        "lat": "",
+        "lng": "",
+        "name": "Nerang R. (Bundall)",
+        "region": "QLD",
+        "station_id": "QLD_TP145"
+    },
+    {
+        "id": 617,
+        "lat": "",
+        "lng": "",
+        "name": "New Year I. - W",
+        "region": "NT",
+        "station_id": "NT_TP085"
+    },
+    {
+        "id": 618,
+        "lat": "",
+        "lng": "",
+        "name": "Newby Shoal",
+        "region": "NT",
+        "station_id": "NT_TP067"
+    },
+    {
+        "id": 23,
+        "lat": 54.9787632,
+        "lng": -1.6094462,
+        "name": "Newcastle",
+        "region": "NSW",
+        "station_id": "NSW_TP004"
+    },
+    {
+        "id": 118,
+        "lat": -13.1821156,
+        "lng": 143.5765991,
+        "name": "Night Island",
+        "region": "QLD",
+        "station_id": "QLD_TP087"
+    },
+    {
+        "id": 619,
+        "lat": "",
+        "lng": "",
+        "name": "Nightcliff",
+        "region": "NT",
+        "station_id": "NT_TP063"
+    },
+    {
+        "id": 685,
+        "lat": -19.0500044,
+        "lng": -169.8601692,
+        "name": "Niue Island",
+        "region": "INT",
+        "station_id": "INT_TP024"
+    },
+    {
+        "id": 314,
+        "lat": "",
+        "lng": "",
+        "name": "Noosa Head",
+        "region": "QLD",
+        "station_id": "QLD_TP021"
+    },
+    {
+        "id": 686,
+        "lat": -29.0389475,
+        "lng": 167.9557209,
+        "name": "Norfolk Island",
+        "region": "NSW",
+        "station_id": "NSW_TP005"
+    },
+    {
+        "id": 119,
+        "lat": 37.2984164,
+        "lng": -122.0385443,
+        "name": "Normanby R.",
+        "region": "QLD",
+        "station_id": "QLD_TP217"
+    },
+    {
+        "id": 90,
+        "lat": -17.6699598,
+        "lng": 141.0792907,
+        "name": "Normanton",
+        "region": "QLD",
+        "station_id": "QLD_TP141"
+    },
+    {
+        "id": 446,
+        "lat": -35.0033781,
+        "lng": 116.7278009,
+        "name": "Nornalup Inlet",
+        "region": "WA",
+        "station_id": "WA_TP056"
+    },
+    {
+        "id": 224,
+        "lat": 53.0376912,
+        "lng": -129.6460965,
+        "name": "North Barnard Island",
+        "region": "QLD",
+        "station_id": "QLD_TP088"
+    },
+    {
+        "id": 120,
+        "lat": "",
+        "lng": "",
+        "name": "North Direction I.",
+        "region": "QLD",
+        "station_id": "QLD_TP220"
+    },
+    {
+        "id": 620,
+        "lat": "",
+        "lng": "",
+        "name": "North Goulburn I.",
+        "region": "NT",
+        "station_id": "NT_TP088"
+    },
+    {
+        "id": 447,
+        "lat": 32.6964853,
+        "lng": -117.1962456,
+        "name": "North Island",
+        "region": "WA",
+        "station_id": "WA_TP057"
+    },
+    {
+        "id": 401,
+        "lat": "",
+        "lng": "",
+        "name": "North Muiron I.",
+        "region": "WA",
+        "station_id": "WA_TP110"
+    },
+    {
+        "id": 621,
+        "lat": "",
+        "lng": "",
+        "name": "North Of Jones Shoal",
+        "region": "NT",
+        "station_id": "NT_TP077"
+    },
+    {
+        "id": 622,
+        "lat": "",
+        "lng": "",
+        "name": "North Peron I.",
+        "region": "NT",
+        "station_id": "NT_TP051"
+    },
+    {
+        "id": 402,
+        "lat": 46.8307513,
+        "lng": -84.661117,
+        "name": "North Sandy Island",
+        "region": "WA",
+        "station_id": "WA_TP058"
+    },
+    {
+        "id": 623,
+        "lat": -11.6980472,
+        "lng": 135.1583867,
+        "name": "North West Crocodile Island",
+        "region": "NT",
+        "station_id": "NT_TP025"
+    },
+    {
+        "id": 403,
+        "lat": -23.2967929,
+        "lng": 151.70753,
+        "name": "North West Island",
+        "region": "WA",
+        "station_id": "WA_TP059"
+    },
+    {
+        "id": 445,
+        "lat": -22.6065829,
+        "lng": 113.6654048,
+        "name": "Norwegian Bay",
+        "region": "WA",
+        "station_id": "WA_TP106"
+    },
+    {
+        "id": 687,
+        "lat": "",
+        "lng": "",
+        "name": "Nuku&apos;Alofa",
+        "region": "INT",
+        "station_id": "INT_TP025"
+    },
+    {
+        "id": 624,
+        "lat": "",
+        "lng": "",
+        "name": "Nw Peacock I.",
+        "region": "NT",
+        "station_id": "NT_TP076"
+    },
+    {
+        "id": 24,
+        "lat": "",
+        "lng": "",
+        "name": "Nw Solitary I.",
+        "region": "NSW",
+        "station_id": "NSW_TP039"
+    },
+    {
+        "id": 688,
+        "lat": "",
+        "lng": "",
+        "name": "Omati",
+        "region": "INT",
+        "station_id": "INT_TP041"
+    },
+    {
+        "id": 315,
+        "lat": 37.3780513,
+        "lng": -122.2585557,
+        "name": "One Tree I.",
+        "region": "QLD",
+        "station_id": "QLD_TP160"
+    },
+    {
+        "id": 625,
+        "lat": 38.7187439,
+        "lng": -123.3068867,
+        "name": "One Tree Point",
+        "region": "NT",
+        "station_id": "NT_TP084"
+    },
+    {
+        "id": 404,
+        "lat": -21.6375942,
+        "lng": 115.1133241,
+        "name": "Onslow (Beadon Creek)",
+        "region": "WA",
+        "station_id": "WA_TP018"
+    },
+    {
+        "id": 286,
+        "lat": "",
+        "lng": "",
+        "name": "Oom Shoal - Mackay",
+        "region": "stream_QLD",
+        "station_id": "stream_QLD_TS006"
+    },
+    {
+        "id": 689,
+        "lat": 47.1409384,
+        "lng": -122.7067987,
+        "name": "Oro Bay",
+        "region": "INT",
+        "station_id": "INT_TP042"
+    },
+    {
+        "id": 273,
+        "lat": 37.45348524425458,
+        "lng": -122.21984220450156,
+        "name": "Osborn I.",
+        "region": "QLD",
+        "station_id": "QLD_TP171"
+    },
+    {
+        "id": 121,
+        "lat": "",
+        "lng": "",
+        "name": "Osprey Reef - W",
+        "region": "QLD",
+        "station_id": "QLD_TP275"
+    },
+    {
+        "id": 162,
+        "lat": 34.7378712,
+        "lng": -96.1802788,
+        "name": "Packe I.",
+        "region": "QLD",
+        "station_id": "QLD_TP248"
+    },
+    {
+        "id": 204,
+        "lat": 37.316797494655304,
+        "lng": -122.06635546175485,
+        "name": "Palm Cove",
+        "region": "QLD",
+        "station_id": "QLD_TP209"
+    },
+    {
+        "id": 163,
+        "lat": "",
+        "lng": "",
+        "name": "Papou Point",
+        "region": "QLD",
+        "station_id": "QLD_TP120"
+    },
+    {
+        "id": 626,
+        "lat": "",
+        "lng": "",
+        "name": "Parsons Bank",
+        "region": "NT",
+        "station_id": "NT_TP060"
+    },
+    {
+        "id": 548,
+        "lat": 37.3890346,
+        "lng": -122.113671,
+        "name": "Parsons Bay",
+        "region": "TAS",
+        "station_id": "TAS_TP026"
+    },
+    {
+        "id": 25,
+        "lat": -33.5502465,
+        "lng": 151.2728972,
+        "name": "Patonga",
+        "region": "NSW",
+        "station_id": "NSW_TP020"
+    },
+    {
+        "id": 627,
+        "lat": "",
+        "lng": "",
+        "name": "Paxie Shoal",
+        "region": "NT",
+        "station_id": "NT_TP026"
+    },
+    {
+        "id": 628,
+        "lat": 37.347642270517746,
+        "lng": -121.99797268217272,
+        "name": "Peacock I.",
+        "region": "NT",
+        "station_id": "NT_TP078"
+    },
+    {
+        "id": 316,
+        "lat": "",
+        "lng": "",
+        "name": "Peaked I.",
+        "region": "QLD",
+        "station_id": "QLD_TP167"
+    },
+    {
+        "id": 164,
+        "lat": -9.5139043,
+        "lng": 143.2876939,
+        "name": "Pearce Cay",
+        "region": "QLD",
+        "station_id": "QLD_TP279"
+    },
+    {
+        "id": 475,
+        "lat": 49.6302418,
+        "lng": -124.0808101,
+        "name": "Pearson Island",
+        "region": "SA",
+        "station_id": "SA_TP023"
+    },
+    {
+        "id": 223,
+        "lat": "",
+        "lng": "",
+        "name": "Peart Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP204"
+    },
+    {
+        "id": 367,
+        "lat": "",
+        "lng": "",
+        "name": "Pee Shoal",
+        "region": "WA",
+        "station_id": "WA_TP139"
+    },
+    {
+        "id": 368,
+        "lat": 39.9428814,
+        "lng": -74.0891787,
+        "name": "Pelican Island",
+        "region": "WA",
+        "station_id": "WA_TP061"
+    },
+    {
+        "id": 449,
+        "lat": "",
+        "lng": "",
+        "name": "Pelsaert I.",
+        "region": "WA",
+        "station_id": "WA_TP098"
+    },
+    {
+        "id": 369,
+        "lat": 37.5441581,
+        "lng": -122.2434974,
+        "name": "Pender Point",
+        "region": "WA",
+        "station_id": "WA_TP142"
+    },
+    {
+        "id": 91,
+        "lat": -12.2427385,
+        "lng": 141.7864615,
+        "name": "Pennefather River",
+        "region": "QLD",
+        "station_id": "QLD_TP092"
+    },
+    {
+        "id": 476,
+        "lat": -35.7182576,
+        "lng": 137.9388106,
+        "name": "Penneshaw",
+        "region": "SA",
+        "station_id": "SA_TP020"
+    },
+    {
+        "id": 274,
+        "lat": -21.009751,
+        "lng": 149.9034881,
+        "name": "Penrith Island",
+        "region": "QLD",
+        "station_id": "QLD_TP093"
+    },
+    {
+        "id": 448,
+        "lat": -31.954808,
+        "lng": 115.8602204,
+        "name": "Perth (Barrack Street Jetty)",
+        "region": "WA",
+        "station_id": "WA_TP062"
+    },
+    {
+        "id": 165,
+        "lat": "",
+        "lng": "",
+        "name": "Phipi Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP121"
+    },
+    {
+        "id": 549,
+        "lat": "",
+        "lng": "",
+        "name": "Pieman R.",
+        "region": "TAS",
+        "station_id": "TAS_TP027"
+    },
+    {
+        "id": 122,
+        "lat": -14.1170774,
+        "lng": 144.5269504,
+        "name": "Pipon Islands",
+        "region": "QLD",
+        "station_id": "QLD_TP094"
+    },
+    {
+        "id": 550,
+        "lat": -38.3789908,
+        "lng": 144.7710737,
+        "name": "Pirates Bay",
+        "region": "TAS",
+        "station_id": "TAS_TP025"
+    },
+    {
+        "id": 225,
+        "lat": 37.5682484,
+        "lng": -122.2844862,
+        "name": "Pith Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP095"
+    },
+    {
+        "id": 690,
+        "lat": "",
+        "lng": "",
+        "name": "Pohnpei",
+        "region": "INT",
+        "station_id": "INT_TP002"
+    },
+    {
+        "id": 629,
+        "lat": "",
+        "lng": "",
+        "name": "Point David",
+        "region": "NT",
+        "station_id": "NT_TP079"
+    },
+    {
+        "id": 630,
+        "lat": 38.0122977597972,
+        "lng": -122.29108939759497,
+        "name": "Point Fawcett (Off)",
+        "region": "NT",
+        "station_id": "NT_TP056"
+    },
+    {
+        "id": 54,
+        "lat": "",
+        "lng": "",
+        "name": "Point Hicks",
+        "region": "VIC",
+        "station_id": "VIC_TP041"
+    },
+    {
+        "id": 631,
+        "lat": "",
+        "lng": "",
+        "name": "Point Jahleel (Off)",
+        "region": "NT",
+        "station_id": "NT_TP072"
+    },
+    {
+        "id": 632,
+        "lat": "",
+        "lng": "",
+        "name": "Point Jenny",
+        "region": "NT",
+        "station_id": "NT_TP052"
+    },
+    {
+        "id": 55,
+        "lat": -38.2751456,
+        "lng": 144.6187057,
+        "name": "Point Lonsdale",
+        "region": "VIC",
+        "station_id": "VIC_TP009"
+    },
+    {
+        "id": 405,
+        "lat": "",
+        "lng": "",
+        "name": "Point Murat",
+        "region": "WA",
+        "station_id": "WA_TP019"
+    },
+    {
+        "id": 56,
+        "lat": "",
+        "lng": "",
+        "name": "Point Richards (Corio Bay)",
+        "region": "VIC",
+        "station_id": "VIC_TP004"
+    },
+    {
+        "id": 691,
+        "lat": "",
+        "lng": "",
+        "name": "Point Stone Island",
+        "region": "INT",
+        "station_id": "INT_TP018"
+    },
+    {
+        "id": 633,
+        "lat": 27.200192,
+        "lng": -80.2556246,
+        "name": "Point Stuart",
+        "region": "NT",
+        "station_id": "NT_TP027"
+    },
+    {
+        "id": 498,
+        "lat": -34.9355048,
+        "lng": 137.3507744,
+        "name": "Point Turton",
+        "region": "SA",
+        "station_id": "SA_TP024"
+    },
+    {
+        "id": 166,
+        "lat": 37.444747,
+        "lng": -87.144413,
+        "name": "Poll Island",
+        "region": "QLD",
+        "station_id": "QLD_TP122"
+    },
+    {
+        "id": 317,
+        "lat": "",
+        "lng": "",
+        "name": "Polmaise Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP161"
+    },
+    {
+        "id": 499,
+        "lat": -35.2373625,
+        "lng": 136.8376136,
+        "name": "Pondalowie Bay",
+        "region": "SA",
+        "station_id": "SA_TP059"
+    },
+    {
+        "id": 500,
+        "lat": -34.8495682,
+        "lng": 138.5136304,
+        "name": "Port Adelaide (Outer Harbor)",
+        "region": "SA",
+        "station_id": "SA_TP001"
+    },
+    {
+        "id": 318,
+        "lat": -23.6234719,
+        "lng": 150.7194611,
+        "name": "Port Alma",
+        "region": "QLD",
+        "station_id": "QLD_TP022"
+    },
+    {
+        "id": 501,
+        "lat": -32.4907477,
+        "lng": 137.7636494,
+        "name": "Port Augusta",
+        "region": "SA",
+        "station_id": "SA_TP025"
+    },
+    {
+        "id": 502,
+        "lat": "",
+        "lng": "",
+        "name": "Port Bonython",
+        "region": "SA",
+        "station_id": "SA_TP026"
+    },
+    {
+        "id": 503,
+        "lat": -33.600055,
+        "lng": 137.9298753,
+        "name": "Port Broughton",
+        "region": "SA",
+        "station_id": "SA_TP027"
+    },
+    {
+        "id": 59,
+        "lat": -38.6192401,
+        "lng": 142.9961383,
+        "name": "Port Campbell",
+        "region": "VIC",
+        "station_id": "VIC_TP040"
+    },
+    {
+        "id": 319,
+        "lat": 41.5133013,
+        "lng": -82.9411595,
+        "name": "Port Clinton",
+        "region": "QLD",
+        "station_id": "QLD_TP166"
+    },
+    {
+        "id": 450,
+        "lat": -29.2741045,
+        "lng": 114.9211312,
+        "name": "Port Denison",
+        "region": "WA",
+        "station_id": "WA_TP096"
+    },
+    {
+        "id": 226,
+        "lat": -16.4827853,
+        "lng": 145.4641161,
+        "name": "Port Douglas",
+        "region": "QLD",
+        "station_id": "QLD_TP023"
+    },
+    {
+        "id": 634,
+        "lat": -11.2694711,
+        "lng": 132.1141633,
+        "name": "Port Essington",
+        "region": "NT",
+        "station_id": "NT_TP074"
+    },
+    {
+        "id": 477,
+        "lat": "",
+        "lng": "",
+        "name": "Port Eyre (Fowlers Bay)",
+        "region": "SA",
+        "station_id": "SA_TP028"
+    },
+    {
+        "id": 53,
+        "lat": -38.3854212,
+        "lng": 142.2366974,
+        "name": "Port Fairy",
+        "region": "VIC",
+        "station_id": "VIC_TP025"
+    },
+    {
+        "id": 504,
+        "lat": -35.0131784,
+        "lng": 137.760422,
+        "name": "Port Giles",
+        "region": "SA",
+        "station_id": "SA_TP002"
+    },
+    {
+        "id": 451,
+        "lat": 43.232254,
+        "lng": -99.431999,
+        "name": "Port Gregory",
+        "region": "WA",
+        "station_id": "WA_TP063"
+    },
+    {
+        "id": 26,
+        "lat": -34.0652471,
+        "lng": 151.1227349,
+        "name": "Port Hacking",
+        "region": "NSW",
+        "station_id": "NSW_TP021"
+    },
+    {
+        "id": 406,
+        "lat": -20.3087463,
+        "lng": 118.6030315,
+        "name": "Port Hedland",
+        "region": "WA",
+        "station_id": "WA_TP020"
+    },
+    {
+        "id": 551,
+        "lat": -43.1552417,
+        "lng": 146.961936,
+        "name": "Port Huon",
+        "region": "TAS",
+        "station_id": "TAS_TP022"
+    },
+    {
+        "id": 635,
+        "lat": -14.2382604,
+        "lng": 129.522366,
+        "name": "Port Keats",
+        "region": "NT",
+        "station_id": "NT_TP042"
+    },
+    {
+        "id": 27,
+        "lat": "",
+        "lng": "",
+        "name": "Port Kembla",
+        "region": "NSW",
+        "station_id": "NSW_TP006"
+    },
+    {
+        "id": 478,
+        "lat": -33.1677567,
+        "lng": 134.6853865,
+        "name": "Port Kenny",
+        "region": "SA",
+        "station_id": "SA_TP063"
+    },
+    {
+        "id": 505,
+        "lat": -34.7223983,
+        "lng": 135.8508182,
+        "name": "Port Lincoln",
+        "region": "SA",
+        "station_id": "SA_TP003"
+    },
+    {
+        "id": 479,
+        "lat": -38.0541809,
+        "lng": 140.7005162,
+        "name": "Port Macdonnell",
+        "region": "SA",
+        "station_id": "SA_TP029"
+    },
+    {
+        "id": 28,
+        "lat": -31.4313621,
+        "lng": 152.9081913,
+        "name": "Port Macquarie",
+        "region": "NSW",
+        "station_id": "NSW_TP026"
+    },
+    {
+        "id": 692,
+        "lat": -9.4589942,
+        "lng": 147.1927267,
+        "name": "Port Moresby",
+        "region": "INT",
+        "station_id": "INT_TP019"
+    },
+    {
+        "id": 507,
+        "lat": -34.1179538,
+        "lng": 136.3472801,
+        "name": "Port Neill",
+        "region": "SA",
+        "station_id": "SA_TP030"
+    },
+    {
+        "id": 508,
+        "lat": -35.1465563,
+        "lng": 138.4642669,
+        "name": "Port Noarlunga",
+        "region": "SA",
+        "station_id": "SA_TP031"
+    },
+    {
+        "id": 509,
+        "lat": -33.1786752,
+        "lng": 138.0107523,
+        "name": "Port Pirie",
+        "region": "SA",
+        "station_id": "SA_TP004"
+    },
+    {
+        "id": 510,
+        "lat": -35.1086484,
+        "lng": 138.4707499,
+        "name": "Port Stanvac",
+        "region": "SA",
+        "station_id": "SA_TP032"
+    },
+    {
+        "id": 29,
+        "lat": -32.7416404,
+        "lng": 151.8688864,
+        "name": "Port Stephens",
+        "region": "NSW",
+        "station_id": "NSW_TP015"
+    },
+    {
+        "id": 370,
+        "lat": "",
+        "lng": "",
+        "name": "Port Usborne",
+        "region": "WA",
+        "station_id": "WA_TP064"
+    },
+    {
+        "id": 511,
+        "lat": -34.4963955,
+        "lng": 137.4831978,
+        "name": "Port Victoria",
+        "region": "SA",
+        "station_id": "SA_TP033"
+    },
+    {
+        "id": 693,
+        "lat": -17.7353914,
+        "lng": 168.3211899,
+        "name": "Port Vila",
+        "region": "INT",
+        "station_id": "INT_TP027"
+    },
+    {
+        "id": 506,
+        "lat": -34.7772434,
+        "lng": 137.861173,
+        "name": "Port Vincent",
+        "region": "SA",
+        "station_id": "SA_TP053"
+    },
+    {
+        "id": 407,
+        "lat": -20.6371648,
+        "lng": 117.1916573,
+        "name": "Port Walcott (Cape Lambert)",
+        "region": "WA",
+        "station_id": "WA_TP021"
+    },
+    {
+        "id": 371,
+        "lat": -14.5685576,
+        "lng": 125.8774252,
+        "name": "Port Warrender",
+        "region": "WA",
+        "station_id": "WA_TP065"
+    },
+    {
+        "id": 57,
+        "lat": -38.6998131,
+        "lng": 146.4649249,
+        "name": "Port Welshpool Pier",
+        "region": "VIC",
+        "station_id": "VIC_TP010"
+    },
+    {
+        "id": 58,
+        "lat": 45.515118,
+        "lng": -122.679485,
+        "name": "Portland",
+        "region": "VIC",
+        "station_id": "VIC_TP011"
+    },
+    {
+        "id": 167,
+        "lat": 47.917595,
+        "lng": -122.3762495,
+        "name": "Possession I.",
+        "region": "QLD",
+        "station_id": "QLD_TP245"
+    },
+    {
+        "id": 30,
+        "lat": "",
+        "lng": "",
+        "name": "Princess Jetty",
+        "region": "NSW",
+        "station_id": "NSW_TP022"
+    },
+    {
+        "id": 275,
+        "lat": 38.453269,
+        "lng": -121.3543941,
+        "name": "Prudhoe I.",
+        "region": "QLD",
+        "station_id": "QLD_TP175"
+    },
+    {
+        "id": 60,
+        "lat": -33.7835373,
+        "lng": 151.2928298,
+        "name": "Queenscliff",
+        "region": "VIC",
+        "station_id": "VIC_TP007"
+    },
+    {
+        "id": 636,
+        "lat": -23.8074042,
+        "lng": 151.286091,
+        "name": "Quoin Island",
+        "region": "NT",
+        "station_id": "NT_TP029"
+    },
+    {
+        "id": 694,
+        "lat": 36.6381991,
+        "lng": -121.8253541,
+        "name": "Rabaul",
+        "region": "INT",
+        "station_id": "INT_TP017"
+    },
+    {
+        "id": 61,
+        "lat": 29.8488031,
+        "lng": -93.3835773,
+        "name": "Rabbit Island",
+        "region": "VIC",
+        "station_id": "VIC_TP012"
+    },
+    {
+        "id": 123,
+        "lat": -14.2611862,
+        "lng": 125.8287974,
+        "name": "Raine Island",
+        "region": "QLD",
+        "station_id": "QLD_TP097"
+    },
+    {
+        "id": 695,
+        "lat": -21.2349911,
+        "lng": -159.7787237,
+        "name": "Rarotonga (Avarua Harbour)",
+        "region": "INT",
+        "station_id": "INT_TP001"
+    },
+    {
+        "id": 552,
+        "lat": -43.5378976,
+        "lng": 146.9022961,
+        "name": "Recherche Bay",
+        "region": "TAS",
+        "station_id": "TAS_TP039"
+    },
+    {
+        "id": 372,
+        "lat": 40.175939,
+        "lng": -122.235063,
+        "name": "Red Bluff",
+        "region": "WA",
+        "station_id": "WA_TP120"
+    },
+    {
+        "id": 512,
+        "lat": 37.56987957184503,
+        "lng": -121.96728155133002,
+        "name": "Red Cliff Point (Beacon 5)",
+        "region": "SA",
+        "station_id": "SA_TP034"
+    },
+    {
+        "id": 168,
+        "lat": 49.6511882,
+        "lng": -55.8668764,
+        "name": "Red Island Point",
+        "region": "QLD",
+        "station_id": "QLD_TP098"
+    },
+    {
+        "id": 169,
+        "lat": "",
+        "lng": "",
+        "name": "Red Wallis I.",
+        "region": "QLD",
+        "station_id": "QLD_TP247"
+    },
+    {
+        "id": 276,
+        "lat": 48.5278552,
+        "lng": -122.9709048,
+        "name": "Reef Point",
+        "region": "QLD",
+        "station_id": "QLD_TP173"
+    },
+    {
+        "id": 513,
+        "lat": "",
+        "lng": "",
+        "name": "Reevesby I.",
+        "region": "SA",
+        "station_id": "SA_TP060"
+    },
+    {
+        "id": 170,
+        "lat": "",
+        "lng": "",
+        "name": "Rennel I.",
+        "region": "QLD",
+        "station_id": "QLD_TP267"
+    },
+    {
+        "id": 373,
+        "lat": -14.3665314,
+        "lng": 127.8124542,
+        "name": "Reveley Island",
+        "region": "WA",
+        "station_id": "WA_TP066"
+    },
+    {
+        "id": 228,
+        "lat": "",
+        "lng": "",
+        "name": "Rib Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP099"
+    },
+    {
+        "id": 124,
+        "lat": "",
+        "lng": "",
+        "name": "Ribbon Reef No.9",
+        "region": "QLD",
+        "station_id": "QLD_TP100"
+    },
+    {
+        "id": 480,
+        "lat": -37.1654113,
+        "lng": 139.7624471,
+        "name": "Robe",
+        "region": "SA",
+        "station_id": "SA_TP035"
+    },
+    {
+        "id": 320,
+        "lat": "",
+        "lng": "",
+        "name": "Rock Cod Shoal",
+        "region": "QLD",
+        "station_id": "QLD_TP163"
+    },
+    {
+        "id": 125,
+        "lat": 49.1061254,
+        "lng": -125.4916593,
+        "name": "Rocky Island",
+        "region": "QLD",
+        "station_id": "QLD_TP101"
+    },
+    {
+        "id": 374,
+        "lat": 49.1061254,
+        "lng": -125.4916593,
+        "name": "Rocky Island",
+        "region": "WA",
+        "station_id": "WA_TP067"
+    },
+    {
+        "id": 408,
+        "lat": 39.6970473,
+        "lng": -76.8066422,
+        "name": "Roller",
+        "region": "WA",
+        "station_id": "WA_TP111"
+    },
+    {
+        "id": 62,
+        "lat": -38.3565551,
+        "lng": 144.9007742,
+        "name": "Rosebud Jetty",
+        "region": "VIC",
+        "station_id": "VIC_TP026"
+    },
+    {
+        "id": 321,
+        "lat": -23.1541312,
+        "lng": 150.9376894,
+        "name": "Rosslyn Bay",
+        "region": "QLD",
+        "station_id": "QLD_TP024"
+    },
+    {
+        "id": 452,
+        "lat": "",
+        "lng": "",
+        "name": "Rottnest I.",
+        "region": "WA",
+        "station_id": "WA_TP092"
+    },
+    {
+        "id": 322,
+        "lat": 37.457125,
+        "lng": -122.2535718,
+        "name": "Round Hill Head",
+        "region": "QLD",
+        "station_id": "QLD_TP156"
+    },
+    {
+        "id": 171,
+        "lat": "",
+        "lng": "",
+        "name": "Round I.",
+        "region": "QLD",
+        "station_id": "QLD_TP254"
+    },
+    {
+        "id": 126,
+        "lat": "",
+        "lng": "",
+        "name": "Round Point",
+        "region": "QLD",
+        "station_id": "QLD_TP239"
+    },
+    {
+        "id": 323,
+        "lat": 33.174791,
+        "lng": -97.867204,
+        "name": "Runaway Bay",
+        "region": "QLD",
+        "station_id": "QLD_TP146"
+    },
+    {
+        "id": 229,
+        "lat": -27.6487347,
+        "lng": 153.3817874,
+        "name": "Russell Island",
+        "region": "QLD",
+        "station_id": "QLD_TP102"
+    },
+    {
+        "id": 172,
+        "lat": "",
+        "lng": "",
+        "name": "Saibai I.",
+        "region": "QLD",
+        "station_id": "QLD_TP265"
+    },
+    {
+        "id": 696,
+        "lat": "",
+        "lng": "",
+        "name": "Saidor",
+        "region": "INT",
+        "station_id": "INT_TP043"
+    },
+    {
+        "id": 63,
+        "lat": -38.5211723,
+        "lng": 145.3688341,
+        "name": "San Remo",
+        "region": "VIC",
+        "station_id": "VIC_TP029"
+    },
+    {
+        "id": 31,
+        "lat": 37.324605,
+        "lng": -121.804743,
+        "name": "Sand Pt (Pittwater)",
+        "region": "NSW",
+        "station_id": "NSW_TP032"
+    },
+    {
+        "id": 64,
+        "lat": -37.9591674,
+        "lng": 145.0195069,
+        "name": "Sandringham",
+        "region": "VIC",
+        "station_id": "VIC_TP030"
+    },
+    {
+        "id": 277,
+        "lat": "",
+        "lng": "",
+        "name": "Saumarez Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP280"
+    },
+    {
+        "id": 278,
+        "lat": "",
+        "lng": "",
+        "name": "Scawfell I.",
+        "region": "QLD",
+        "station_id": "QLD_TP179"
+    },
+    {
+        "id": 375,
+        "lat": 37.4596672,
+        "lng": -121.9207569,
+        "name": "Scott Reef (Wa)",
+        "region": "WA",
+        "station_id": "WA_TP121"
+    },
+    {
+        "id": 553,
+        "lat": -35.9243222,
+        "lng": 137.3087004,
+        "name": "Seal Bay",
+        "region": "TAS",
+        "station_id": "TAS_TP029"
+    },
+    {
+        "id": 514,
+        "lat": 37.8479458,
+        "lng": -122.4807868,
+        "name": "Second Valley",
+        "region": "SA",
+        "station_id": "SA_TP037"
+    },
+    {
+        "id": 324,
+        "lat": -22.2542709,
+        "lng": 116.6028783,
+        "name": "Serpentine Creek",
+        "region": "QLD",
+        "station_id": "QLD_TP104"
+    },
+    {
+        "id": 127,
+        "lat": "",
+        "lng": "",
+        "name": "Shadwell Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP237"
+    },
+    {
+        "id": 376,
+        "lat": 37.48824581932348,
+        "lng": -121.9280218733737,
+        "name": "Shale I.",
+        "region": "WA",
+        "station_id": "WA_TP127"
+    },
+    {
+        "id": 453,
+        "lat": -26.4284739,
+        "lng": 114.179741,
+        "name": "Shark Bay",
+        "region": "WA",
+        "station_id": "WA_TP068"
+    },
+    {
+        "id": 454,
+        "lat": -11.3357413,
+        "lng": 131.9279464,
+        "name": "Shark Bay (Inr Bn)",
+        "region": "WA",
+        "station_id": "WA_TP102"
+    },
+    {
+        "id": 697,
+        "lat": 49.1852581,
+        "lng": -125.8681797,
+        "name": "Sharp Island",
+        "region": "INT",
+        "station_id": "INT_TP047"
+    },
+    {
+        "id": 173,
+        "lat": 37.26693,
+        "lng": -121.9432692,
+        "name": "Sharp Point",
+        "region": "QLD",
+        "station_id": "QLD_TP106"
+    },
+    {
+        "id": 481,
+        "lat": "",
+        "lng": "",
+        "name": "Shelf Edge Mooring",
+        "region": "SA",
+        "station_id": "SA_TP038"
+    },
+    {
+        "id": 409,
+        "lat": -20.9453583,
+        "lng": 115.8934479,
+        "name": "Sholl Island",
+        "region": "WA",
+        "station_id": "WA_TP069"
+    },
+    {
+        "id": 237,
+        "lat": 37.5682484,
+        "lng": -122.2844862,
+        "name": "Shrimp Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP196"
+    },
+    {
+        "id": 279,
+        "lat": -20.290449,
+        "lng": 148.7845338,
+        "name": "Shute Harbour",
+        "region": "QLD",
+        "station_id": "QLD_TP025"
+    },
+    {
+        "id": 129,
+        "lat": "",
+        "lng": "",
+        "name": "Sir Charles Hardy I.",
+        "region": "QLD",
+        "station_id": "QLD_TP232"
+    },
+    {
+        "id": 377,
+        "lat": -34.4869393,
+        "lng": 138.2849734,
+        "name": "Skua No. 4 Well",
+        "region": "WA",
+        "station_id": "WA_TP130"
+    },
+    {
+        "id": 637,
+        "lat": 29.5368963,
+        "lng": -94.7604746,
+        "name": "Smith Point - W",
+        "region": "NT",
+        "station_id": "NT_TP075"
+    },
+    {
+        "id": 638,
+        "lat": -11.4633514,
+        "lng": 130.7417684,
+        "name": "Snake Bay",
+        "region": "NT",
+        "station_id": "NT_TP070"
+    },
+    {
+        "id": 325,
+        "lat": "",
+        "lng": "",
+        "name": "Snapper Rocks",
+        "region": "QLD",
+        "station_id": "QLD_TP108"
+    },
+    {
+        "id": 698,
+        "lat": "",
+        "lng": "",
+        "name": "Soroken",
+        "region": "INT",
+        "station_id": "INT_TP044"
+    },
+    {
+        "id": 639,
+        "lat": "",
+        "lng": "",
+        "name": "South Barlow Point",
+        "region": "NT",
+        "station_id": "NT_TP045"
+    },
+    {
+        "id": 65,
+        "lat": 32.0365161,
+        "lng": -80.9302754,
+        "name": "South Channel",
+        "region": "VIC",
+        "station_id": "VIC_TP032"
+    },
+    {
+        "id": 326,
+        "lat": -23.8685121,
+        "lng": 151.2774509,
+        "name": "South Trees (Storm Surge)",
+        "region": "QLD",
+        "station_id": "QLD_TP110"
+    },
+    {
+        "id": 32,
+        "lat": -30.8867836,
+        "lng": 153.0413517,
+        "name": "South West Rocks",
+        "region": "NSW",
+        "station_id": "NSW_TP023"
+    },
+    {
+        "id": 554,
+        "lat": -27.9700056,
+        "lng": 153.4099181,
+        "name": "Southport Jetty",
+        "region": "TAS",
+        "station_id": "TAS_TP006"
+    },
+    {
+        "id": 555,
+        "lat": 40.824214,
+        "lng": -89.519747,
+        "name": "Spring Bay",
+        "region": "TAS",
+        "station_id": "TAS_TP007"
+    },
+    {
+        "id": 281,
+        "lat": 37.5682484,
+        "lng": -122.2844862,
+        "name": "Square Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP185"
+    },
+    {
+        "id": 482,
+        "lat": 45.0718021,
+        "lng": -74.525446,
+        "name": "St Francis Island",
+        "region": "SA",
+        "station_id": "SA_TP036"
+    },
+    {
+        "id": 558,
+        "lat": 45.8630423,
+        "lng": -122.7969377,
+        "name": "St Helens",
+        "region": "TAS",
+        "station_id": "TAS_TP035"
+    },
+    {
+        "id": 66,
+        "lat": -37.8641135,
+        "lng": 144.9817972,
+        "name": "St Kilda",
+        "region": "VIC",
+        "station_id": "VIC_TP027"
+    },
+    {
+        "id": 67,
+        "lat": "",
+        "lng": "",
+        "name": "St Leonards",
+        "region": "VIC",
+        "station_id": "VIC_TP028"
+    },
+    {
+        "id": 174,
+        "lat": 34.805847,
+        "lng": -78.973478,
+        "name": "St Pauls (Moa Island)",
+        "region": "QLD",
+        "station_id": "QLD_TP143"
+    },
+    {
+        "id": 640,
+        "lat": "",
+        "lng": "",
+        "name": "St. Asaph Bay",
+        "region": "NT",
+        "station_id": "NT_TP043"
+    },
+    {
+        "id": 280,
+        "lat": "",
+        "lng": "",
+        "name": "St. Bees I.",
+        "region": "QLD",
+        "station_id": "QLD_TP178"
+    },
+    {
+        "id": 556,
+        "lat": "",
+        "lng": "",
+        "name": "Stack I.",
+        "region": "TAS",
+        "station_id": "TAS_TP024"
+    },
+    {
+        "id": 557,
+        "lat": 44.2171163,
+        "lng": -114.9359158,
+        "name": "Stanley",
+        "region": "TAS",
+        "station_id": "TAS_TP008"
+    },
+    {
+        "id": 128,
+        "lat": 38.2440863,
+        "lng": -122.3160411,
+        "name": "Stanley I.",
+        "region": "QLD",
+        "station_id": "QLD_TP224"
+    },
+    {
+        "id": 238,
+        "lat": "",
+        "lng": "",
+        "name": "Stanley Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP192"
+    },
+    {
+        "id": 410,
+        "lat": 47.1852901,
+        "lng": -122.9403325,
+        "name": "Steamboat Island",
+        "region": "WA",
+        "station_id": "WA_TP071"
+    },
+    {
+        "id": 515,
+        "lat": -35.2763274,
+        "lng": 136.937417,
+        "name": "Stenhouse Bay",
+        "region": "SA",
+        "station_id": "SA_TP048"
+    },
+    {
+        "id": 175,
+        "lat": 54.134758,
+        "lng": -130.6845703,
+        "name": "Stephens Island ",
+        "region": "QLD",
+        "station_id": "QLD_TP111"
+    },
+    {
+        "id": 641,
+        "lat": 37.33819364040466,
+        "lng": -122.06580530380096,
+        "name": "Stevens I.",
+        "region": "NT",
+        "station_id": "NT_TP091"
+    },
+    {
+        "id": 176,
+        "lat": "",
+        "lng": "",
+        "name": "Suarji I.",
+        "region": "QLD",
+        "station_id": "QLD_TP257"
+    },
+    {
+        "id": 205,
+        "lat": 46.489675,
+        "lng": -80.9913944,
+        "name": "Sudbury Cay",
+        "region": "QLD",
+        "station_id": "QLD_TP206"
+    },
+    {
+        "id": 177,
+        "lat": 37.30398429213081,
+        "lng": -121.84510199620135,
+        "name": "Sue I.",
+        "region": "QLD",
+        "station_id": "QLD_TP258"
+    },
+    {
+        "id": 378,
+        "lat": -38.7133751,
+        "lng": 146.6323547,
+        "name": "Sunday Island",
+        "region": "WA",
+        "station_id": "WA_TP072"
+    },
+    {
+        "id": 699,
+        "lat": -18.1363425,
+        "lng": 178.4270104,
+        "name": "Suva",
+        "region": "INT",
+        "station_id": "INT_TP004"
+    },
+    {
+        "id": 206,
+        "lat": 37.3376136,
+        "lng": -122.0025671,
+        "name": "Swallows Landing",
+        "region": "QLD",
+        "station_id": "QLD_TP208"
+    },
+    {
+        "id": 559,
+        "lat": "",
+        "lng": "",
+        "name": "Swan I.",
+        "region": "TAS",
+        "station_id": "TAS_TP033"
+    },
+    {
+        "id": 33,
+        "lat": 51.6201152,
+        "lng": -3.941436,
+        "name": "Swansea",
+        "region": "NSW",
+        "station_id": "NSW_TP024"
+    },
+    {
+        "id": 92,
+        "lat": -17.1145779,
+        "lng": 139.5980499,
+        "name": "Sweers Island",
+        "region": "QLD",
+        "station_id": "QLD_TP112"
+    },
+    {
+        "id": 34,
+        "lat": -33.87271,
+        "lng": 151.2056942,
+        "name": "Sydney (Fort Denison)",
+        "region": "NSW",
+        "station_id": "NSW_TP007"
+    },
+    {
+        "id": 327,
+        "lat": "",
+        "lng": "",
+        "name": "Tangalooma Point",
+        "region": "QLD",
+        "station_id": "QLD_TP149"
+    },
+    {
+        "id": 455,
+        "lat": "",
+        "lng": "",
+        "name": "Tantabiddi",
+        "region": "WA",
+        "station_id": "WA_TP107"
+    },
+    {
+        "id": 642,
+        "lat": -12.4401652,
+        "lng": 130.6055895,
+        "name": "Tapa Bay",
+        "region": "NT",
+        "station_id": "NT_TP055"
+    },
+    {
+        "id": 700,
+        "lat": 36.25799188424329,
+        "lng": -119.89153067326083,
+        "name": "Tarawa (Betio)",
+        "region": "INT",
+        "station_id": "INT_TP005"
+    },
+    {
+        "id": 701,
+        "lat": "",
+        "lng": "",
+        "name": "Tarekukure Wharf",
+        "region": "INT",
+        "station_id": "INT_TP051"
+    },
+    {
+        "id": 516,
+        "lat": 37.5466980520697,
+        "lng": -121.97669685993979,
+        "name": "Taylors Landing",
+        "region": "SA",
+        "station_id": "SA_TP039"
+    },
+    {
+        "id": 178,
+        "lat": "",
+        "lng": "",
+        "name": "Tetley I.",
+        "region": "QLD",
+        "station_id": "QLD_TP243"
+    },
+    {
+        "id": 643,
+        "lat": 37.3523715,
+        "lng": -121.9776478,
+        "name": "The Boxers",
+        "region": "NT",
+        "station_id": "NT_TP031"
+    },
+    {
+        "id": 78,
+        "lat": -38.3162036,
+        "lng": 144.6112535,
+        "name": "The Rip",
+        "region": "stream_VIC",
+        "station_id": "stream_VIC_TS001"
+    },
+    {
+        "id": 483,
+        "lat": -32.14577,
+        "lng": 133.6515125,
+        "name": "Thevenard",
+        "region": "SA",
+        "station_id": "SA_TP005"
+    },
+    {
+        "id": 411,
+        "lat": -21.4566364,
+        "lng": 114.9992294,
+        "name": "Thevenard Island",
+        "region": "WA",
+        "station_id": "WA_TP022"
+    },
+    {
+        "id": 283,
+        "lat": 50.0594246,
+        "lng": -127.4841665,
+        "name": "Thomas Island",
+        "region": "QLD",
+        "station_id": "QLD_TP114"
+    },
+    {
+        "id": 560,
+        "lat": 37.4379959,
+        "lng": -121.874472,
+        "name": "Three Hummock I.",
+        "region": "TAS",
+        "station_id": "TAS_TP042"
+    },
+    {
+        "id": 179,
+        "lat": -10.5849167,
+        "lng": 142.2180381,
+        "name": "Thursday Island",
+        "region": "QLD",
+        "station_id": "QLD_TP030"
+    },
+    {
+        "id": 282,
+        "lat": "",
+        "lng": "",
+        "name": "Tideway Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP183"
+    },
+    {
+        "id": 517,
+        "lat": "",
+        "lng": "",
+        "name": "Tiparra Reef Light",
+        "region": "SA",
+        "station_id": "SA_TP040"
+    },
+    {
+        "id": 68,
+        "lat": -38.2077025,
+        "lng": 145.3806412,
+        "name": "Tooradin",
+        "region": "VIC",
+        "station_id": "VIC_TP033"
+    },
+    {
+        "id": 230,
+        "lat": -19.2599583,
+        "lng": 146.8136205,
+        "name": "Townsville",
+        "region": "QLD",
+        "station_id": "QLD_TP033"
+    },
+    {
+        "id": 180,
+        "lat": "",
+        "lng": "",
+        "name": "Triangle Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP244"
+    },
+    {
+        "id": 412,
+        "lat": "",
+        "lng": "",
+        "name": "Trimouille I.",
+        "region": "WA",
+        "station_id": "WA_TP113"
+    },
+    {
+        "id": 379,
+        "lat": "",
+        "lng": "",
+        "name": "Troughton I.",
+        "region": "WA",
+        "station_id": "WA_TP134"
+    },
+    {
+        "id": 644,
+        "lat": -11.6672583,
+        "lng": 136.8273468,
+        "name": "Truant Island",
+        "region": "NT",
+        "station_id": "NT_TP032"
+    },
+    {
+        "id": 328,
+        "lat": "",
+        "lng": "",
+        "name": "Tryon I.",
+        "region": "QLD",
+        "station_id": "QLD_TP162"
+    },
+    {
+        "id": 518,
+        "lat": -34.3753092,
+        "lng": 136.1033098,
+        "name": "Tumby Bay",
+        "region": "SA",
+        "station_id": "SA_TP051"
+    },
+    {
+        "id": 181,
+        "lat": "",
+        "lng": "",
+        "name": "Turtle Head",
+        "region": "QLD",
+        "station_id": "QLD_TP031"
+    },
+    {
+        "id": 182,
+        "lat": -10.9293709,
+        "lng": 142.6876221,
+        "name": "Turtle Head Island",
+        "region": "QLD",
+        "station_id": "QLD_TP125"
+    },
+    {
+        "id": 35,
+        "lat": -28.1710866,
+        "lng": 153.543316,
+        "name": "Tweed Heads",
+        "region": "NSW",
+        "station_id": "NSW_TP028"
+    },
+    {
+        "id": 456,
+        "lat": 37.3261165,
+        "lng": -122.0224831,
+        "name": "Twilight Cove",
+        "region": "WA",
+        "station_id": "WA_TP073"
+    },
+    {
+        "id": 183,
+        "lat": "",
+        "lng": "",
+        "name": "Twin Island",
+        "region": "QLD",
+        "station_id": "QLD_TP032"
+    },
+    {
+        "id": 645,
+        "lat": 37.4765429,
+        "lng": -122.186632,
+        "name": "Two Hills Bay",
+        "region": "NT",
+        "station_id": "NT_TP033"
+    },
+    {
+        "id": 646,
+        "lat": 37.8910285,
+        "lng": -122.0773523,
+        "name": "Two Island Bay",
+        "region": "NT",
+        "station_id": "NT_TP093"
+    },
+    {
+        "id": 457,
+        "lat": "",
+        "lng": "",
+        "name": "Two Rocks Marina",
+        "region": "WA",
+        "station_id": "WA_TP093"
+    },
+    {
+        "id": 36,
+        "lat": -35.3568654,
+        "lng": 150.4805234,
+        "name": "Ulladulla Harbour",
+        "region": "NSW",
+        "station_id": "NSW_TP025"
+    },
+    {
+        "id": 702,
+        "lat": -8.4700112,
+        "lng": 143.7571623,
+        "name": "Umuda Island",
+        "region": "INT",
+        "station_id": "INT_TP020"
+    },
+    {
+        "id": 329,
+        "lat": -25.4825861,
+        "lng": 152.9921338,
+        "name": "Ungowa",
+        "region": "QLD",
+        "station_id": "QLD_TP153"
+    },
+    {
+        "id": 184,
+        "lat": "",
+        "lng": "",
+        "name": "Unnamed Cay",
+        "region": "QLD",
+        "station_id": "QLD_TP278"
+    },
+    {
+        "id": 239,
+        "lat": "",
+        "lng": "",
+        "name": "Unnamed Reef No. 1",
+        "region": "QLD",
+        "station_id": "QLD_TP201"
+    },
+    {
+        "id": 240,
+        "lat": "",
+        "lng": "",
+        "name": "Unnamed Reef No. 2",
+        "region": "QLD",
+        "station_id": "QLD_TP194"
+    },
+    {
+        "id": 130,
+        "lat": "",
+        "lng": "",
+        "name": "Unnamed Reef No. 3",
+        "region": "QLD",
+        "station_id": "QLD_TP228"
+    },
+    {
+        "id": 647,
+        "lat": "",
+        "lng": "",
+        "name": "Unnamed Shoal",
+        "region": "NT",
+        "station_id": "NT_TP046"
+    },
+    {
+        "id": 330,
+        "lat": -25.2933214,
+        "lng": 152.8939897,
+        "name": "Urangan",
+        "region": "QLD",
+        "station_id": "QLD_TP034"
+    },
+    {
+        "id": 458,
+        "lat": -26.1298211,
+        "lng": 113.4172582,
+        "name": "Useless Loop",
+        "region": "WA",
+        "station_id": "WA_TP103"
+    },
+    {
+        "id": 380,
+        "lat": 47.9377163,
+        "lng": -91.9969281,
+        "name": "Valentine Island",
+        "region": "WA",
+        "station_id": "WA_TP074"
+    },
+    {
+        "id": 381,
+        "lat": "",
+        "lng": "",
+        "name": "Van Cloon Shoal",
+        "region": "WA",
+        "station_id": "WA_TP075"
+    },
+    {
+        "id": 484,
+        "lat": -38.7021412,
+        "lng": 145.8206969,
+        "name": "Venus Bay",
+        "region": "SA",
+        "station_id": "SA_TP064"
+    },
+    {
+        "id": 485,
+        "lat": -35.5503158,
+        "lng": 138.6209202,
+        "name": "Victor Harbor",
+        "region": "SA",
+        "station_id": "SA_TP006"
+    },
+    {
+        "id": 486,
+        "lat": -35.9776727,
+        "lng": 137.1798908,
+        "name": "Vivonne Bay",
+        "region": "SA",
+        "station_id": "SA_TP041"
+    },
+    {
+        "id": 93,
+        "lat": "",
+        "lng": "",
+        "name": "Vrilya Point",
+        "region": "QLD",
+        "station_id": "QLD_TP128"
+    },
+    {
+        "id": 331,
+        "lat": "",
+        "lng": "",
+        "name": "Waddy Point (Fraser Island)",
+        "region": "QLD",
+        "station_id": "QLD_TP035"
+    },
+    {
+        "id": 241,
+        "lat": "",
+        "lng": "",
+        "name": "Wallaby Reef",
+        "region": "QLD",
+        "station_id": "QLD_TP129"
+    },
+    {
+        "id": 519,
+        "lat": -33.9329417,
+        "lng": 137.631266,
+        "name": "Wallaroo",
+        "region": "SA",
+        "station_id": "SA_TP007"
+    },
+    {
+        "id": 69,
+        "lat": -38.8349956,
+        "lng": 146.0300898,
+        "name": "Waratah Bay",
+        "region": "VIC",
+        "station_id": "VIC_TP044"
+    },
+    {
+        "id": 459,
+        "lat": -32.3367477,
+        "lng": 115.7148458,
+        "name": "Warnbro Sound",
+        "region": "WA",
+        "station_id": "WA_TP076"
+    },
+    {
+        "id": 70,
+        "lat": -38.3859087,
+        "lng": 142.4820821,
+        "name": "Warrnambool",
+        "region": "VIC",
+        "station_id": "VIC_TP047"
+    },
+    {
+        "id": 703,
+        "lat": "",
+        "lng": "",
+        "name": "Wasu",
+        "region": "INT",
+        "station_id": "INT_TP046"
+    },
+    {
+        "id": 487,
+        "lat": "",
+        "lng": "",
+        "name": "Wedge Island Mooring",
+        "region": "SA",
+        "station_id": "SA_TP042"
+    },
+    {
+        "id": 94,
+        "lat": -12.6316901,
+        "lng": 141.8740079,
+        "name": "Weipa (Humbug Point)",
+        "region": "QLD",
+        "station_id": "QLD_TP036"
+    },
+    {
+        "id": 71,
+        "lat": -37.9042031,
+        "lng": 144.6618529,
+        "name": "Werribee",
+        "region": "VIC",
+        "station_id": "VIC_TP034"
+    },
+    {
+        "id": 648,
+        "lat": "",
+        "lng": "",
+        "name": "West Alligator Head",
+        "region": "NT",
+        "station_id": "NT_TP034"
+    },
+    {
+        "id": 72,
+        "lat": "",
+        "lng": "",
+        "name": "West Channel Pile",
+        "region": "VIC",
+        "station_id": "VIC_TP008"
+    },
+    {
+        "id": 73,
+        "lat": "",
+        "lng": "",
+        "name": "West Channel Pile Light",
+        "region": "VIC",
+        "station_id": "VIC_TP035"
+    },
+    {
+        "id": 74,
+        "lat": "",
+        "lng": "",
+        "name": "West Channel Wedge Light",
+        "region": "VIC",
+        "station_id": "VIC_TP036"
+    },
+    {
+        "id": 382,
+        "lat": "",
+        "lng": "",
+        "name": "West Holothuria Reef",
+        "region": "WA",
+        "station_id": "WA_TP136"
+    },
+    {
+        "id": 649,
+        "lat": 38.0240722,
+        "lng": -121.7795029,
+        "name": "West Island",
+        "region": "NT",
+        "station_id": "NT_TP035"
+    },
+    {
+        "id": 704,
+        "lat": 37.51696291599837,
+        "lng": -122.0485147419732,
+        "name": "West Jetty",
+        "region": "WA",
+        "station_id": "WA_TP039"
+    },
+    {
+        "id": 95,
+        "lat": -16.7103326,
+        "lng": 139.1623001,
+        "name": "West Wellesley Islands",
+        "region": "QLD",
+        "station_id": "QLD_TP142"
+    },
+    {
+        "id": 75,
+        "lat": -38.4248325,
+        "lng": 145.2941626,
+        "name": "Western Port (Sandy Point)",
+        "region": "VIC",
+        "station_id": "VIC_TP031"
+    },
+    {
+        "id": 76,
+        "lat": -38.4248325,
+        "lng": 145.2941626,
+        "name": "Western Port (Stony Point)",
+        "region": "VIC",
+        "station_id": "VIC_TP013"
+    },
+    {
+        "id": 520,
+        "lat": "",
+        "lng": "",
+        "name": "Western Shoal Beacon",
+        "region": "SA",
+        "station_id": "SA_TP052"
+    },
+    {
+        "id": 705,
+        "lat": -29.9623735,
+        "lng": 131.7089839,
+        "name": "Wewak",
+        "region": "INT",
+        "station_id": "INT_TP021"
+    },
+    {
+        "id": 488,
+        "lat": -20.5212794,
+        "lng": 116.6718281,
+        "name": "Whalers Bay",
+        "region": "SA",
+        "station_id": "SA_TP043"
+    },
+    {
+        "id": 383,
+        "lat": 37.34655101075321,
+        "lng": -121.9726733,
+        "name": "White I.",
+        "region": "WA",
+        "station_id": "WA_TP129"
+    },
+    {
+        "id": 185,
+        "lat": "",
+        "lng": "",
+        "name": "White Rocks Area",
+        "region": "QLD",
+        "station_id": "QLD_TP252"
+    },
+    {
+        "id": 284,
+        "lat": "",
+        "lng": "",
+        "name": "Whitetip Reef Front",
+        "region": "QLD",
+        "station_id": "QLD_TP131"
+    },
+    {
+        "id": 285,
+        "lat": "",
+        "lng": "",
+        "name": "Whitetip Reef Rear",
+        "region": "QLD",
+        "station_id": "QLD_TP132"
+    },
+    {
+        "id": 522,
+        "lat": -33.0353631,
+        "lng": 137.5768823,
+        "name": "Whyalla",
+        "region": "SA",
+        "station_id": "SA_TP008"
+    },
+    {
+        "id": 242,
+        "lat": 48.9149014,
+        "lng": -125.3411856,
+        "name": "Willis Island",
+        "region": "QLD",
+        "station_id": "QLD_TP134"
+    },
+    {
+        "id": 460,
+        "lat": 37.3305372,
+        "lng": -122.0574911,
+        "name": "Wilson Head",
+        "region": "WA",
+        "station_id": "WA_TP087"
+    },
+    {
+        "id": 77,
+        "lat": 37.3305372,
+        "lng": -122.0574911,
+        "name": "Wilson Spit",
+        "region": "VIC",
+        "station_id": "VIC_TP037"
+    },
+    {
+        "id": 461,
+        "lat": -34.8346849,
+        "lng": 116.0254535,
+        "name": "Windy Harbour",
+        "region": "WA",
+        "station_id": "WA_TP077"
+    },
+    {
+        "id": 521,
+        "lat": "",
+        "lng": "",
+        "name": "Wirrina",
+        "region": "SA",
+        "station_id": "SA_TP057"
+    },
+    {
+        "id": 413,
+        "lat": -20.5794828,
+        "lng": 116.7880722,
+        "name": "Withnell Bay",
+        "region": "WA",
+        "station_id": "WA_TP078"
+    },
+    {
+        "id": 462,
+        "lat": "",
+        "lng": "",
+        "name": "Withnell Point",
+        "region": "WA",
+        "station_id": "WA_TP101"
+    },
+    {
+        "id": 186,
+        "lat": "",
+        "lng": "",
+        "name": "Wyborn Reef Light",
+        "region": "QLD",
+        "station_id": "QLD_TP242"
+    },
+    {
+        "id": 384,
+        "lat": -15.4844421,
+        "lng": 128.1238808,
+        "name": "Wyndham",
+        "region": "WA",
+        "station_id": "WA_TP023"
+    },
+    {
+        "id": 414,
+        "lat": 36.90658954981625,
+        "lng": -121.55594124993385,
+        "name": "Y I.",
+        "region": "WA",
+        "station_id": "WA_TP109"
+    },
+    {
+        "id": 650,
+        "lat": -12.0408793,
+        "lng": 134.9496853,
+        "name": "Yabooma Island",
+        "region": "NT",
+        "station_id": "NT_TP038"
+    },
+    {
+        "id": 187,
+        "lat": -9.8998855,
+        "lng": 142.7692646,
+        "name": "Yam Island",
+        "region": "QLD",
+        "station_id": "QLD_TP123"
+    },
+    {
+        "id": 37,
+        "lat": -29.4360874,
+        "lng": 153.3606569,
+        "name": "Yamba",
+        "region": "NSW",
+        "station_id": "NSW_TP008"
+    },
+    {
+        "id": 385,
+        "lat": -16.1587363,
+        "lng": 123.6587593,
+        "name": "Yampi Sound (Koolan Island)",
+        "region": "WA",
+        "station_id": "WA_TP024"
+    },
+    {
+        "id": 188,
+        "lat": "",
+        "lng": "",
+        "name": "Yorke I. Barge",
+        "region": "QLD",
+        "station_id": "QLD_TP266"
+    },
+    {
+        "id": 207,
+        "lat": -16.8103073,
+        "lng": 145.7210626,
+        "name": "Yorkeys Knob",
+        "region": "QLD",
+        "station_id": "QLD_TP210"
+    },
+    {
+        "id": 189,
+        "lat": -9.8539963,
+        "lng": 142.920639,
+        "name": "Zagai Island",
+        "region": "QLD",
+        "station_id": "QLD_TP124"
+    },
+    {
+        "id": 711,
+        "lat": "",
+        "lng": "",
+        "name": "Zhong Shan",
+        "region": "TAS",
+        "station_id": "TAS_TP013"
+    }
+]
