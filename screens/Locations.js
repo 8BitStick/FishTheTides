@@ -49,9 +49,9 @@ const Locations = ({ navigation }) => {
           closest = i;
           mindif = dif;
         }
-        // setTimeout(() => {
-        //   navigation.navigate('Tides', { item: stations[closest] });
-        // }, 2000);
+        setTimeout(() => {
+          navigation.navigate('Tides', { item: stations[closest] });
+        }, 2000);
       }
     }
   }
