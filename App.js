@@ -1,6 +1,6 @@
 import React from 'react'
 import { StatusBar } from 'react-native'
-import { NavigationContainer, DarkTheme } from '@react-navigation/native';
+import { NavigationContainer, DefaultTheme } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Icon from 'react-native-vector-icons/FontAwesome5';
 import { Provider } from 'react-redux';
@@ -14,11 +14,11 @@ const App = ({}) => {
   
   return (
     <Provider store={store}>
-      <NavigationContainer theme={DarkTheme}>
-        <StatusBar barStyle='light-content' />
+      <NavigationContainer theme={DefaultTheme}>
+        <StatusBar barStyle='dark-content' />
         <Tab.Navigator initialRoute="Locations"
           screenOptions={({ route }) => ({
-            tabBarActiveTintColor: "#22d3ee",
+            tabBarActiveTintColor: "#f05c2c",
             tabBarInactiveTintColor: "gray",
             tabBarIcon: ({ focused, color, size }) => {
               let iconName;
@@ -38,6 +38,16 @@ const App = ({}) => {
           <Tab.Screen
             name="Locations"
             component={Locations}
+            options={{
+              headerStyle: {
+                shadowColor: 'gray',
+                shadowRadius: 3
+              },
+              headerTintColor: '#f05c2c',
+              headerTitleStyle: {
+                fontSize: 20
+              },
+            }}
           />
           <Tab.Screen
             name="Tides"

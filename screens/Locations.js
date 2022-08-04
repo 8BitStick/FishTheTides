@@ -1,16 +1,15 @@
-import { ScrollView, Alert } from 'react-native'
+import { Alert, ActivityIndicator, View, TouchableOpacity } from 'react-native'
 import React, { useEffect, useState } from 'react'
 import Icon from 'react-native-vector-icons/MaterialIcons'
 import RNLocation from 'react-native-location';
 import {
   NativeBaseProvider,
   Text,
-  VStack,
-  Center,
   Input,
   Box,
-  Divider,
-  Button
+  HStack, 
+  FlatList,
+  Spacer
 } from 'native-base';
 
 
@@ -19,13 +18,13 @@ const stationData = require('../stations.json')
 
 const Locations = ({ navigation }) => {
   const [permissionsEnabled, setPermissionsEnabled] = useState(false)
-  const [viewLocation, setViewLocation] = useState([])
+  const [isLoading, setLoading] = useState(true)
   const [q, setQ] = useState();
   const [stations, setStations] = useState(stationData)
   
 
   useEffect(() => {
-    requestPermission()
+    checkPermissions()
     requestLocation()
   }, []);
 
@@ -51,42 +50,52 @@ const Locations = ({ navigation }) => {
         }
         setTimeout(() => {
           navigation.navigate('Tides', { item: stations[closest] });
+          
         }, 2000);
       }
     }
   }
 
-  const requestPermission = async () => {
+  const checkPermissions = async () => {
     let permission = await RNLocation.checkPermission({
       ios: 'whenInUse', // or 'always'
       android: {
         detail: 'coarse' // or 'fine'
       }
     });
-    if (!permission) {
-      permission = await RNLocation.requestPermission({
-        ios: "whenInUse",
-        android: {
-          detail: "coarse",
-          rationale: {
-            title: "We need to access your location",
-            message: "We use your location to show where you the closest station",
-            buttonPositive: "OK",
-            buttonNegative: "Cancel"
+    if (!permission){
+        permission = await RNLocation.requestPermission({
+          ios: "whenInUse",
+          android: {
+            detail: "coarse",
+            rationale: {
+              title: "We need to access your location",
+              message: "We use your location to show where you the closest station",
+              buttonPositive: "OK",
+              buttonNegative: "Cancel"
+            }
           }
-        }
-      })
-    setPermissionsEnabled(true)
+        })
+      if (!permission) {
+        Alert.alert(
+          'Location Service not enabled',
+          'Please enable your location services for automatic location selection',
+          [{ text: 'OK' }],
+          { cancelable: false }
+        );
+        setLoading(false)
+      }
+    } else {
+      setPermissionsEnabled(true)
     }
   }
 
-  const requestLocation = async () => {
-      const { latitude, longitude } = await RNLocation.getLatestLocation({ timeout: 100 })
+  const requestLocation = async () => { 
+    const { latitude, longitude } = await RNLocation.getLatestLocation({ timeout: 100 })
       if (latitude && longitude) {
         nearestCity(latitude, longitude)
       }
   }
-
 
   const search = (text) => {
     setQ(text)
@@ -100,45 +109,47 @@ const Locations = ({ navigation }) => {
     }
   };
 
-  const goToTides = ({station}) => {
-    navigation.navigate('Tides', { item: station });
+  const goToTides = ({item}) => {
+    navigation.navigate('Tides', { item: item });
   }
 
 
+
+
+
   return (
-      <ScrollView>
-        <NativeBaseProvider>
+      <NativeBaseProvider>
+        <Box margin={2}>
           <Box alignItems="center" marginTop={1} marginBottom={1}>
-            <Input size="lg"
+            <Input size="2xl"
               mx="3"
               placeholder="Search..."
               w="100%"
-              color="primary.100"
-              InputLeftElement={<Icon name="search" size={20} color="#ecfeff" style={{ "marginLeft": 10 }} />}
+              color="#16688d"
+              borderColor="muted.400"
+              InputLeftElement={<Icon name="search" size={30} color="#f05c2c" style={{ "marginLeft": 10 }} />}
               onChangeText={search}
               value={q}
             />
           </Box>
-          <Divider bg="muted.500" width="97%" margin={1} />
-          <VStack space={1}  marginTop={1}>
-            {stations.map((station, i) => (
-              <Center key={station.id}
-                w="full" 
-                bg="primary.900" 
-                color="primary.100" 
-                rounded="md" 
-                shadow={3}
-                >
-                <Button primary w="full" 
-                  leftIcon={<Icon name="location-on" size={20} color="#67e8f9" />}
-                  onPress={() => goToTides({station})}>       
-                    <Text fontSize="lg" color="primary.100">{station.name}</Text>
-                </Button>
-              </Center>
-            ))}
-          </VStack>
-        </NativeBaseProvider>
-      </ScrollView>
+          <Box marginTop={3} marginBottom={3}>
+            <FlatList data={stations} 
+              renderItem={({ item }) => (
+                <Box borderBottomWidth="1" borderColor="muted.400" pl={["0", "4"]} pr={["0", "5"]} py="2">
+                  <TouchableOpacity onPress={() => goToTides({ item })}>
+                    <HStack space={[2, 3]} justifyContent="space-between">
+                      <Icon name="location-on" size={30} color="#f05c2c" />
+                      <Text fontSize="xl" color="#16688d">{item.name}</Text>
+                      <Spacer />
+                    </HStack>
+                  </TouchableOpacity>
+                </Box>
+              )} 
+              keyExtractor={item => item.id}
+            />
+          </Box>
+        </Box>
+      </NativeBaseProvider>
   )
 }
 
