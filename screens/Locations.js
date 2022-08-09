@@ -50,7 +50,9 @@ const Locations = ({ navigation }) => {
           closest = i;
           mindif = dif;
         }
-        navigation.navigate('Tides', { item: stations[closest] });
+        setTimeout(() => {
+          navigation.navigate('Tides', { item: stations[closest] });
+        }, 1000);
       }
     }
   }
