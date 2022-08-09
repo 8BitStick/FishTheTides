@@ -2,8 +2,6 @@ import { Alert, TouchableOpacity } from 'react-native'
 import React, { useEffect, useState } from 'react'
 import Icon from 'react-native-vector-icons/MaterialIcons'
 import RNLocation from 'react-native-location';
-import { getTides } from '../redux/actions';
-import { useDispatch } from 'react-redux';
 import {
   NativeBaseProvider,
   Text,
@@ -22,7 +20,6 @@ const Locations = ({ navigation }) => {
   const [permissionsEnabled, setPermissionsEnabled] = useState(false)
   const [isLoading, setLoading] = useState(true)
   const [stations, setStations] = useState(stationData)
-  const dispatch = useDispatch()
   
 
   useEffect(() => {
