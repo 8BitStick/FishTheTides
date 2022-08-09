@@ -8,7 +8,6 @@ import { store } from './redux/store';
 import Tides from './screens/Tides'
 import Locations from './screens/Locations';
 
-
 const App = ({}) => {
   const Tab = createBottomTabNavigator();
   

@@ -1,7 +1,9 @@
-import { Alert, ActivityIndicator, View, TouchableOpacity } from 'react-native'
+import { Alert, TouchableOpacity } from 'react-native'
 import React, { useEffect, useState } from 'react'
 import Icon from 'react-native-vector-icons/MaterialIcons'
 import RNLocation from 'react-native-location';
+import { getTides } from '../redux/actions';
+import { useDispatch } from 'react-redux';
 import {
   NativeBaseProvider,
   Text,
@@ -19,8 +21,8 @@ const stationData = require('../stations.json')
 const Locations = ({ navigation }) => {
   const [permissionsEnabled, setPermissionsEnabled] = useState(false)
   const [isLoading, setLoading] = useState(true)
-  const [q, setQ] = useState();
   const [stations, setStations] = useState(stationData)
+  const dispatch = useDispatch()
   
 
   useEffect(() => {
@@ -48,10 +50,7 @@ const Locations = ({ navigation }) => {
           closest = i;
           mindif = dif;
         }
-        setTimeout(() => {
-          navigation.navigate('Tides', { item: stations[closest] });
-          
-        }, 2000);
+        navigation.navigate('Tides', { item: stations[closest] });
       }
     }
   }
@@ -98,7 +97,6 @@ const Locations = ({ navigation }) => {
   }
 
   const search = (text) => {
-    setQ(text)
     if (text !== "") {
       const results = stations.filter((station) => {
         return station.name.toLowerCase().startsWith(text.toLowerCase())
@@ -114,9 +112,6 @@ const Locations = ({ navigation }) => {
   }
 
 
-
-
-
   return (
       <NativeBaseProvider>
         <Box margin={2}>
@@ -129,7 +124,6 @@ const Locations = ({ navigation }) => {
               borderColor="muted.400"
               InputLeftElement={<Icon name="search" size={30} color="#f05c2c" style={{ "marginLeft": 10 }} />}
               onChangeText={search}
-              value={q}
             />
           </Box>
           <Box marginTop={3} marginBottom={3}>
