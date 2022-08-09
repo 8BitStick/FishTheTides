@@ -30,7 +30,7 @@ const NextLowTide = ({tideDays}) => {
     
     if (!loading){
         return (
-            <Box margin={2}>
+            <Box margin={2} w="1/3">
                 <Text fontSize="md" color="#f05c2c" textAlign="right">
                     Next <Text fontWeight={700} fontSize="lg">{nextLowTide.tide_type}
                     </Text>

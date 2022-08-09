@@ -30,7 +30,7 @@ const NextHighTide = ({tideDays}) => {
     
     if (!loading){
         return (
-            <Box margin={2}>
+            <Box margin={2} w="1/3">
                 <Text fontSize="md" color="#16688d">
                     Next <Text fontWeight={700} fontSize="lg">{nextHighTide.tide_type}
                     </Text>
@@ -40,6 +40,7 @@ const NextHighTide = ({tideDays}) => {
                         {timeUntilNow.hrs !== 0 ? `${timeUntilNow.hrs}hrs ` : null}{timeUntilNow.mins !== 0 ? `${timeUntilNow.mins}mins` : null}
                     </Text>
                 </Box>
+                
             </Box>
         )
 
