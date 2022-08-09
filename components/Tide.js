@@ -36,7 +36,7 @@ const Tide = ({tideDay, tideDays}) => {
                 marginBottom={2} 
                 borderStyle={tide.id === nextTideId ? "solid" : null} 
                 borderColor={tide.id === nextTideId ? "#55ff55" : null}
-                borderWidth={tide.id === nextTideId ? 1 : 0}
+                borderWidth={tide.id === nextTideId ? 2 : 0}
               >
               <Box flex={1} flexDirection="row" justifyContent="space-between">
                 <Box flex={1} marginLeft={2} justifyContent="center">
@@ -85,6 +85,12 @@ const Tide = ({tideDay, tideDays}) => {
         ))}
 
       </Box>
+    )
+  } else {
+    return (
+      <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
+        <ActivityIndicator size="small" />
+      </View>
     )
   }
 }

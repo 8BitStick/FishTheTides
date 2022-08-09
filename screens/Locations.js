@@ -49,7 +49,7 @@ const Locations = ({ navigation }) => {
         }
         setTimeout(() => {
           navigation.navigate('Tides', { item: stations[closest] });
-        }, 1000);
+        }, 100);
       }
     }
   }

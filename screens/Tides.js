@@ -16,13 +16,11 @@ const Tides = ({ route }) => {
     const { tideDays } = useSelector(state => state.tidesReducer);
     const fetchTides = () => dispatch(getTides(item.station_id, item.region))
     
-    
     useEffect(() => {
         if(isFocused){
             fetchTides()
         }
     }, [isFocused])
-
     
     return (
         <SafeAreaView>
@@ -30,12 +28,21 @@ const Tides = ({ route }) => {
                 <NativeBaseProvider>
                     <Box margin={1}>
                         <Box flex={1} justifyContent="center" margin={2}>
-                            <Heading size="xl" color="#f05c2c">{item.name}</Heading>
+                            <Heading size="xl" color="#f05c2c">{item.name}
+                                <Box flex={1} justifyContent="center" alignItems="center">
+                                    <Heading size="xs" color="muted.400">  ({item.region})</Heading>
+                                </Box>
+                            </Heading>
                             <Divider marginTop={3} marginBottom={3} />
                         </Box>
-                        <Box flex={1} justifyContent="space-between" flexDirection="row" alignItems="center" marginLeft={2} marginRight={2}>
-                            <NextHighTide tideDays={tideDays} />
-                            <NextLowTide tideDays={tideDays} />
+                        <Box bg="#fff" borderStyle="solid" rounded="md" shadow={3} marginLeft={1}>
+                            <Box flex={1} justifyContent="space-between" flexDirection="row" alignItems="center" marginLeft={2} marginRight={2}>
+                                <NextHighTide tideDays={tideDays} />
+                                <Box padding={1}>
+                                    <Divider orientation='vertical' mx="2" />
+                                </Box>
+                                <NextLowTide tideDays={tideDays} />
+                            </Box>
                         </Box>
                         <Box margin={2}>
                             {tideDays.map((tideDay, i) => (

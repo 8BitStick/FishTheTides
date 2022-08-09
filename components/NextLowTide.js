@@ -30,16 +30,16 @@ const NextLowTide = ({tideDays}) => {
     
     if (!loading){
         return (
-            <Box>
-                <Text fontSize="md" color="#16688d" textAlign="right">
-                    Next <Text color="#f05c2c" fontWeight={700} fontSize="lg">{nextLowTide.tide_type}
+            <Box margin={2}>
+                <Text fontSize="md" color="#f05c2c" textAlign="right">
+                    Next <Text fontWeight={700} fontSize="lg">{nextLowTide.tide_type}
                     </Text>
                 </Text>
-                <Box justifyContent="center" alignItems="center">
-                    <Text fontSize="lg" color="#16688d" fontWeight={700}>
-                        {timeUntilNow.hrs}hrs {timeUntilNow.mins} mins
+                <Box>
+                    <Text fontSize="lg" color="#f05c2c" fontWeight={700} textAlign="right">
+                        {timeUntilNow.hrs !== 0 ? `${timeUntilNow.hrs}hrs ` : null}{timeUntilNow.mins !== 0 ? `${timeUntilNow.mins}mins` : null}
                     </Text>
-                </Box>  
+                </Box>
             </Box>
         )
 

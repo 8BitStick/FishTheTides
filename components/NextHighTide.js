@@ -1,4 +1,4 @@
-import { Box, Text } from 'native-base';
+import { Box, Text, Center } from 'native-base';
 import { View, ActivityIndicator} from 'react-native'
 import React, { useState, useEffect } from 'react'
 import moment from 'moment';
@@ -30,16 +30,16 @@ const NextHighTide = ({tideDays}) => {
     
     if (!loading){
         return (
-            <Box>
+            <Box margin={2}>
                 <Text fontSize="md" color="#16688d">
-                    Next <Text color="#16688d" fontWeight={700} fontSize="lg">{nextHighTide.tide_type}
+                    Next <Text fontWeight={700} fontSize="lg">{nextHighTide.tide_type}
                     </Text>
                 </Text>
-                <Box justifyContent="center" alignItems="center">
-                    <Text fontSize="lg" color="#16688d" fontWeight={700}>
-                        {timeUntilNow.hrs}hrs {timeUntilNow.mins} mins
+                <Box>
+                    <Text fontSize="lg" color="#16688d" fontWeight={700} textAlign="left">
+                        {timeUntilNow.hrs !== 0 ? `${timeUntilNow.hrs}hrs ` : null}{timeUntilNow.mins !== 0 ? `${timeUntilNow.mins}mins` : null}
                     </Text>
-                </Box>  
+                </Box>
             </Box>
         )
 
