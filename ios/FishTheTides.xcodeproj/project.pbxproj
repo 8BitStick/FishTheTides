@@ -560,7 +560,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 775Z6955SA;
+				DEVELOPMENT_TEAM = 5M7GWA5TZR;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = FishTheTides/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -572,7 +572,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.bitsticky.FishTheTides;
+				PRODUCT_BUNDLE_IDENTIFIER = com.brownie.FishTheTides;
 				PRODUCT_NAME = FishTheTides;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -587,7 +587,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 775Z6955SA;
+				DEVELOPMENT_TEAM = 5M7GWA5TZR;
 				INFOPLIST_FILE = FishTheTides/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -598,7 +598,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.bitsticky.FishTheTides;
+				PRODUCT_BUNDLE_IDENTIFIER = com.brownie.FishTheTides;
 				PRODUCT_NAME = FishTheTides;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";

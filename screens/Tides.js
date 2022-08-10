@@ -35,7 +35,7 @@ const Tides = ({ route }) => {
                             </Heading>
                             <Divider marginTop={3} marginBottom={3} />
                         </Box>
-                        <Box bg="#fff" borderStyle="solid" rounded="md" shadow={3} marginLeft={1}>
+                        <Box bg="#fff" borderStyle="solid" rounded="md" shadow={3} marginLeft={2} marginRight={2}>
                             <Box flex={1} justifyContent="space-between" flexDirection="row" alignItems="center" marginLeft={2} marginRight={2}>
                                 <NextHighTide tideDays={tideDays} />
                                 <Box padding={1}>

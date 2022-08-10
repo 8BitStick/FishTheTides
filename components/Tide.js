@@ -34,19 +34,22 @@ const Tide = ({tideDay, tideDays}) => {
                 rounded="lg" 
                 shadow={3} 
                 marginBottom={2} 
-                borderStyle={tide.id === nextTideId ? "solid" : null} 
-                borderColor={tide.id === nextTideId ? "#55ff55" : null}
+                borderStyle={tide.id === nextTideId ? "solid" : ""} 
+                borderColor={tide.id === nextTideId ? "#55ff55" : ""}
                 borderWidth={tide.id === nextTideId ? 2 : 0}
               >
               <Box flex={1} flexDirection="row" justifyContent="space-between">
                 <Box flex={1} marginLeft={2} justifyContent="center">
                   <HStack>
-                    <Center padding={1} w="33%">
-                      <Text fontSize="xl"
-                        fontWeight={700}
-                        color={tide.tide_type === "Low" ? "#f05c2c" : "#16688d"}>
-                        {(tide.tide_type).toUpperCase()}
-                      </Text>
+                    <Center padding={1} w="1/3">
+                      <Box w="full">
+                        <Text fontSize="lg"
+                          fontWeight={700}
+                          color={tide.tide_type === "Low" ? "#f05c2c" : "#16688d"}>
+                          {(tide.tide_type).toUpperCase()}
+                        </Text>
+                      </Box>
+                      
                     </Center>
                     <Center padding={1}>
                       <Divider orientation="vertical" mx="2" />

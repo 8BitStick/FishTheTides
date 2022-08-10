@@ -1,4 +1,4 @@
-import { Alert, TouchableOpacity } from 'react-native'
+import { Alert, TouchableOpacity, View, ActivityIndicator } from 'react-native'
 import React, { useEffect, useState } from 'react'
 import Icon from 'react-native-vector-icons/MaterialIcons'
 import RNLocation from 'react-native-location';
@@ -18,7 +18,7 @@ const stationData = require('../stations.json')
 
 const Locations = ({ navigation }) => {
   const [permissionsEnabled, setPermissionsEnabled] = useState(false)
-  const [isLoading, setLoading] = useState(true)
+  const [loading, setLoading] = useState(true)
   const [stations, setStations] = useState(stationData)
   
 
@@ -110,40 +110,48 @@ const Locations = ({ navigation }) => {
     navigation.navigate('Tides', { item: item });
   }
 
-
+  
   return (
-      <NativeBaseProvider>
-        <Box margin={2}>
-          <Box alignItems="center" marginTop={1} marginBottom={1}>
-            <Input size="2xl"
-              mx="3"
-              placeholder="Search..."
-              w="100%"
-              color="#16688d"
-              borderColor="muted.400"
-              InputLeftElement={<Icon name="search" size={30} color="#f05c2c" style={{ "marginLeft": 10 }} />}
-              onChangeText={search}
-            />
-          </Box>
-          <Box marginTop={3} marginBottom={3}>
-            <FlatList data={stations} 
-              renderItem={({ item }) => (
-                <Box borderBottomWidth="1" borderColor="muted.400" pl={["0", "4"]} pr={["0", "5"]} py="2">
-                  <TouchableOpacity onPress={() => goToTides({ item })}>
-                    <HStack space={[2, 3]} justifyContent="space-between">
-                      <Icon name="location-on" size={30} color="#f05c2c" />
-                      <Text fontSize="xl" color="#16688d">{item.name}</Text>
-                      <Spacer />
-                    </HStack>
-                  </TouchableOpacity>
-                </Box>
-              )} 
-              keyExtractor={item => item.id}
-            />
-          </Box>
+    <NativeBaseProvider>
+      <Box margin={2}>
+        <Box alignItems="center" marginTop={1} marginBottom={1}>
+          <Input size="2xl"
+            mx="3"
+            placeholder="Search..."
+            w="100%"
+            color="#16688d"
+            borderColor="muted.400"
+            InputLeftElement={<Icon name="search" size={30} color="#f05c2c" style={{ "marginLeft": 10 }} />}
+            onChangeText={search}
+          />
         </Box>
-      </NativeBaseProvider>
+        <Box marginTop={3} marginBottom={3}>
+          <FlatList data={stations}
+            renderItem={({ item }) => (
+              <Box borderBottomWidth="1" borderColor="muted.400" pl={["0", "4"]} pr={["0", "5"]} py="2">
+                <TouchableOpacity onPress={() => goToTides({ item })}>
+                  <HStack space={[2, 3]} justifyContent="space-between">
+                    <Icon name="location-on" size={30} color="#f05c2c" />
+                    <Text fontSize="xl" color="#16688d">{item.name}</Text>
+                    <Spacer />
+                  </HStack>
+                </TouchableOpacity>
+              </Box>
+            )}
+            keyExtractor={item => item.id}
+          />
+        </Box>
+      </Box>
+    </NativeBaseProvider>
   )
+  // } else {
+  //   return (
+  //     <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
+  //       <ActivityIndicator size="small" />
+  //     </View>
+  //   )
+  // }
+  
 }
 
 export default Locations

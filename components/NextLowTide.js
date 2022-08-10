@@ -23,7 +23,6 @@ const NextLowTide = ({tideDays}) => {
             setTimeUnitNow({hrs: hrs, mins: mins})
             setNextLowTide(result)
             setLoading(false)
-            
         }
     }, [tideDays])
 
@@ -37,7 +36,14 @@ const NextLowTide = ({tideDays}) => {
                 </Text>
                 <Box>
                     <Text fontSize="lg" color="#f05c2c" fontWeight={700} textAlign="right">
-                        {timeUntilNow.hrs !== 0 ? `${timeUntilNow.hrs}hrs ` : null}{timeUntilNow.mins !== 0 ? `${timeUntilNow.mins}mins` : null}
+                        {
+                            timeUntilNow.hrs !== 0 ? `${timeUntilNow.hrs}hrs `
+                                : timeUntilNow.mins === 60 ? `${timeUntilNow.hrs + 1}hrs `
+                                    : ""
+                        }
+                        {
+                            timeUntilNow.mins !== 60 ? `${timeUntilNow.mins}mins` : ""
+                        }
                     </Text>
                 </Box>
             </Box>

@@ -19,7 +19,7 @@ const NextHighTide = ({tideDays}) => {
         if ( result !== undefined) {
             let minsToNow = moment(result.tide_time).diff(moment(), 'minutes')
             let mins = (minsToNow % 60) + 1
-            let hrs = Math.floor(minsToNow / 60)
+            let hrs = Math.floor(minsToNow  / 60)
             setTimeUnitNow({hrs: hrs, mins: mins})
             setNextHighTide(result)
             setLoading(false)
@@ -37,7 +37,14 @@ const NextHighTide = ({tideDays}) => {
                 </Text>
                 <Box>
                     <Text fontSize="lg" color="#16688d" fontWeight={700} textAlign="left">
-                        {timeUntilNow.hrs !== 0 ? `${timeUntilNow.hrs}hrs ` : null}{timeUntilNow.mins !== 0 ? `${timeUntilNow.mins}mins` : null}
+                        {   
+                            timeUntilNow.hrs !== 0 ? `${timeUntilNow.hrs}hrs ` 
+                            : timeUntilNow.mins === 60 ? `${timeUntilNow.hrs + 1}hrs ` 
+                            : ""
+                        }
+                        {
+                            timeUntilNow.mins !== 60 ? `${timeUntilNow.mins}mins` : ""
+                        }
                     </Text>
                 </Box>
                 
