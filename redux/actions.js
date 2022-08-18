@@ -2,9 +2,14 @@ import moment from "moment";
 import axios from "axios";
 import cheerio from "react-native-cheerio";
 import uuid from 'react-native-uuid';
+import { SearchBar } from "react-native-screens";
+
 
 export const GET_TIDES = 'GET_TIDES';
-export const FIND_NEXT_TIDE = 'FIND_NEXT_TIDE'
+
+export const GET_STATIONS = 'GET_STATIONS'
+export const SEARCH_STATIONS = 'SEARCH_STATIONS'
+export const SET_STATION = 'SET_STATION'
 
 
 export const getTides = (location, region) => {
@@ -132,3 +137,48 @@ export const getTides = (location, region) => {
     }
 };
 
+export const getStations = () => {
+    const stationsJson = require('../stations.json')
+    try {
+        return async dispatch => {
+            dispatch({
+                type: GET_STATIONS,
+                payload: stationsJson,
+            });
+        }
+
+    } catch (error) {
+        console.log(error)
+    }
+    
+}
+
+export const searchStations = (text) => {
+    try {
+        return async dispatch => {
+            dispatch({
+                type: SEARCH_STATIONS,
+                payload: text
+            })
+        } 
+    } catch (error) {
+        console.log(error)
+    }
+    
+    
+}
+
+export const setStation = (station) => {
+    try {
+        return async dispatch => {
+            dispatch({
+                type: SET_STATION,
+                payload: station,
+            });
+        }
+
+    } catch (error) {
+        console.log(error)
+    }
+
+}

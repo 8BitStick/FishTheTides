@@ -23,9 +23,8 @@ const NextHighTide = ({tideDays}) => {
             setTimeUnitNow({hrs: hrs, mins: mins})
             setNextHighTide(result)
             setLoading(false)
-            
         }
-    }, [tideDays])
+    }, [])
 
     
     if (!loading){

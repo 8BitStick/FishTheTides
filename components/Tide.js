@@ -5,10 +5,10 @@ import React, { useState, useEffect } from 'react'
 import Icon from 'react-native-vector-icons/FontAwesome5'
 
 
-const Tide = ({tideDay, tideDays}) => {
+const Tide = ({ tideDay, tideDays }) => {
   const [loading, setLoading] = useState(true)
-  const [nextTideId, setNextTideId] = useState(0) 
-
+  const [nextTideId, setNextTideId] = useState(0)
+  
   let nextTides = tideDays.reduce((prev, curr) => prev.concat(curr.tides), [])
   const result = nextTides.find((a, b) => {
     return moment(a.tide_time).diff(moment(), 'minutes') - moment(b.tide_time).diff(moment(), 'minutes') > 0

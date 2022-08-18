@@ -24,7 +24,7 @@ const NextLowTide = ({tideDays}) => {
             setNextLowTide(result)
             setLoading(false)
         }
-    }, [tideDays])
+    }, [])
 
     
     if (!loading){

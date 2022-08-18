@@ -10,14 +10,20 @@ import NextLowTide from '../components/NextLowTide'
 
 
 const Tides = ({ route }) => {
-    const { item } = route.params
     const isFocused = useIsFocused()
     const dispatch = useDispatch()
     const { tideDays } = useSelector(state => state.tidesReducer);
-    const fetchTides = () => dispatch(getTides(item.station_id, item.region))
+    let { station } = useSelector(state => state.stationsReducer)
+
+    if ( station.station_id === undefined ) {
+        const { item } = route.params
+        station = item
+    } 
+
+    const fetchTides = () => dispatch(getTides(station.station_id, station.region))
     
     useEffect(() => {
-        if(isFocused){
+        if (isFocused){
             fetchTides()
         }
     }, [isFocused])
@@ -28,9 +34,9 @@ const Tides = ({ route }) => {
                 <NativeBaseProvider>
                     <Box margin={1}>
                         <Box flex={1} justifyContent="center" margin={2}>
-                            <Heading size="xl" color="#f05c2c">{item.name}
+                            <Heading size="xl" color="#f05c2c">{station.name}
                                 <Box flex={1} justifyContent="center" alignItems="center">
-                                    <Heading size="xs" color="muted.400">  ({item.region})</Heading>
+                                    <Heading size="xs" color="muted.400">  ({station.region})</Heading>
                                 </Box>
                             </Heading>
                             <Divider marginTop={3} marginBottom={3} />
@@ -46,7 +52,7 @@ const Tides = ({ route }) => {
                         </Box>
                         <Box margin={2}>
                             {tideDays.map((tideDay, i) => (
-                                <Tide key={tideDay.id} tideDay={tideDay} tideDays={tideDays} />
+                                <Tide key={tideDay.id} tideDays={tideDays} tideDay={tideDay} />
                             ))}
                         </Box>
                     </Box>
