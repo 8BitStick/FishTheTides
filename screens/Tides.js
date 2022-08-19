@@ -20,7 +20,7 @@ const Tides = ({ route }) => {
         station = item
     }
 
-    const fetchTides = () => dispatch(getTides(station.station_id, station.region))
+    const fetchTides = () => dispatch(getTides(station.station_id, station.region, station.timezone, station.tz))
 
     useEffect(() => {
         if (isFocused) {

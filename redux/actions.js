@@ -10,50 +10,11 @@ export const SEARCH_STATIONS = 'SEARCH_STATIONS'
 export const SET_STATION = 'SET_STATION'
 
 
-export const getTides = (location, region) => {
+export const getTides = (location, region, timeZone, tz) => {
     const URL = `http://www.bom.gov.au/australia/tides/`
     const today = moment().format('DD-MM-YYYY')
-    let timeZone = ""
-    let tz_js = ""
 
-    switch (region) {
-        case 'NSW':
-            timeZone = "Australia/Sydney"
-            tz_js = "AEDST"
-            break;
-        case 'QLD':
-            timeZone = "Australia/Brisbane"
-            tz_js = "AEST"
-            break;
-        case 'SA':
-            timeZone = "Australia/Adelaide"
-            tz_js = "ACDT"
-            break;
-        case 'WA':
-            timeZone = "Australia/Perth"
-            tz_js = "AWST"
-            break;
-        case 'VIC':
-            timeZone = "Australia/Sydney"
-            tz_js = "AEDST"
-            break;
-        case 'NT':
-            timeZone = "Australia/Darwin"
-            tz_js = "ACST"
-            break;
-        case 'TAS':
-            timeZone = "Australia/Hobart"
-            tz_js = "AEDT"
-            break;
-        case 'INT':
-            timeZone = "Pacific/Auckland"
-            tz_js = "NZDT"
-            break;
-        default:
-            timeZone = "Australia/Sydney"
-            tz_js = "AEDST"
-    }
-    const BASE_URL = `${URL}print.php?aac=${location}&type=tide&date=${today}&region=${region}&tz=${timeZone}&tz_js=${tz_js}&days=7`
+    const BASE_URL = `${URL}print.php?aac=${location}&type=tide&date=${today}&region=${region}&tz=${timeZone}&tz_js=${tz}&days=7`
 
     try {
         return async dispatch => {
