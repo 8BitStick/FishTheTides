@@ -43,7 +43,7 @@ const App = () => {
       <PersistGate loading={<Text>Loading...</Text>} persistor={persistor}>
         <NavigationContainer theme={DefaultTheme}>
           <StatusBar barStyle='dark-content' />
-          <Tab.Navigator initialRouteName="Tides"
+          <Tab.Navigator initialRouteName="Locations"
             screenOptions={({ route }) => ({
               tabBarActiveTintColor: "#f05c2c",
               tabBarInactiveTintColor: "gray",

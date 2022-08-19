@@ -47,7 +47,7 @@ const Tides = ({ route }) => {
                                 <Box padding={1}>
                                     <Divider orientation='vertical' mx="2" />
                                 </Box>
-                                <NextLowTide tideDays={tideDays} />
+                                <NextLowTide tideDays={tideDays}/>
                             </Box>
                         </Box>
                         <Box margin={2}>

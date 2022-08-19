@@ -9,22 +9,21 @@ const NextLowTide = ({tideDays}) => {
     const [nextLowTide, setNextLowTide] = useState({})
     const [timeUntilNow, setTimeUnitNow] = useState({hrs: "", mins: ""})
 
-
-    let nextTides = tideDays.reduce((prev, curr) => prev.concat(curr.tides), [])
+    const nextTides = tideDays.reduce((prev, curr) => prev.concat(curr.tides), [])
     const result = nextTides.find((a, b) => {
         return moment(a.tide_time).diff(moment(), 'minutes') - moment(b.tide_time).diff(moment(), 'minutes') > 0 && a.tide_type === "Low"
     })
 
     useEffect(() => {
-        if ( result !== undefined) {
+        if (result !== undefined) {
             let minsToNow = moment(result.tide_time).diff(moment(), 'minutes')
             let mins = (minsToNow % 60) + 1
             let hrs = Math.floor(minsToNow / 60)
-            setTimeUnitNow({hrs: hrs, mins: mins})
+            setTimeUnitNow({ hrs: hrs, mins: mins })
             setNextLowTide(result)
             setLoading(false)
         }
-    }, [])
+    }, [tideDays])
 
     
     if (!loading){
