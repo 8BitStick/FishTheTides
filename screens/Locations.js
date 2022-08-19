@@ -1,19 +1,9 @@
-import { Alert, TouchableOpacity, ActivityIndicator } from 'react-native'
+import { TouchableOpacity, ActivityIndicator, SectionList } from 'react-native'
 import React, { useEffect, useState } from 'react'
 import Icon from 'react-native-vector-icons/MaterialIcons'
-import RNLocation from 'react-native-location';
 import { useSelector, useDispatch } from 'react-redux';
 import { getStations, searchStations, setStation } from '../redux/actions';
-import {
-  NativeBaseProvider,
-  Text,
-  Input,
-  Box,
-  HStack,
-  FlatList,
-  Spacer,
-} from 'native-base';
-
+import { NativeBaseProvider, Text, Input, Box, HStack, Spacer } from 'native-base';
 
 const Locations = ({ navigation }) => {
   const [loading, setLoading] = useState(false)
@@ -21,89 +11,49 @@ const Locations = ({ navigation }) => {
   const { stations, station } = useSelector(state => state.stationsReducer);
   const fetchStations = () => dispatch(getStations())
 
-  const pythagorasEquirectangular = (lat1, lon1, lat2, lon2) => {
-    const R = 6371;
-    const x = (lon2 - lon1) * Math.cos((lat1 + lat2) / 2);
-    const y = (lat2 - lat1);
-    const d = Math.sqrt(x * x + y * y) * R;
-    return d;
-  }
-
-  const nearestCity = async (latitude, longitude) => {
-    if (latitude !== undefined | longitude !== undefined) {
-      let mindif = 99999;
-      let closest;
-
-      for (let i = 0; i < stations.length; i++) {
-        const dif = pythagorasEquirectangular(latitude, longitude, stations[i].lat, stations[i].lng);
-        if (dif < mindif) {
-          closest = i;
-          mindif = dif;
-        }
-        setTimeout(() => {
-          dispatch(setStation(stations[closest]))
-          navigation.navigate('Tides');
-        }, 100);
-      }
-    }
-  }
-
   useEffect(() => {
     fetchStations()
     if (station.station_id === undefined) {
-      console.log("persisted state NOT_FOUND")
-      // setLoading(true)
-      // checkPermissions()
-      // if (permissionsEnabled) {
-      //   requestLocation()
-      // }
+      console.log("persisted state NOT_FOUND, get location....")
     } else {
       navigation.navigate('Tides')
     }
-
   }, []);
 
-  // const checkPermissions = async () => {
-  //   let permission = await RNLocation.checkPermission({
-  //     ios: 'whenInUse', // or 'always'
-  //     android: {
-  //       detail: 'coarse' // or 'fine'
-  //     }
-  //   });
-  //   if (!permission){
-  //       permission = await RNLocation.requestPermission({
-  //         ios: "whenInUse",
-  //         android: {
-  //           detail: "coarse",
-  //           rationale: {
-  //             title: "We need to access your location",
-  //             message: "We use your location to show where you the closest station",
-  //             buttonPositive: "OK",
-  //             buttonNegative: "Cancel"
-  //           }
-  //         }
-  //       })
-  //     if (!permission) {
-  //       Alert.alert(
-  //         'Location Service not enabled',
-  //         'Please enable your location services for automatic location selection',
-  //         [{ text: 'OK' }],
-  //         { cancelable: false }
-  //       );
-  //       setLoading(false)
-  //     } else if (permission) {
-  //       setLoading(false)
-  //     }
-  //   } else {
-  //     setLoading(true)
-  //   }
+  const qldStations = [{ region: "QLD", data: stations.filter((station) => station.region === "QLD") }]
+  const nswStations = [{ region: "NSW", data: stations.filter((station) => station.region === "NSW") }]
+  const ntStations = [{ region: "NT", data: stations.filter((station) => station.region === "NT") }]
+  const saStations = [{ region: "SA", data: stations.filter((station) => station.region === "SA") }]
+  const tasStations = [{ region: "TAS", data: stations.filter((station) => station.region === "TAS") }]
+  const vicStations = [{ region: "VIC", data: stations.filter((station) => station.region === "VIC") }]
+  const waStations = [{ region: "WA", data: stations.filter((station) => station.region === "WA") }]
+  const intStations = [{ region: "INT", data: stations.filter((station) => station.region === "INT") }]
+
+  // const pythagorasEquirectangular = (lat1, lon1, lat2, lon2) => {
+  //   const R = 6371;
+  //   const x = (lon2 - lon1) * Math.cos((lat1 + lat2) / 2);
+  //   const y = (lat2 - lat1);
+  //   const d = Math.sqrt(x * x + y * y) * R;
+  //   return d;
   // }
 
-  // const requestLocation = async () => { 
-  //   const { latitude, longitude } = await RNLocation.getLatestLocation({ timeout: 100 })
-  //     if (latitude && longitude) {
-  //       nearestCity(latitude, longitude)
+  // const nearestCity = async (latitude, longitude) => {
+  //   if (latitude !== undefined | longitude !== undefined) {
+  //     let mindif = 99999;
+  //     let closest;
+
+  //     for (let i = 0; i < stations.length; i++) {
+  //       const dif = pythagorasEquirectangular(latitude, longitude, stations[i].lat, stations[i].lng);
+  //       if (dif < mindif) {
+  //         closest = i;
+  //         mindif = dif;
+  //       }
+  //       setTimeout(() => {
+  //         dispatch(setStation(stations[closest]))
+  //         navigation.navigate('Tides');
+  //       }, 100);
   //     }
+  //   }
   // }
 
   const search = (text) => {
@@ -142,7 +92,17 @@ const Locations = ({ navigation }) => {
           />
         </Box>
         <Box marginTop={3} marginBottom={3}>
-          <FlatList data={stations}
+          <SectionList
+            sections={[
+              ...qldStations,
+              ...nswStations,
+              ...ntStations,
+              ...saStations,
+              ...tasStations,
+              ...vicStations,
+              ...waStations,
+              ...intStations
+            ]}
             renderItem={({ item }) => (
               <Box borderBottomWidth="1" borderColor="muted.400" pl={["0", "4"]} pr={["0", "5"]} py="2">
                 <TouchableOpacity onPress={() => goToTides({ item })}>
@@ -154,13 +114,23 @@ const Locations = ({ navigation }) => {
                 </TouchableOpacity>
               </Box>
             )}
+            renderSectionHeader={({ section }) => (
+              section.data.length !== 0
+                ? (
+                  <Box bg="white" marginBottom={1} rounded="lg" paddingTop={2} paddingBottom={2} shadow={3}>
+                    <Text fontSize="xl" color="#16688d" fontWeight="700" marginLeft={2}>{section.region}</Text>
+                  </Box>
+                )
+                : null
+
+            )}
             keyExtractor={item => item.id}
+            stickySectionHeadersEnabled
           />
         </Box>
       </Box>
     </NativeBaseProvider>
   )
-  // }
 }
 
 export default Locations

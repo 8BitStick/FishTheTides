@@ -15,19 +15,19 @@ const Tides = ({ route }) => {
     const { tideDays } = useSelector(state => state.tidesReducer);
     let { station } = useSelector(state => state.stationsReducer)
 
-    if ( station.station_id === undefined ) {
+    if (station.station_id === undefined) {
         const { item } = route.params
         station = item
-    } 
+    }
 
     const fetchTides = () => dispatch(getTides(station.station_id, station.region))
-    
+
     useEffect(() => {
-        if (isFocused){
+        if (isFocused) {
             fetchTides()
         }
     }, [isFocused])
-    
+
     return (
         <SafeAreaView>
             <ScrollView>
@@ -43,11 +43,11 @@ const Tides = ({ route }) => {
                         </Box>
                         <Box bg="#fff" borderStyle="solid" rounded="md" shadow={3} marginLeft={2} marginRight={2}>
                             <Box flex={1} justifyContent="space-between" flexDirection="row" alignItems="center" marginLeft={2} marginRight={2}>
-                                <NextHighTide tideDays={tideDays} />
+                                <NextHighTide />
                                 <Box padding={1}>
                                     <Divider orientation='vertical' mx="2" />
                                 </Box>
-                                <NextLowTide tideDays={tideDays}/>
+                                <NextLowTide />
                             </Box>
                         </Box>
                         <Box margin={2}>
@@ -59,8 +59,8 @@ const Tides = ({ route }) => {
                 </NativeBaseProvider>
             </ScrollView>
         </SafeAreaView>
-    ) 
-    
+    )
+
 }
 export default Tides
 

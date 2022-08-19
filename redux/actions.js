@@ -2,8 +2,6 @@ import moment from "moment";
 import axios from "axios";
 import cheerio from "react-native-cheerio";
 import uuid from 'react-native-uuid';
-import { SearchBar } from "react-native-screens";
-
 
 export const GET_TIDES = 'GET_TIDES';
 
@@ -18,7 +16,7 @@ export const getTides = (location, region) => {
     let timeZone = ""
     let tz_js = ""
 
-    switch (region){
+    switch (region) {
         case 'NSW':
             timeZone = "Australia/Sydney"
             tz_js = "AEDST"
@@ -54,7 +52,7 @@ export const getTides = (location, region) => {
         default:
             timeZone = "Australia/Sydney"
             tz_js = "AEDST"
-    }    
+    }
     const BASE_URL = `${URL}print.php?aac=${location}&type=tide&date=${today}&region=${region}&tz=${timeZone}&tz_js=${tz_js}&days=7`
 
     try {
@@ -72,7 +70,7 @@ export const getTides = (location, region) => {
                     const date = $(tide).find('h3').text()
                     const d = moment(`${date} ${moment().format('YYYY')}`).format('L')
                     const dateTime = (time) => moment(`${d} ${time}`)
-                    
+
                     let firstTideType = tideBody.children().find('th').html()
                     let firstTideTime = tideBody.children().find('td').html()
                     let firstTideHeight = tideBody.children().next().find('td').html()
@@ -127,7 +125,7 @@ export const getTides = (location, region) => {
                     type: GET_TIDES,
                     payload: days,
                 });
-                
+
             } else {
                 console.log('Unable to fetch');
             }
@@ -150,7 +148,7 @@ export const getStations = () => {
     } catch (error) {
         console.log(error)
     }
-    
+
 }
 
 export const searchStations = (text) => {
@@ -160,12 +158,12 @@ export const searchStations = (text) => {
                 type: SEARCH_STATIONS,
                 payload: text
             })
-        } 
+        }
     } catch (error) {
         console.log(error)
     }
-    
-    
+
+
 }
 
 export const setStation = (station) => {

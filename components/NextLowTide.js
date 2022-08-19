@@ -1,18 +1,21 @@
 import { Box, Text } from 'native-base';
-import { View, ActivityIndicator} from 'react-native'
+import { View, ActivityIndicator } from 'react-native'
 import React, { useState, useEffect } from 'react'
 import moment from 'moment';
+import { useSelector } from 'react-redux';
 
 
-const NextLowTide = ({tideDays}) => {
+const NextLowTide = () => {
     const [loading, setLoading] = useState(true)
     const [nextLowTide, setNextLowTide] = useState({})
-    const [timeUntilNow, setTimeUnitNow] = useState({hrs: "", mins: ""})
+    const [timeUntilNow, setTimeUnitNow] = useState({ hrs: "", mins: "" })
+    const { tideDays } = useSelector(state => state.tidesReducer)
 
     const nextTides = tideDays.reduce((prev, curr) => prev.concat(curr.tides), [])
     const result = nextTides.find((a, b) => {
         return moment(a.tide_time).diff(moment(), 'minutes') - moment(b.tide_time).diff(moment(), 'minutes') > 0 && a.tide_type === "Low"
     })
+
 
     useEffect(() => {
         if (result !== undefined) {
@@ -25,8 +28,8 @@ const NextLowTide = ({tideDays}) => {
         }
     }, [tideDays])
 
-    
-    if (!loading){
+
+    if (!loading) {
         return (
             <Box margin={2} w="1/3">
                 <Text fontSize="md" color="#f05c2c" textAlign="right">
@@ -47,7 +50,6 @@ const NextLowTide = ({tideDays}) => {
                 </Box>
             </Box>
         )
-
     } else {
         return (
             <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
@@ -55,7 +57,7 @@ const NextLowTide = ({tideDays}) => {
             </View>
         )
     }
-  
+
 }
 
 export default NextLowTide

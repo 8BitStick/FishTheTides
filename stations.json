@@ -5,7 +5,9 @@
         "lng": "",
         "name": "1St 3 Mile Opening",
         "region": "QLD",
-        "station_id": "QLD_TP226"
+        "station_id": "QLD_TP226",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 191,
@@ -13,7 +15,9 @@
         "lng": -121.914894049727,
         "name": "Abbot Point",
         "region": "QLD",
-        "station_id": "QLD_TP001"
+        "station_id": "QLD_TP001",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 561,
@@ -21,7 +25,9 @@
         "lng": 131.1061792,
         "name": "Adelaide River",
         "region": "NT",
-        "station_id": "NT_TP004"
+        "station_id": "NT_TP004",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 332,
@@ -29,7 +35,9 @@
         "lng": -121.908525,
         "name": "Adele I.",
         "region": "WA",
-        "station_id": "WA_TP125"
+        "station_id": "WA_TP125",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 333,
@@ -37,7 +45,9 @@
         "lng": "",
         "name": "Adolphus I.",
         "region": "WA",
-        "station_id": "WA_TP114"
+        "station_id": "WA_TP114",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 415,
@@ -45,7 +55,9 @@
         "lng": -122.298057,
         "name": "Albany",
         "region": "WA",
-        "station_id": "WA_TP001"
+        "station_id": "WA_TP001",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 79,
@@ -53,7 +65,9 @@
         "lng": "",
         "name": "Albert River Mouth",
         "region": "QLD",
-        "station_id": "QLD_TP139"
+        "station_id": "QLD_TP139",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 192,
@@ -61,7 +75,9 @@
         "lng": 146.7178745,
         "name": "Albino Rock",
         "region": "QLD",
-        "station_id": "QLD_TP037"
+        "station_id": "QLD_TP037",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 131,
@@ -69,7 +85,9 @@
         "lng": "",
         "name": "Alert Patches",
         "region": "QLD",
-        "station_id": "QLD_TP115"
+        "station_id": "QLD_TP115",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 651,
@@ -77,7 +95,9 @@
         "lng": "",
         "name": "Alotau (Milne Bay)",
         "region": "INT",
-        "station_id": "INT_TP010"
+        "station_id": "INT_TP010",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 132,
@@ -85,7 +105,9 @@
         "lng": "",
         "name": "Alpha Rock",
         "region": "QLD",
-        "station_id": "QLD_TP246"
+        "station_id": "QLD_TP246",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 489,
@@ -93,7 +115,9 @@
         "lng": "",
         "name": "Althorpe I.",
         "region": "SA",
-        "station_id": "SA_TP058"
+        "station_id": "SA_TP058",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 38,
@@ -101,7 +125,9 @@
         "lng": 144.8303135,
         "name": "Altona",
         "region": "VIC",
-        "station_id": "VIC_TP014"
+        "station_id": "VIC_TP014",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 463,
@@ -109,7 +135,9 @@
         "lng": -121.3449546,
         "name": "American River",
         "region": "SA",
-        "station_id": "SA_TP067"
+        "station_id": "SA_TP067",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 652,
@@ -117,7 +145,9 @@
         "lng": "",
         "name": "Anewa Bay",
         "region": "INT",
-        "station_id": "INT_TP011"
+        "station_id": "INT_TP011",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 562,
@@ -125,7 +155,9 @@
         "lng": "",
         "name": "Anson Bay",
         "region": "NT",
-        "station_id": "NT_TP049"
+        "station_id": "NT_TP049",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 653,
@@ -133,7 +165,9 @@
         "lng": -171.7546501,
         "name": "Apia",
         "region": "INT",
-        "station_id": "INT_TP022"
+        "station_id": "INT_TP022",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 39,
@@ -141,7 +175,9 @@
         "lng": 143.6694863,
         "name": "Apollo Bay",
         "region": "VIC",
-        "station_id": "VIC_TP038"
+        "station_id": "VIC_TP038",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 563,
@@ -149,7 +185,9 @@
         "lng": 137.1930666,
         "name": "Arafura Sea",
         "region": "NT",
-        "station_id": "NT_TP081"
+        "station_id": "NT_TP081",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 80,
@@ -157,7 +195,9 @@
         "lng": 141.6888838,
         "name": "Archer River",
         "region": "QLD",
-        "station_id": "QLD_TP038"
+        "station_id": "QLD_TP038",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 490,
@@ -165,7 +205,9 @@
         "lng": 137.9169264,
         "name": "Ardrossan",
         "region": "SA",
-        "station_id": "SA_TP054"
+        "station_id": "SA_TP054",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 491,
@@ -173,7 +215,9 @@
         "lng": 136.5733802,
         "name": "Arno Bay",
         "region": "SA",
-        "station_id": "SA_TP009"
+        "station_id": "SA_TP009",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 386,
@@ -181,7 +225,9 @@
         "lng": -121.8134114,
         "name": "Ashburton North",
         "region": "WA",
-        "station_id": "WA_TP025"
+        "station_id": "WA_TP025",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 334,
@@ -189,7 +235,9 @@
         "lng": "",
         "name": "Ashmore Reef",
         "region": "WA",
-        "station_id": "WA_TP026"
+        "station_id": "WA_TP026",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 133,
@@ -197,7 +245,9 @@
         "lng": "",
         "name": "Ashmore Reef (Qld)",
         "region": "QLD",
-        "station_id": "QLD_TP268"
+        "station_id": "QLD_TP268",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 564,
@@ -205,7 +255,9 @@
         "lng": 133.2193243,
         "name": "Aurari Bay",
         "region": "NT",
-        "station_id": "NT_TP087"
+        "station_id": "NT_TP087",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 134,
@@ -213,7 +265,9 @@
         "lng": "",
         "name": "Aureed I.",
         "region": "QLD",
-        "station_id": "QLD_TP269"
+        "station_id": "QLD_TP269",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 565,
@@ -221,7 +275,9 @@
         "lng": -122.0395477,
         "name": "Auster Point",
         "region": "NT",
-        "station_id": "NT_TP005"
+        "station_id": "NT_TP005",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 387,
@@ -229,7 +285,9 @@
         "lng": 114.0574353,
         "name": "Badjirrajirra",
         "region": "WA",
-        "station_id": "WA_TP027"
+        "station_id": "WA_TP027",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 135,
@@ -237,7 +295,9 @@
         "lng": "",
         "name": "Badu I.",
         "region": "QLD",
-        "station_id": "QLD_TP255"
+        "station_id": "QLD_TP255",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 196,
@@ -245,7 +305,9 @@
         "lng": "",
         "name": "Bailay Creek",
         "region": "QLD",
-        "station_id": "QLD_TP212"
+        "station_id": "QLD_TP212",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 0,
@@ -253,7 +315,9 @@
         "lng": 153.5592943,
         "name": "Ballina",
         "region": "NSW",
-        "station_id": "NSW_TP009"
+        "station_id": "NSW_TP009",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 137,
@@ -261,7 +325,9 @@
         "lng": -121.96770459394976,
         "name": "Bampfield Head",
         "region": "QLD",
-        "station_id": "QLD_TP251"
+        "station_id": "QLD_TP251",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 231,
@@ -269,7 +335,9 @@
         "lng": -122.0844656,
         "name": "Barnett Patches",
         "region": "QLD",
-        "station_id": "QLD_TP199"
+        "station_id": "QLD_TP199",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 40,
@@ -277,7 +345,9 @@
         "lng": "",
         "name": "Barracouta Platform",
         "region": "VIC",
-        "station_id": "VIC_TP015"
+        "station_id": "VIC_TP015",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 388,
@@ -285,7 +355,9 @@
         "lng": -82.1017855,
         "name": "Barrow Island (Tanker Mooring)",
         "region": "WA",
-        "station_id": "WA_TP002"
+        "station_id": "WA_TP002",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 389,
@@ -293,7 +365,9 @@
         "lng": -82.1017855,
         "name": "Barrow Island (Wapet Landing)",
         "region": "WA",
-        "station_id": "WA_TP003"
+        "station_id": "WA_TP003",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 41,
@@ -301,7 +375,9 @@
         "lng": 144.4922806,
         "name": "Barwon Heads",
         "region": "VIC",
-        "station_id": "VIC_TP016"
+        "station_id": "VIC_TP016",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 523,
@@ -309,7 +385,9 @@
         "lng": "",
         "name": "Bass Pyramid",
         "region": "TAS",
-        "station_id": "TAS_TP030"
+        "station_id": "TAS_TP030",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 335,
@@ -317,7 +395,9 @@
         "lng": -122.46648034686753,
         "name": "Baudin I.",
         "region": "WA",
-        "station_id": "WA_TP132"
+        "station_id": "WA_TP132",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 464,
@@ -325,7 +405,9 @@
         "lng": 140.0145676,
         "name": "Beachport",
         "region": "SA",
-        "station_id": "SA_TP010"
+        "station_id": "SA_TP010",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 566,
@@ -333,7 +415,9 @@
         "lng": "",
         "name": "Beagle A",
         "region": "NT",
-        "station_id": "NT_TP059"
+        "station_id": "NT_TP059",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 193,
@@ -341,7 +425,9 @@
         "lng": -84.068853,
         "name": "Beaver Reef",
         "region": "QLD",
-        "station_id": "QLD_TP039"
+        "station_id": "QLD_TP039",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 336,
@@ -349,7 +435,9 @@
         "lng": -122.0619412,
         "name": "Bedford I.",
         "region": "WA",
-        "station_id": "WA_TP123"
+        "station_id": "WA_TP123",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 337,
@@ -357,7 +445,9 @@
         "lng": 119.0994098,
         "name": "Bedout Island",
         "region": "WA",
-        "station_id": "WA_TP028"
+        "station_id": "WA_TP028",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 524,
@@ -365,7 +455,9 @@
         "lng": -116.8400144,
         "name": "Bell Bay",
         "region": "TAS",
-        "station_id": "TAS_TP016"
+        "station_id": "TAS_TP016",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 243,
@@ -373,7 +465,9 @@
         "lng": -86.9737485,
         "name": "Bell Cay",
         "region": "QLD",
-        "station_id": "QLD_TP040"
+        "station_id": "QLD_TP040",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 1,
@@ -381,7 +475,9 @@
         "lng": 150.0764311,
         "name": "Bermagui",
         "region": "NSW",
-        "station_id": "NSW_TP010"
+        "station_id": "NSW_TP010",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 525,
@@ -389,7 +485,9 @@
         "lng": 148.3043145,
         "name": "Bicheno",
         "region": "TAS",
-        "station_id": "TAS_TP028"
+        "station_id": "TAS_TP028",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 526,
@@ -397,7 +495,9 @@
         "lng": 148.0982724,
         "name": "Big River Cove",
         "region": "TAS",
-        "station_id": "TAS_TP031"
+        "station_id": "TAS_TP031",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 244,
@@ -405,7 +505,9 @@
         "lng": -120.7432443,
         "name": "Blacksmith I.",
         "region": "QLD",
-        "station_id": "QLD_TP182"
+        "station_id": "QLD_TP182",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 465,
@@ -413,7 +515,9 @@
         "lng": -122.04038761998505,
         "name": "Blanche Port",
         "region": "SA",
-        "station_id": "SA_TP061"
+        "station_id": "SA_TP061",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 287,
@@ -421,7 +525,9 @@
         "lng": 136.2881615,
         "name": "Bn M2, Moreton Bay",
         "region": "QLD",
-        "station_id": "QLD_TP148"
+        "station_id": "QLD_TP148",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 654,
@@ -429,7 +535,9 @@
         "lng": "",
         "name": "Bobo Island",
         "region": "INT",
-        "station_id": "INT_TP028"
+        "station_id": "INT_TP028",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 655,
@@ -437,7 +545,9 @@
         "lng": -87.3244203,
         "name": "Bogia",
         "region": "INT",
-        "station_id": "INT_TP029"
+        "station_id": "INT_TP029",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 656,
@@ -445,7 +555,9 @@
         "lng": "",
         "name": "Boia Boia Waga",
         "region": "INT",
-        "station_id": "INT_TP030"
+        "station_id": "INT_TP030",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 338,
@@ -453,7 +565,9 @@
         "lng": 129.1783163,
         "name": "Bonaparte Gulf",
         "region": "WA",
-        "station_id": "WA_TP029"
+        "station_id": "WA_TP029",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 136,
@@ -461,7 +575,9 @@
         "lng": -60.558479,
         "name": "Booby Island",
         "region": "QLD",
-        "station_id": "QLD_TP026"
+        "station_id": "QLD_TP026",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 288,
@@ -469,7 +585,9 @@
         "lng": -121.98324120321749,
         "name": "Boonlye Point",
         "region": "QLD",
-        "station_id": "QLD_TP152"
+        "station_id": "QLD_TP152",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 245,
@@ -477,7 +595,9 @@
         "lng": -122.0997514,
         "name": "Border I.",
         "region": "QLD",
-        "station_id": "QLD_TP190"
+        "station_id": "QLD_TP190",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 2,
@@ -485,7 +605,9 @@
         "lng": 151.2025306,
         "name": "Botany Bay",
         "region": "NSW",
-        "station_id": "NSW_TP001"
+        "station_id": "NSW_TP001",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 42,
@@ -493,7 +615,9 @@
         "lng": 145.4018285,
         "name": "Bouchier Channel",
         "region": "VIC",
-        "station_id": "VIC_TP017"
+        "station_id": "VIC_TP017",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 81,
@@ -501,7 +625,9 @@
         "lng": 139.8712305,
         "name": "Bountiful Island",
         "region": "QLD",
-        "station_id": "QLD_TP045"
+        "station_id": "QLD_TP045",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 246,
@@ -509,7 +635,9 @@
         "lng": 148.2443002,
         "name": "Bowen",
         "region": "QLD",
-        "station_id": "QLD_TP002"
+        "station_id": "QLD_TP002",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 82,
@@ -517,7 +645,9 @@
         "lng": -121.9062614,
         "name": "Boyd Point",
         "region": "QLD",
-        "station_id": "QLD_TP046"
+        "station_id": "QLD_TP046",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 138,
@@ -525,7 +655,9 @@
         "lng": 143.8756827,
         "name": "Bramble Cay",
         "region": "QLD",
-        "station_id": "QLD_TP277"
+        "station_id": "QLD_TP277",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 527,
@@ -533,7 +665,9 @@
         "lng": -122.0158548115565,
         "name": "Bramble Cove",
         "region": "TAS",
-        "station_id": "TAS_TP017"
+        "station_id": "TAS_TP017",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 289,
@@ -541,7 +675,9 @@
         "lng": "",
         "name": "Breaksea Spit",
         "region": "QLD",
-        "station_id": "QLD_TP159"
+        "station_id": "QLD_TP159",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 416,
@@ -549,7 +685,9 @@
         "lng": 119.3821639,
         "name": "Bremer Bay",
         "region": "WA",
-        "station_id": "WA_TP086"
+        "station_id": "WA_TP086",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 290,
@@ -557,7 +695,9 @@
         "lng": "",
         "name": "Bribie I., Bongaree",
         "region": "QLD",
-        "station_id": "QLD_TP147"
+        "station_id": "QLD_TP147",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 492,
@@ -565,7 +705,9 @@
         "lng": -0.140021,
         "name": "Brighton",
         "region": "SA",
-        "station_id": "SA_TP056"
+        "station_id": "SA_TP056",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 291,
@@ -573,7 +715,9 @@
         "lng": -122.402223,
         "name": "Brisbane Bar",
         "region": "QLD",
-        "station_id": "QLD_TP003"
+        "station_id": "QLD_TP003",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 292,
@@ -581,7 +725,9 @@
         "lng": "",
         "name": "Brisbane Port Office",
         "region": "QLD",
-        "station_id": "QLD_TP138"
+        "station_id": "QLD_TP138",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 194,
@@ -589,7 +735,9 @@
         "lng": "",
         "name": "Britomart Reef",
         "region": "QLD",
-        "station_id": "QLD_TP047"
+        "station_id": "QLD_TP047",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 339,
@@ -597,7 +745,9 @@
         "lng": 122.2389384,
         "name": "Broome",
         "region": "WA",
-        "station_id": "WA_TP004"
+        "station_id": "WA_TP004",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 3,
@@ -605,7 +755,9 @@
         "lng": -122.2663032,
         "name": "Broughton I.",
         "region": "NSW",
-        "station_id": "NSW_TP037"
+        "station_id": "NSW_TP037",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 340,
@@ -613,7 +765,9 @@
         "lng": "",
         "name": "Browse I.",
         "region": "WA",
-        "station_id": "WA_TP126"
+        "station_id": "WA_TP126",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 4,
@@ -621,7 +775,9 @@
         "lng": 153.5479684,
         "name": "Brunswick Heads",
         "region": "NSW",
-        "station_id": "NSW_TP016"
+        "station_id": "NSW_TP016",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 247,
@@ -629,7 +785,9 @@
         "lng": "",
         "name": "Bugatti Reef",
         "region": "QLD",
-        "station_id": "QLD_TP004"
+        "station_id": "QLD_TP004",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 657,
@@ -637,7 +795,9 @@
         "lng": "",
         "name": "Bulavai Point",
         "region": "INT",
-        "station_id": "INT_TP032"
+        "station_id": "INT_TP032",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 417,
@@ -645,7 +805,9 @@
         "lng": 115.6391391,
         "name": "Bunbury",
         "region": "WA",
-        "station_id": "WA_TP005"
+        "station_id": "WA_TP005",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 293,
@@ -653,7 +815,9 @@
         "lng": 152.3509834,
         "name": "Bundaberg (Burnett Heads)",
         "region": "QLD",
-        "station_id": "QLD_TP005"
+        "station_id": "QLD_TP005",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 418,
@@ -661,7 +825,9 @@
         "lng": 148.133202,
         "name": "Bunker Bay",
         "region": "WA",
-        "station_id": "WA_TP090"
+        "station_id": "WA_TP090",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 567,
@@ -669,7 +835,9 @@
         "lng": "",
         "name": "Burge Point",
         "region": "NT",
-        "station_id": "NT_TP057"
+        "station_id": "NT_TP057",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 83,
@@ -677,7 +845,9 @@
         "lng": 139.5479889,
         "name": "Burketown",
         "region": "QLD",
-        "station_id": "QLD_TP140"
+        "station_id": "QLD_TP140",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 528,
@@ -685,7 +855,9 @@
         "lng": -121.9380196100742,
         "name": "Burnie",
         "region": "TAS",
-        "station_id": "TAS_TP001"
+        "station_id": "TAS_TP001",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 419,
@@ -693,7 +865,9 @@
         "lng": 115.3538761,
         "name": "Busselton",
         "region": "WA",
-        "station_id": "WA_TP082"
+        "station_id": "WA_TP082",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 568,
@@ -701,7 +875,9 @@
         "lng": "",
         "name": "Cache Point",
         "region": "NT",
-        "station_id": "NT_TP071"
+        "station_id": "NT_TP071",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 569,
@@ -709,7 +885,9 @@
         "lng": 135.7201894,
         "name": "Cadell Strait",
         "region": "NT",
-        "station_id": "NT_TP073"
+        "station_id": "NT_TP073",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 195,
@@ -717,7 +895,9 @@
         "lng": 145.7712436,
         "name": "Cairns",
         "region": "QLD",
-        "station_id": "QLD_TP006"
+        "station_id": "QLD_TP006",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 570,
@@ -725,7 +905,9 @@
         "lng": "",
         "name": "Calder Shoal",
         "region": "NT",
-        "station_id": "NT_TP006"
+        "station_id": "NT_TP006",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 294,
@@ -733,7 +915,9 @@
         "lng": "",
         "name": "Caloundra Head",
         "region": "QLD",
-        "station_id": "QLD_TP150"
+        "station_id": "QLD_TP150",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 5,
@@ -741,7 +925,9 @@
         "lng": 152.7966308,
         "name": "Camden Haven",
         "region": "NSW",
-        "station_id": "NSW_TP038"
+        "station_id": "NSW_TP038",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 6,
@@ -749,7 +935,9 @@
         "lng": -154.1319913,
         "name": "Camp Cove",
         "region": "NSW",
-        "station_id": "NSW_TP011"
+        "station_id": "NSW_TP011",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 571,
@@ -757,7 +945,9 @@
         "lng": -91.064856,
         "name": "Camp Point",
         "region": "NT",
-        "station_id": "NT_TP068"
+        "station_id": "NT_TP068",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 572,
@@ -765,7 +955,9 @@
         "lng": "",
         "name": "Cape Arnhem",
         "region": "NT",
-        "station_id": "NT_TP007"
+        "station_id": "NT_TP007",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 341,
@@ -773,7 +965,9 @@
         "lng": "",
         "name": "Cape Baskerville",
         "region": "WA",
-        "station_id": "WA_TP030"
+        "station_id": "WA_TP030",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 573,
@@ -781,7 +975,9 @@
         "lng": "",
         "name": "Cape Beatrice",
         "region": "NT",
-        "station_id": "NT_TP039"
+        "station_id": "NT_TP039",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 197,
@@ -789,7 +985,9 @@
         "lng": "",
         "name": "Cape Bedford",
         "region": "QLD",
-        "station_id": "QLD_TP216"
+        "station_id": "QLD_TP216",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 342,
@@ -797,7 +995,9 @@
         "lng": "",
         "name": "Cape Boileau",
         "region": "WA",
-        "station_id": "WA_TP031"
+        "station_id": "WA_TP031",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 295,
@@ -805,7 +1005,9 @@
         "lng": "",
         "name": "Cape Capricorn",
         "region": "QLD",
-        "station_id": "QLD_TP164"
+        "station_id": "QLD_TP164",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 574,
@@ -813,7 +1015,9 @@
         "lng": "",
         "name": "Cape Cockburn",
         "region": "NT",
-        "station_id": "NT_TP083"
+        "station_id": "NT_TP083",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 575,
@@ -821,7 +1025,9 @@
         "lng": "",
         "name": "Cape Crocker Offshore",
         "region": "NT",
-        "station_id": "NT_TP008"
+        "station_id": "NT_TP008",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 420,
@@ -829,7 +1035,9 @@
         "lng": "",
         "name": "Cape Cuvier",
         "region": "WA",
-        "station_id": "WA_TP006"
+        "station_id": "WA_TP006",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 658,
@@ -837,7 +1045,9 @@
         "lng": "",
         "name": "Cape Deliverance",
         "region": "INT",
-        "station_id": "INT_TP033"
+        "station_id": "INT_TP033",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 343,
@@ -845,7 +1055,9 @@
         "lng": 173.3076783,
         "name": "Cape Domett",
         "region": "WA",
-        "station_id": "WA_TP032"
+        "station_id": "WA_TP032",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 576,
@@ -853,7 +1065,9 @@
         "lng": 18.4195824,
         "name": "Cape Don",
         "region": "NT",
-        "station_id": "NT_TP040"
+        "station_id": "NT_TP040",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 493,
@@ -861,7 +1075,9 @@
         "lng": -70.2000467,
         "name": "Cape Elizabeth",
         "region": "SA",
-        "station_id": "SA_TP011"
+        "station_id": "SA_TP011",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 208,
@@ -869,7 +1085,9 @@
         "lng": "",
         "name": "Cape Ferguson",
         "region": "QLD",
-        "station_id": "QLD_TP007"
+        "station_id": "QLD_TP007",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 198,
@@ -877,7 +1095,9 @@
         "lng": -121.8655133,
         "name": "Cape Flattery",
         "region": "QLD",
-        "station_id": "QLD_TP221"
+        "station_id": "QLD_TP221",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 577,
@@ -885,7 +1105,9 @@
         "lng": -121.876346,
         "name": "Cape Ford",
         "region": "NT",
-        "station_id": "NT_TP009"
+        "station_id": "NT_TP009",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 199,
@@ -893,7 +1115,9 @@
         "lng": "",
         "name": "Cape Grenville",
         "region": "QLD",
-        "station_id": "QLD_TP240"
+        "station_id": "QLD_TP240",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 578,
@@ -901,7 +1125,9 @@
         "lng": "",
         "name": "Cape Grey",
         "region": "NT",
-        "station_id": "NT_TP010"
+        "station_id": "NT_TP010",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 421,
@@ -909,7 +1135,9 @@
         "lng": "",
         "name": "Cape Hamelin",
         "region": "WA",
-        "station_id": "WA_TP070"
+        "station_id": "WA_TP070",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 494,
@@ -917,7 +1145,9 @@
         "lng": "",
         "name": "Cape Hardy",
         "region": "SA",
-        "station_id": "SA_TP050"
+        "station_id": "SA_TP050",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 579,
@@ -925,7 +1155,9 @@
         "lng": "",
         "name": "Cape Hotham",
         "region": "NT",
-        "station_id": "NT_TP011"
+        "station_id": "NT_TP011",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 466,
@@ -933,7 +1165,9 @@
         "lng": 139.6998434,
         "name": "Cape Jaffa",
         "region": "SA",
-        "station_id": "SA_TP012"
+        "station_id": "SA_TP012",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 467,
@@ -941,7 +1175,9 @@
         "lng": 138.1097071,
         "name": "Cape Jervis",
         "region": "SA",
-        "station_id": "SA_TP013"
+        "station_id": "SA_TP013",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 390,
@@ -949,7 +1185,9 @@
         "lng": "",
         "name": "Cape Legendre",
         "region": "WA",
-        "station_id": "WA_TP035"
+        "station_id": "WA_TP035",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 97,
@@ -957,7 +1195,9 @@
         "lng": "",
         "name": "Cape Melville",
         "region": "QLD",
-        "station_id": "QLD_TP050"
+        "station_id": "QLD_TP050",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 468,
@@ -965,7 +1205,9 @@
         "lng": "",
         "name": "Cape Rabelais (Off)",
         "region": "SA",
-        "station_id": "SA_TP065"
+        "station_id": "SA_TP065",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 580,
@@ -973,7 +1215,9 @@
         "lng": -122.08379704955097,
         "name": "Cape Scott (Off)",
         "region": "NT",
-        "station_id": "NT_TP048"
+        "station_id": "NT_TP048",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 529,
@@ -981,7 +1225,9 @@
         "lng": "",
         "name": "Cape Sorell (Off)",
         "region": "TAS",
-        "station_id": "TAS_TP041"
+        "station_id": "TAS_TP041",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 581,
@@ -989,7 +1235,9 @@
         "lng": "",
         "name": "Cape Van Dieman",
         "region": "NT",
-        "station_id": "NT_TP069"
+        "station_id": "NT_TP069",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 344,
@@ -997,7 +1245,9 @@
         "lng": "",
         "name": "Cape Voltaire (Krait Bay)",
         "region": "WA",
-        "station_id": "WA_TP007"
+        "station_id": "WA_TP007",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 582,
@@ -1005,7 +1255,9 @@
         "lng": "",
         "name": "Cape Wessel",
         "region": "NT",
-        "station_id": "NT_TP012"
+        "station_id": "NT_TP012",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 209,
@@ -1013,7 +1265,9 @@
         "lng": 146.0236246,
         "name": "Cardwell",
         "region": "QLD",
-        "station_id": "QLD_TP135"
+        "station_id": "QLD_TP135",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 248,
@@ -1021,7 +1275,9 @@
         "lng": -122.02215509776333,
         "name": "Carlisle I. (Off)",
         "region": "QLD",
-        "station_id": "QLD_TP177"
+        "station_id": "QLD_TP177",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 422,
@@ -1029,7 +1285,9 @@
         "lng": 113.6578021,
         "name": "Carnarvon",
         "region": "WA",
-        "station_id": "WA_TP008"
+        "station_id": "WA_TP008",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 139,
@@ -1037,7 +1295,9 @@
         "lng": -119.5183559,
         "name": "Carpentaria",
         "region": "QLD",
-        "station_id": "QLD_TP253"
+        "station_id": "QLD_TP253",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 345,
@@ -1045,7 +1305,9 @@
         "lng": "",
         "name": "Carronade I.",
         "region": "WA",
-        "station_id": "WA_TP140"
+        "station_id": "WA_TP140",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 98,
@@ -1053,7 +1315,9 @@
         "lng": "",
         "name": "Carter Reef",
         "region": "QLD",
-        "station_id": "QLD_TP218"
+        "station_id": "QLD_TP218",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 706,
@@ -1061,7 +1325,9 @@
         "lng": -94.5192412,
         "name": "Casey",
         "region": "TAS",
-        "station_id": "TAS_TP009"
+        "station_id": "TAS_TP009",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 346,
@@ -1069,7 +1335,9 @@
         "lng": "",
         "name": "Cassini I.",
         "region": "WA",
-        "station_id": "WA_TP135"
+        "station_id": "WA_TP135",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 583,
@@ -1077,7 +1345,9 @@
         "lng": -90.5408484,
         "name": "Catfish Island",
         "region": "NT",
-        "station_id": "NT_TP013"
+        "station_id": "NT_TP013",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 296,
@@ -1085,7 +1355,9 @@
         "lng": -87.144413,
         "name": "Cato Island",
         "region": "QLD",
-        "station_id": "QLD_TP051"
+        "station_id": "QLD_TP051",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 584,
@@ -1093,7 +1365,9 @@
         "lng": -126.9319606,
         "name": "Centre Island",
         "region": "NT",
-        "station_id": "NT_TP014"
+        "station_id": "NT_TP014",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 423,
@@ -1101,7 +1375,9 @@
         "lng": 115.0668464,
         "name": "Cervantes",
         "region": "WA",
-        "station_id": "WA_TP095"
+        "station_id": "WA_TP095",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 585,
@@ -1109,7 +1385,9 @@
         "lng": -122.5796454,
         "name": "Chambers Bay",
         "region": "NT",
-        "station_id": "NT_TP065"
+        "station_id": "NT_TP065",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 99,
@@ -1117,7 +1395,9 @@
         "lng": -102.0697248,
         "name": "Chapman Island",
         "region": "QLD",
-        "station_id": "QLD_TP052"
+        "station_id": "QLD_TP052",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 586,
@@ -1125,7 +1405,9 @@
         "lng": "",
         "name": "Charles Point Patches",
         "region": "NT",
-        "station_id": "NT_TP036"
+        "station_id": "NT_TP036",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 587,
@@ -1133,7 +1415,9 @@
         "lng": "",
         "name": "Christine Reef",
         "region": "NT",
-        "station_id": "NT_TP066"
+        "station_id": "NT_TP066",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 84,
@@ -1141,7 +1425,9 @@
         "lng": 152.9897482,
         "name": "Christmas Creek",
         "region": "QLD",
-        "station_id": "QLD_TP053"
+        "station_id": "QLD_TP053",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 659,
@@ -1149,7 +1435,9 @@
         "lng": 105.6394828,
         "name": "Christmas Island",
         "region": "WA",
-        "station_id": "WA_TP009"
+        "station_id": "WA_TP009",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 249,
@@ -1157,7 +1445,9 @@
         "lng": 148.94293,
         "name": "Cid Harbour",
         "region": "QLD",
-        "station_id": "QLD_TP188"
+        "station_id": "QLD_TP188",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 297,
@@ -1165,7 +1455,9 @@
         "lng": -95.8713127,
         "name": "Clews Point",
         "region": "QLD",
-        "station_id": "QLD_TP155"
+        "station_id": "QLD_TP155",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 210,
@@ -1173,7 +1465,9 @@
         "lng": "",
         "name": "Clump Point",
         "region": "QLD",
-        "station_id": "QLD_TP136"
+        "station_id": "QLD_TP136",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 140,
@@ -1181,7 +1475,9 @@
         "lng": -155.0685794,
         "name": "Coconut Island ",
         "region": "QLD",
-        "station_id": "QLD_TP116"
+        "station_id": "QLD_TP116",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 469,
@@ -1189,7 +1485,9 @@
         "lng": "",
         "name": "Coffin Bay Entrance Beacon",
         "region": "SA",
-        "station_id": "SA_TP046"
+        "station_id": "SA_TP046",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 470,
@@ -1197,7 +1495,9 @@
         "lng": 135.4662684,
         "name": "Coffin Bay Jetty",
         "region": "SA",
-        "station_id": "SA_TP047"
+        "station_id": "SA_TP047",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 7,
@@ -1205,7 +1505,9 @@
         "lng": 153.1176695,
         "name": "Coffs Harbour",
         "region": "NSW",
-        "station_id": "NSW_TP012"
+        "station_id": "NSW_TP012",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 530,
@@ -1213,7 +1515,9 @@
         "lng": 148.2899129,
         "name": "Coles Bay",
         "region": "TAS",
-        "station_id": "TAS_TP037"
+        "station_id": "TAS_TP037",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 100,
@@ -1221,15 +1525,19 @@
         "lng": "",
         "name": "Collette Reef",
         "region": "QLD",
-        "station_id": "QLD_TP236"
+        "station_id": "QLD_TP236",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 707,
         "lat": "",
         "lng": "",
         "name": "Commonwealth Bay",
-        "region": "TAS",
-        "station_id": "TAS_TP010"
+        "region": "ATA",
+        "station_id": "TAS_TP010",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 101,
@@ -1237,7 +1545,9 @@
         "lng": 145.2499594,
         "name": "Cooktown",
         "region": "QLD",
-        "station_id": "QLD_TP054"
+        "station_id": "QLD_TP054",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 588,
@@ -1245,7 +1555,9 @@
         "lng": -121.91862813547881,
         "name": "Copeland I.",
         "region": "NT",
-        "station_id": "NT_TP082"
+        "station_id": "NT_TP082",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 424,
@@ -1253,7 +1565,9 @@
         "lng": 113.7724159,
         "name": "Coral Bay",
         "region": "WA",
-        "station_id": "WA_TP105"
+        "station_id": "WA_TP105",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 425,
@@ -1261,7 +1575,9 @@
         "lng": -121.82391530439713,
         "name": "Cosy Corner",
         "region": "WA",
-        "station_id": "WA_TP040"
+        "station_id": "WA_TP040",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 426,
@@ -1269,7 +1585,9 @@
         "lng": 115.1024694,
         "name": "Cowaramup",
         "region": "WA",
-        "station_id": "WA_TP089"
+        "station_id": "WA_TP089",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 43,
@@ -1277,7 +1595,9 @@
         "lng": 145.2255957,
         "name": "Cowes Jetty",
         "region": "VIC",
-        "station_id": "VIC_TP018"
+        "station_id": "VIC_TP018",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 220,
@@ -1285,7 +1605,9 @@
         "lng": 146.1100797,
         "name": "Cowley Beach",
         "region": "QLD",
-        "station_id": "QLD_TP202"
+        "station_id": "QLD_TP202",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 85,
@@ -1293,7 +1615,9 @@
         "lng": -81.5868639,
         "name": "Crab Island",
         "region": "QLD",
-        "station_id": "QLD_TP055"
+        "station_id": "QLD_TP055",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 251,
@@ -1301,7 +1625,9 @@
         "lng": "",
         "name": "Creal Reef",
         "region": "QLD",
-        "station_id": "QLD_TP056"
+        "station_id": "QLD_TP056",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 250,
@@ -1309,7 +1635,9 @@
         "lng": "",
         "name": "Credlin Reef",
         "region": "QLD",
-        "station_id": "QLD_TP180"
+        "station_id": "QLD_TP180",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 102,
@@ -1317,7 +1645,9 @@
         "lng": "",
         "name": "Creech Reef",
         "region": "QLD",
-        "station_id": "QLD_TP227"
+        "station_id": "QLD_TP227",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 8,
@@ -1325,7 +1655,9 @@
         "lng": "",
         "name": "Crookhaven Heads",
         "region": "NSW",
-        "station_id": "NSW_TP027"
+        "station_id": "NSW_TP027",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 9,
@@ -1333,7 +1665,9 @@
         "lng": 152.7507282,
         "name": "Crowdy Head",
         "region": "NSW",
-        "station_id": "NSW_TP017"
+        "station_id": "NSW_TP017",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 211,
@@ -1341,7 +1675,9 @@
         "lng": 145.8018522,
         "name": "Cruiser Passage",
         "region": "QLD",
-        "station_id": "QLD_TP057"
+        "station_id": "QLD_TP057",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 86,
@@ -1349,7 +1685,9 @@
         "lng": -121.9694094,
         "name": "Cullen Point",
         "region": "QLD",
-        "station_id": "QLD_TP058"
+        "station_id": "QLD_TP058",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 531,
@@ -1357,7 +1695,9 @@
         "lng": -121.99061622387134,
         "name": "Curtis I.",
         "region": "TAS",
-        "station_id": "TAS_TP044"
+        "station_id": "TAS_TP044",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 589,
@@ -1365,7 +1705,9 @@
         "lng": -122.21423250491836,
         "name": "Cuthbert Point",
         "region": "NT",
-        "station_id": "NT_TP015"
+        "station_id": "NT_TP015",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 591,
@@ -1373,7 +1715,9 @@
         "lng": "",
         "name": "D&apos;Urville Point",
         "region": "NT",
-        "station_id": "NT_TP080"
+        "station_id": "NT_TP080",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 391,
@@ -1381,7 +1725,9 @@
         "lng": 116.7107251,
         "name": "Dampier (King Bay)",
         "region": "WA",
-        "station_id": "WA_TP011"
+        "station_id": "WA_TP011",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 10,
@@ -1389,7 +1735,9 @@
         "lng": "",
         "name": "Dangar I.",
         "region": "NSW",
-        "station_id": "NSW_TP034"
+        "station_id": "NSW_TP034",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 532,
@@ -1397,7 +1745,9 @@
         "lng": -79.87599,
         "name": "Darlington Jetty",
         "region": "TAS",
-        "station_id": "TAS_TP002"
+        "station_id": "TAS_TP002",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 141,
@@ -1405,7 +1755,9 @@
         "lng": "",
         "name": "Darnley I. Barge",
         "region": "QLD",
-        "station_id": "QLD_TP274"
+        "station_id": "QLD_TP274",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 660,
@@ -1413,7 +1765,9 @@
         "lng": 85.563495,
         "name": "Daru",
         "region": "INT",
-        "station_id": "INT_TP034"
+        "station_id": "INT_TP034",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 590,
@@ -1421,7 +1775,9 @@
         "lng": 130.8426305,
         "name": "Darwin",
         "region": "NT",
-        "station_id": "NT_TP001"
+        "station_id": "NT_TP001",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 144,
@@ -1429,7 +1785,9 @@
         "lng": 142.5378005,
         "name": "Dauan Island",
         "region": "QLD",
-        "station_id": "QLD_TP144"
+        "station_id": "QLD_TP144",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 708,
@@ -1437,7 +1795,9 @@
         "lng": -121.7466799,
         "name": "Davis",
         "region": "TAS",
-        "station_id": "TAS_TP011"
+        "station_id": "TAS_TP011",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 427,
@@ -1445,7 +1805,9 @@
         "lng": "",
         "name": "Daw I.",
         "region": "WA",
-        "station_id": "WA_TP083"
+        "station_id": "WA_TP083",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 661,
@@ -1453,7 +1815,9 @@
         "lng": "",
         "name": "Dedele Point",
         "region": "INT",
-        "station_id": "INT_TP035"
+        "station_id": "INT_TP035",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 347,
@@ -1461,7 +1825,9 @@
         "lng": 124.198945,
         "name": "Degerando Island",
         "region": "WA",
-        "station_id": "WA_TP042"
+        "station_id": "WA_TP042",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 428,
@@ -1469,7 +1835,9 @@
         "lng": 113.5361387,
         "name": "Denham",
         "region": "WA",
-        "station_id": "WA_TP012"
+        "station_id": "WA_TP012",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 392,
@@ -1477,7 +1845,9 @@
         "lng": "",
         "name": "Depuch I.",
         "region": "WA",
-        "station_id": "WA_TP116"
+        "station_id": "WA_TP116",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 348,
@@ -1485,7 +1855,9 @@
         "lng": -1.4747453,
         "name": "Derby",
         "region": "WA",
-        "station_id": "WA_TP043"
+        "station_id": "WA_TP043",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 533,
@@ -1493,7 +1865,9 @@
         "lng": 146.3510409,
         "name": "Devonport",
         "region": "TAS",
-        "station_id": "TAS_TP005"
+        "station_id": "TAS_TP005",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 349,
@@ -1501,7 +1875,9 @@
         "lng": -112.6355898,
         "name": "Dillon Shoal",
         "region": "WA",
-        "station_id": "WA_TP044"
+        "station_id": "WA_TP044",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 232,
@@ -1509,7 +1885,9 @@
         "lng": "",
         "name": "Dip Reef",
         "region": "QLD",
-        "station_id": "QLD_TP198"
+        "station_id": "QLD_TP198",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 252,
@@ -1517,7 +1895,9 @@
         "lng": 151.2419895,
         "name": "Double Bay",
         "region": "QLD",
-        "station_id": "QLD_TP186"
+        "station_id": "QLD_TP186",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 662,
@@ -1525,7 +1905,9 @@
         "lng": "",
         "name": "Dregerhafen",
         "region": "INT",
-        "station_id": "INT_TP012"
+        "station_id": "INT_TP012",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 142,
@@ -1533,7 +1915,9 @@
         "lng": "",
         "name": "Dugong I.",
         "region": "QLD",
-        "station_id": "QLD_TP260"
+        "station_id": "QLD_TP260",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 143,
@@ -1541,7 +1925,9 @@
         "lng": "",
         "name": "Dungeness Reef",
         "region": "QLD",
-        "station_id": "QLD_TP271"
+        "station_id": "QLD_TP271",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 212,
@@ -1549,7 +1935,9 @@
         "lng": 146.1591187,
         "name": "Dunk Island",
         "region": "QLD",
-        "station_id": "QLD_TP062"
+        "station_id": "QLD_TP062",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 663,
@@ -1557,7 +1945,9 @@
         "lng": 177.8516948,
         "name": "East Cape",
         "region": "INT",
-        "station_id": "INT_TP048"
+        "station_id": "INT_TP048",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 145,
@@ -1565,7 +1955,9 @@
         "lng": -63.2365715,
         "name": "East Cay",
         "region": "QLD",
-        "station_id": "QLD_TP117"
+        "station_id": "QLD_TP117",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 253,
@@ -1573,7 +1965,9 @@
         "lng": "",
         "name": "East Diamond I.",
         "region": "QLD",
-        "station_id": "QLD_TP283"
+        "station_id": "QLD_TP283",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 592,
@@ -1581,7 +1975,9 @@
         "lng": -89.5633369,
         "name": "East Field Island",
         "region": "NT",
-        "station_id": "NT_TP016"
+        "station_id": "NT_TP016",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 227,
@@ -1589,7 +1985,9 @@
         "lng": -116.296794,
         "name": "East Hope I.",
         "region": "QLD",
-        "station_id": "QLD_TP211"
+        "station_id": "QLD_TP211",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 534,
@@ -1597,7 +1995,9 @@
         "lng": "",
         "name": "East Moncoeur I.",
         "region": "TAS",
-        "station_id": "TAS_TP043"
+        "station_id": "TAS_TP043",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 103,
@@ -1605,7 +2005,9 @@
         "lng": "",
         "name": "East Petherbridge I.",
         "region": "QLD",
-        "station_id": "QLD_TP219"
+        "station_id": "QLD_TP219",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 254,
@@ -1613,7 +2015,9 @@
         "lng": "",
         "name": "East Repulse I.",
         "region": "QLD",
-        "station_id": "QLD_TP181"
+        "station_id": "QLD_TP181",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 429,
@@ -1621,7 +2025,9 @@
         "lng": 113.8419113,
         "name": "Easter Group",
         "region": "WA",
-        "station_id": "WA_TP099"
+        "station_id": "WA_TP099",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 350,
@@ -1629,7 +2035,9 @@
         "lng": "",
         "name": "Echo Shoal",
         "region": "WA",
-        "station_id": "WA_TP079"
+        "station_id": "WA_TP079",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 221,
@@ -1637,7 +2045,9 @@
         "lng": "",
         "name": "Eddy Reef",
         "region": "QLD",
-        "station_id": "QLD_TP203"
+        "station_id": "QLD_TP203",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 535,
@@ -1645,7 +2055,9 @@
         "lng": -122.24578296158552,
         "name": "Eddystone Point",
         "region": "TAS",
-        "station_id": "TAS_TP034"
+        "station_id": "TAS_TP034",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 11,
@@ -1653,7 +2065,9 @@
         "lng": -121.9574721,
         "name": "Eden",
         "region": "NSW",
-        "station_id": "NSW_TP002"
+        "station_id": "NSW_TP002",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 104,
@@ -1661,7 +2075,9 @@
         "lng": -122.0197977,
         "name": "Eden Reef",
         "region": "QLD",
-        "station_id": "QLD_TP223"
+        "station_id": "QLD_TP223",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 298,
@@ -1669,7 +2085,9 @@
         "lng": "",
         "name": "Elbow Point",
         "region": "QLD",
-        "station_id": "QLD_TP151"
+        "station_id": "QLD_TP151",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 593,
@@ -1677,7 +2095,9 @@
         "lng": 135.5663374,
         "name": "Elcho Island",
         "region": "NT",
-        "station_id": "NT_TP018"
+        "station_id": "NT_TP018",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 664,
@@ -1685,7 +2105,9 @@
         "lng": 149.7311675,
         "name": "Eleonora Bay",
         "region": "INT",
-        "station_id": "INT_TP036"
+        "station_id": "INT_TP036",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 44,
@@ -1693,7 +2115,9 @@
         "lng": -151.8286142,
         "name": "Elizabeth Island",
         "region": "VIC",
-        "station_id": "VIC_TP019"
+        "station_id": "VIC_TP019",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 299,
@@ -1701,7 +2125,9 @@
         "lng": 174.4940681,
         "name": "Elizabeth Reef",
         "region": "QLD",
-        "station_id": "QLD_TP285"
+        "station_id": "QLD_TP285",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 300,
@@ -1709,7 +2135,9 @@
         "lng": 152.4935877,
         "name": "Elliott Heads",
         "region": "QLD",
-        "station_id": "QLD_TP154"
+        "station_id": "QLD_TP154",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 471,
@@ -1717,7 +2145,9 @@
         "lng": 134.8893044,
         "name": "Elliston",
         "region": "SA",
-        "station_id": "SA_TP014"
+        "station_id": "SA_TP014",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 255,
@@ -1725,7 +2155,9 @@
         "lng": "",
         "name": "Elusive Reef",
         "region": "QLD",
-        "station_id": "QLD_TP174"
+        "station_id": "QLD_TP174",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 105,
@@ -1733,7 +2165,9 @@
         "lng": "",
         "name": "Endeavour River North",
         "region": "QLD",
-        "station_id": "QLD_TP065"
+        "station_id": "QLD_TP065",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 594,
@@ -1741,7 +2175,9 @@
         "lng": "",
         "name": "Entrance I.",
         "region": "NT",
-        "station_id": "NT_TP089"
+        "station_id": "NT_TP089",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 430,
@@ -1749,7 +2185,9 @@
         "lng": 121.8902895,
         "name": "Esperance",
         "region": "WA",
-        "station_id": "WA_TP013"
+        "station_id": "WA_TP013",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 12,
@@ -1757,7 +2195,9 @@
         "lng": 151.3108584,
         "name": "Ettalong",
         "region": "NSW",
-        "station_id": "NSW_TP035"
+        "station_id": "NSW_TP035",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 431,
@@ -1765,7 +2205,9 @@
         "lng": "",
         "name": "Eucla",
         "region": "WA",
-        "station_id": "WA_TP045"
+        "station_id": "WA_TP045",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 213,
@@ -1773,7 +2215,9 @@
         "lng": "",
         "name": "Euston Reef",
         "region": "QLD",
-        "station_id": "QLD_TP066"
+        "station_id": "QLD_TP066",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 13,
@@ -1781,7 +2225,9 @@
         "lng": 153.4335198,
         "name": "Evans Head",
         "region": "NSW",
-        "station_id": "NSW_TP013"
+        "station_id": "NSW_TP013",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 595,
@@ -1789,7 +2235,9 @@
         "lng": "",
         "name": "Evans Shoal",
         "region": "NT",
-        "station_id": "NT_TP047"
+        "station_id": "NT_TP047",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 393,
@@ -1797,7 +2245,9 @@
         "lng": 114.1240004,
         "name": "Exmouth",
         "region": "WA",
-        "station_id": "WA_TP014"
+        "station_id": "WA_TP014",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 394,
@@ -1805,7 +2255,9 @@
         "lng": -73.977561,
         "name": "Fairway Beacon",
         "region": "WA",
-        "station_id": "WA_TP046"
+        "station_id": "WA_TP046",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 536,
@@ -1813,7 +2265,9 @@
         "lng": -70.618151,
         "name": "Falmouth",
         "region": "TAS",
-        "station_id": "TAS_TP036"
+        "station_id": "TAS_TP036",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 596,
@@ -1821,7 +2275,9 @@
         "lng": -121.8322904,
         "name": "Fenton Patches",
         "region": "NT",
-        "station_id": "NT_TP061"
+        "station_id": "NT_TP061",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 106,
@@ -1829,7 +2285,9 @@
         "lng": -103.2495518,
         "name": "Fife Island",
         "region": "QLD",
-        "station_id": "QLD_TP067"
+        "station_id": "QLD_TP067",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 597,
@@ -1837,7 +2295,9 @@
         "lng": 170.8961159,
         "name": "Fish Reef",
         "region": "NT",
-        "station_id": "NT_TP054"
+        "station_id": "NT_TP054",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 214,
@@ -1845,7 +2305,9 @@
         "lng": 145.9886212,
         "name": "Fitzroy Island",
         "region": "QLD",
-        "station_id": "QLD_TP068"
+        "station_id": "QLD_TP068",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 432,
@@ -1853,7 +2315,9 @@
         "lng": 147.8467071,
         "name": "Flinders Bay",
         "region": "WA",
-        "station_id": "WA_TP088"
+        "station_id": "WA_TP088",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 45,
@@ -1861,7 +2325,9 @@
         "lng": "",
         "name": "Flinders Jetty",
         "region": "VIC",
-        "station_id": "VIC_TP020"
+        "station_id": "VIC_TP020",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 215,
@@ -1869,7 +2335,9 @@
         "lng": "",
         "name": "Flinders Reef",
         "region": "QLD",
-        "station_id": "QLD_TP069"
+        "station_id": "QLD_TP069",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 14,
@@ -1877,7 +2345,9 @@
         "lng": 152.5103505,
         "name": "Forster",
         "region": "NSW",
-        "station_id": "NSW_TP018"
+        "station_id": "NSW_TP018",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 395,
@@ -1885,7 +2355,9 @@
         "lng": "",
         "name": "Fortescue Road",
         "region": "WA",
-        "station_id": "WA_TP115"
+        "station_id": "WA_TP115",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 495,
@@ -1893,7 +2365,9 @@
         "lng": 136.9358917,
         "name": "Franklin Harbor",
         "region": "SA",
-        "station_id": "SA_TP016"
+        "station_id": "SA_TP016",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 496,
@@ -1901,7 +2375,9 @@
         "lng": "",
         "name": "Franklin Harbor Entrance Beacon",
         "region": "SA",
-        "station_id": "SA_TP049"
+        "station_id": "SA_TP049",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 146,
@@ -1909,7 +2385,9 @@
         "lng": 151.3435249,
         "name": "Frederick Point",
         "region": "QLD",
-        "station_id": "QLD_TP118"
+        "station_id": "QLD_TP118",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 433,
@@ -1917,7 +2395,9 @@
         "lng": -121.3424313,
         "name": "Fremantle",
         "region": "WA",
-        "station_id": "WA_TP015"
+        "station_id": "WA_TP015",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 665,
@@ -1925,7 +2405,9 @@
         "lng": 179.194299,
         "name": "Funafuti",
         "region": "INT",
-        "station_id": "INT_TP026"
+        "station_id": "INT_TP026",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 46,
@@ -1933,7 +2415,9 @@
         "lng": "",
         "name": "Gabo I.",
         "region": "VIC",
-        "station_id": "VIC_TP039"
+        "station_id": "VIC_TP039",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 256,
@@ -1941,7 +2425,9 @@
         "lng": 152.4728411,
         "name": "Gannet Cay",
         "region": "QLD",
-        "station_id": "QLD_TP070"
+        "station_id": "QLD_TP070",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 537,
@@ -1949,7 +2435,9 @@
         "lng": -80.3718561,
         "name": "Garden Cove",
         "region": "TAS",
-        "station_id": "TAS_TP046"
+        "station_id": "TAS_TP046",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 301,
@@ -1957,7 +2445,9 @@
         "lng": "",
         "name": "Gatcombe Head",
         "region": "QLD",
-        "station_id": "QLD_TP071"
+        "station_id": "QLD_TP071",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 47,
@@ -1965,7 +2455,9 @@
         "lng": 144.3581252,
         "name": "Geelong",
         "region": "VIC",
-        "station_id": "VIC_TP005"
+        "station_id": "VIC_TP005",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 434,
@@ -1973,7 +2465,9 @@
         "lng": 114.6130361,
         "name": "Geraldton",
         "region": "WA",
-        "station_id": "WA_TP016"
+        "station_id": "WA_TP016",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 302,
@@ -1981,7 +2475,9 @@
         "lng": 151.2538329,
         "name": "Gladstone",
         "region": "QLD",
-        "station_id": "QLD_TP008"
+        "station_id": "QLD_TP008",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 497,
@@ -1989,7 +2485,9 @@
         "lng": -77.0296549,
         "name": "Glenelg",
         "region": "SA",
-        "station_id": "SA_TP017"
+        "station_id": "SA_TP017",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 598,
@@ -1997,7 +2495,9 @@
         "lng": 131.0783131,
         "name": "Glyde Point",
         "region": "NT",
-        "station_id": "NT_TP064"
+        "station_id": "NT_TP064",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 666,
@@ -2005,7 +2505,9 @@
         "lng": 144.2240582,
         "name": "Goaribari Island",
         "region": "INT",
-        "station_id": "INT_TP037"
+        "station_id": "INT_TP037",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 303,
@@ -2013,7 +2515,9 @@
         "lng": -122.02167309457477,
         "name": "Gold Coast Operations Base",
         "region": "QLD",
-        "station_id": "QLD_TP009"
+        "station_id": "QLD_TP009",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 304,
@@ -2021,7 +2525,9 @@
         "lng": "",
         "name": "Gold Coast Sand Bypass Jetty",
         "region": "QLD",
-        "station_id": "QLD_TP010"
+        "station_id": "QLD_TP010",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 305,
@@ -2029,7 +2535,9 @@
         "lng": 153.4185176,
         "name": "Gold Coast Seaway",
         "region": "QLD",
-        "station_id": "QLD_TP011"
+        "station_id": "QLD_TP011",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 599,
@@ -2037,7 +2545,9 @@
         "lng": "",
         "name": "Goodrich Bank",
         "region": "NT",
-        "station_id": "NT_TP050"
+        "station_id": "NT_TP050",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 147,
@@ -2045,7 +2555,9 @@
         "lng": -87.144413,
         "name": "Goods Island",
         "region": "QLD",
-        "station_id": "QLD_TP027"
+        "station_id": "QLD_TP027",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 233,
@@ -2053,7 +2565,9 @@
         "lng": "",
         "name": "Goold I.",
         "region": "QLD",
-        "station_id": "QLD_TP200"
+        "station_id": "QLD_TP200",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 435,
@@ -2061,7 +2575,9 @@
         "lng": "",
         "name": "Goose I. Bay",
         "region": "WA",
-        "station_id": "WA_TP084"
+        "station_id": "WA_TP084",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 15,
@@ -2069,7 +2585,9 @@
         "lng": -119.0797038,
         "name": "Gosford",
         "region": "NSW",
-        "station_id": "NSW_TP036"
+        "station_id": "NSW_TP036",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 600,
@@ -2077,7 +2595,9 @@
         "lng": -122.06858,
         "name": "Grant I.",
         "region": "NT",
-        "station_id": "NT_TP086"
+        "station_id": "NT_TP086",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 538,
@@ -2085,7 +2605,9 @@
         "lng": 145.0351237,
         "name": "Granville Harbour",
         "region": "TAS",
-        "station_id": "TAS_TP018"
+        "station_id": "TAS_TP018",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 216,
@@ -2093,7 +2615,9 @@
         "lng": -122.3044876,
         "name": "Green Island",
         "region": "QLD",
-        "station_id": "QLD_TP073"
+        "station_id": "QLD_TP073",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 472,
@@ -2101,7 +2625,9 @@
         "lng": -57.1909182,
         "name": "Greenly Island",
         "region": "SA",
-        "station_id": "SA_TP018"
+        "station_id": "SA_TP018",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 601,
@@ -2109,7 +2635,9 @@
         "lng": 136.4173584,
         "name": "Guluwuru Island",
         "region": "NT",
-        "station_id": "NT_TP019"
+        "station_id": "NT_TP019",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 351,
@@ -2117,7 +2645,9 @@
         "lng": "",
         "name": "Guy Point",
         "region": "WA",
-        "station_id": "WA_TP141"
+        "station_id": "WA_TP141",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 148,
@@ -2125,7 +2655,9 @@
         "lng": -122.041957,
         "name": "Half Way I.",
         "region": "QLD",
-        "station_id": "QLD_TP261"
+        "station_id": "QLD_TP261",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 352,
@@ -2133,7 +2665,9 @@
         "lng": -122.0221282,
         "name": "Hall Point",
         "region": "WA",
-        "station_id": "WA_TP128"
+        "station_id": "WA_TP128",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 107,
@@ -2141,7 +2675,9 @@
         "lng": "",
         "name": "Ham Reef",
         "region": "QLD",
-        "station_id": "QLD_TP229"
+        "station_id": "QLD_TP229",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 436,
@@ -2149,7 +2685,9 @@
         "lng": 114.4605617,
         "name": "Hamelin Pool",
         "region": "WA",
-        "station_id": "WA_TP047"
+        "station_id": "WA_TP047",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 190,
@@ -2157,7 +2695,9 @@
         "lng": 39.332516,
         "name": "Hammond Rock",
         "region": "stream_QLD",
-        "station_id": "stream_QLD_TS001"
+        "station_id": "stream_QLD_TS001",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 602,
@@ -2165,7 +2705,9 @@
         "lng": "",
         "name": "Hancox Shoal",
         "region": "NT",
-        "station_id": "NT_TP062"
+        "station_id": "NT_TP062",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 108,
@@ -2173,7 +2715,9 @@
         "lng": -122.09976456074384,
         "name": "Hannibal I.",
         "region": "QLD",
-        "station_id": "QLD_TP238"
+        "station_id": "QLD_TP238",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 16,
@@ -2181,7 +2725,9 @@
         "lng": 152.7128182,
         "name": "Harrington Inlet",
         "region": "NSW",
-        "station_id": "NSW_TP019"
+        "station_id": "NSW_TP019",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 149,
@@ -2189,7 +2735,9 @@
         "lng": -122.3010611,
         "name": "Harrington Reef",
         "region": "QLD",
-        "station_id": "QLD_TP249"
+        "station_id": "QLD_TP249",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 109,
@@ -2197,7 +2745,9 @@
         "lng": -105.8514425,
         "name": "Harvey Island",
         "region": "QLD",
-        "station_id": "QLD_TP074"
+        "station_id": "QLD_TP074",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 257,
@@ -2205,7 +2755,9 @@
         "lng": "",
         "name": "Haslewood I.",
         "region": "QLD",
-        "station_id": "QLD_TP191"
+        "station_id": "QLD_TP191",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 396,
@@ -2213,7 +2765,9 @@
         "lng": -122.0128861,
         "name": "Hauy Island",
         "region": "WA",
-        "station_id": "WA_TP048"
+        "station_id": "WA_TP048",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 603,
@@ -2221,7 +2775,9 @@
         "lng": -122.0197393,
         "name": "Hawk I.",
         "region": "NT",
-        "station_id": "NT_TP041"
+        "station_id": "NT_TP041",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 150,
@@ -2229,7 +2785,9 @@
         "lng": -122.26788135685476,
         "name": "Hawkesbury I.",
         "region": "QLD",
-        "station_id": "QLD_TP259"
+        "station_id": "QLD_TP259",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 258,
@@ -2237,7 +2795,9 @@
         "lng": 149.2902393,
         "name": "Hay Point",
         "region": "QLD",
-        "station_id": "QLD_TP012"
+        "station_id": "QLD_TP012",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 259,
@@ -2245,7 +2805,9 @@
         "lng": -122.0830006,
         "name": "Hayman I.",
         "region": "QLD",
-        "station_id": "QLD_TP184"
+        "station_id": "QLD_TP184",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 709,
@@ -2253,7 +2815,9 @@
         "lng": -127.5126118,
         "name": "Heard Island",
         "region": "TAS",
-        "station_id": "TAS_TP015"
+        "station_id": "TAS_TP015",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 151,
@@ -2261,7 +2825,9 @@
         "lng": -121.85473133614302,
         "name": "Herald Camp",
         "region": "QLD",
-        "station_id": "QLD_TP250"
+        "station_id": "QLD_TP250",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 306,
@@ -2269,7 +2835,9 @@
         "lng": 151.9150085,
         "name": "Heron Island",
         "region": "QLD",
-        "station_id": "QLD_TP075"
+        "station_id": "QLD_TP075",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 353,
@@ -2277,7 +2845,9 @@
         "lng": -121.8228133,
         "name": "Heywood Shoal",
         "region": "WA",
-        "station_id": "WA_TP138"
+        "station_id": "WA_TP138",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 110,
@@ -2285,7 +2855,9 @@
         "lng": -76.8947898,
         "name": "Hicks Island",
         "region": "QLD",
-        "station_id": "QLD_TP076"
+        "station_id": "QLD_TP076",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 200,
@@ -2293,7 +2865,9 @@
         "lng": -122.15730706298557,
         "name": "High I.",
         "region": "QLD",
-        "station_id": "QLD_TP207"
+        "station_id": "QLD_TP207",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 260,
@@ -2301,7 +2875,9 @@
         "lng": 150.6878662,
         "name": "High Peak Island",
         "region": "QLD",
-        "station_id": "QLD_TP077"
+        "station_id": "QLD_TP077",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 437,
@@ -2309,7 +2885,9 @@
         "lng": 115.7437414,
         "name": "Hillarys",
         "region": "WA",
-        "station_id": "WA_TP017"
+        "station_id": "WA_TP017",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 539,
@@ -2317,7 +2895,9 @@
         "lng": 147.3257119,
         "name": "Hobart",
         "region": "TAS",
-        "station_id": "TAS_TP003"
+        "station_id": "TAS_TP003",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 540,
@@ -2325,7 +2905,9 @@
         "lng": -121.96057795198915,
         "name": "Hogan I.",
         "region": "TAS",
-        "station_id": "TAS_TP045"
+        "station_id": "TAS_TP045",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 605,
@@ -2333,7 +2915,9 @@
         "lng": "",
         "name": "Hogmany Shoal",
         "region": "NT",
-        "station_id": "NT_TP020"
+        "station_id": "NT_TP020",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 201,
@@ -2341,7 +2925,9 @@
         "lng": "",
         "name": "Holmes Reef",
         "region": "QLD",
-        "station_id": "QLD_TP214"
+        "station_id": "QLD_TP214",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 667,
@@ -2349,7 +2935,9 @@
         "lng": -20.2693172,
         "name": "Home Island",
         "region": "WA",
-        "station_id": "WA_TP010"
+        "station_id": "WA_TP010",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 668,
@@ -2357,7 +2945,9 @@
         "lng": 159.9547026,
         "name": "Honiara",
         "region": "INT",
-        "station_id": "INT_TP023"
+        "station_id": "INT_TP023",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 261,
@@ -2365,7 +2955,9 @@
         "lng": "",
         "name": "Hook I.",
         "region": "QLD",
-        "station_id": "QLD_TP189"
+        "station_id": "QLD_TP189",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 604,
@@ -2373,7 +2965,9 @@
         "lng": 136.4925756,
         "name": "Hopeful Bay",
         "region": "NT",
-        "station_id": "NT_TP092"
+        "station_id": "NT_TP092",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 48,
@@ -2381,7 +2975,9 @@
         "lng": "",
         "name": "Hovell Pile",
         "region": "VIC",
-        "station_id": "VIC_TP006"
+        "station_id": "VIC_TP006",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 17,
@@ -2389,7 +2985,9 @@
         "lng": 150.6709272,
         "name": "Huskisson",
         "region": "NSW",
-        "station_id": "NSW_TP031"
+        "station_id": "NSW_TP031",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 606,
@@ -2397,7 +2995,9 @@
         "lng": -73.7890241,
         "name": "Hutchison River",
         "region": "NT",
-        "station_id": "NT_TP021"
+        "station_id": "NT_TP021",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 354,
@@ -2405,7 +3005,9 @@
         "lng": -122.2844862,
         "name": "Imperieuse Reef",
         "region": "WA",
-        "station_id": "WA_TP117"
+        "station_id": "WA_TP117",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 541,
@@ -2413,7 +3015,9 @@
         "lng": 147.7746595,
         "name": "Impression Bay",
         "region": "TAS",
-        "station_id": "TAS_TP038"
+        "station_id": "TAS_TP038",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 152,
@@ -2421,7 +3025,9 @@
         "lng": "",
         "name": "Ince Point",
         "region": "QLD",
-        "station_id": "QLD_TP028"
+        "station_id": "QLD_TP028",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 355,
@@ -2429,7 +3035,9 @@
         "lng": 132.8364641,
         "name": "Jabiru",
         "region": "WA",
-        "station_id": "WA_TP131"
+        "station_id": "WA_TP131",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 669,
@@ -2437,7 +3045,9 @@
         "lng": -95.3118391,
         "name": "Jackson Bay",
         "region": "INT",
-        "station_id": "INT_TP008"
+        "station_id": "INT_TP008",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 234,
@@ -2445,7 +3055,9 @@
         "lng": "",
         "name": "Jaguar Reef",
         "region": "QLD",
-        "station_id": "QLD_TP195"
+        "station_id": "QLD_TP195",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 356,
@@ -2453,7 +3065,9 @@
         "lng": 126.2362645,
         "name": "Jar Island",
         "region": "WA",
-        "station_id": "WA_TP081"
+        "station_id": "WA_TP081",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 18,
@@ -2461,7 +3075,9 @@
         "lng": 150.7061469,
         "name": "Jervis Bay",
         "region": "NSW",
-        "station_id": "NSW_TP014"
+        "station_id": "NSW_TP014",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 235,
@@ -2469,7 +3085,9 @@
         "lng": "",
         "name": "John Brewer Reef",
         "region": "QLD",
-        "station_id": "QLD_TP197"
+        "station_id": "QLD_TP197",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 307,
@@ -2477,7 +3095,9 @@
         "lng": "",
         "name": "Johnson Patch - Nw",
         "region": "QLD",
-        "station_id": "QLD_TP169"
+        "station_id": "QLD_TP169",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 607,
@@ -2485,7 +3105,9 @@
         "lng": -122.06623642599769,
         "name": "Jones Point",
         "region": "NT",
-        "station_id": "NT_TP022"
+        "station_id": "NT_TP022",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 111,
@@ -2493,7 +3115,9 @@
         "lng": "",
         "name": "Jubilee Reef",
         "region": "QLD",
-        "station_id": "QLD_TP230"
+        "station_id": "QLD_TP230",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 438,
@@ -2501,7 +3125,9 @@
         "lng": 115.0388295,
         "name": "Jurien Bay",
         "region": "WA",
-        "station_id": "WA_TP049"
+        "station_id": "WA_TP049",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 153,
@@ -2509,7 +3135,9 @@
         "lng": "",
         "name": "Kai-Maituine Rf - Ne",
         "region": "QLD",
-        "station_id": "QLD_TP270"
+        "station_id": "QLD_TP270",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 439,
@@ -2517,7 +3145,9 @@
         "lng": 114.1646059,
         "name": "Kalbarri",
         "region": "WA",
-        "station_id": "WA_TP100"
+        "station_id": "WA_TP100",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 670,
@@ -2525,7 +3155,9 @@
         "lng": -179.1513177,
         "name": "Kanawea Island",
         "region": "INT",
-        "station_id": "INT_TP038"
+        "station_id": "INT_TP038",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 308,
@@ -2533,7 +3165,9 @@
         "lng": "",
         "name": "Karamea Bank",
         "region": "QLD",
-        "station_id": "QLD_TP168"
+        "station_id": "QLD_TP168",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 357,
@@ -2541,7 +3175,9 @@
         "lng": 123.0281261,
         "name": "Karrakatta Bay",
         "region": "WA",
-        "station_id": "WA_TP122"
+        "station_id": "WA_TP122",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 87,
@@ -2549,7 +3185,9 @@
         "lng": 140.8369845,
         "name": "Karumba",
         "region": "QLD",
-        "station_id": "QLD_TP013"
+        "station_id": "QLD_TP013",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 671,
@@ -2557,7 +3195,9 @@
         "lng": "",
         "name": "Kavieng",
         "region": "INT",
-        "station_id": "INT_TP016"
+        "station_id": "INT_TP016",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 112,
@@ -2565,7 +3205,9 @@
         "lng": "",
         "name": "Kay Reef",
         "region": "QLD",
-        "station_id": "QLD_TP234"
+        "station_id": "QLD_TP234",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 236,
@@ -2573,7 +3215,9 @@
         "lng": "",
         "name": "Kennedy Reef",
         "region": "QLD",
-        "station_id": "QLD_TP193"
+        "station_id": "QLD_TP193",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 672,
@@ -2581,7 +3225,9 @@
         "lng": 144.6662472,
         "name": "Kieta",
         "region": "INT",
-        "station_id": "INT_TP039"
+        "station_id": "INT_TP039",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 542,
@@ -2589,7 +3235,9 @@
         "lng": -121.4356201,
         "name": "King Island (Grassy)",
         "region": "TAS",
-        "station_id": "TAS_TP023"
+        "station_id": "TAS_TP023",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 19,
@@ -2597,7 +3245,9 @@
         "lng": 153.5780704,
         "name": "Kingscliff",
         "region": "NSW",
-        "station_id": "NSW_TP029"
+        "station_id": "NSW_TP029",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 473,
@@ -2605,7 +3255,9 @@
         "lng": 137.6343935,
         "name": "Kingscote",
         "region": "SA",
-        "station_id": "SA_TP062"
+        "station_id": "SA_TP062",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 474,
@@ -2613,7 +3265,9 @@
         "lng": -73.995912,
         "name": "Kingston",
         "region": "SA",
-        "station_id": "SA_TP055"
+        "station_id": "SA_TP055",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 154,
@@ -2621,7 +3275,9 @@
         "lng": "",
         "name": "Kirkcaldie Reef",
         "region": "QLD",
-        "station_id": "QLD_TP256"
+        "station_id": "QLD_TP256",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 20,
@@ -2629,7 +3285,9 @@
         "lng": "",
         "name": "Ku-Ring-Gai Y.C.",
         "region": "NSW",
-        "station_id": "NSW_TP033"
+        "station_id": "NSW_TP033",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 155,
@@ -2637,7 +3295,9 @@
         "lng": 142.2169433,
         "name": "Kubin (Moa Island)",
         "region": "QLD",
-        "station_id": "QLD_TP080"
+        "station_id": "QLD_TP080",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 358,
@@ -2645,7 +3305,9 @@
         "lng": 128.3131409,
         "name": "Lacrosse Island",
         "region": "WA",
-        "station_id": "WA_TP050"
+        "station_id": "WA_TP050",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 543,
@@ -2653,7 +3315,9 @@
         "lng": 148.2395352,
         "name": "Lady Barron",
         "region": "TAS",
-        "station_id": "TAS_TP032"
+        "station_id": "TAS_TP032",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 309,
@@ -2661,7 +3325,9 @@
         "lng": "",
         "name": "Lady Elliot I.",
         "region": "QLD",
-        "station_id": "QLD_TP158"
+        "station_id": "QLD_TP158",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 310,
@@ -2669,7 +3335,9 @@
         "lng": "",
         "name": "Lady Musgrave I.",
         "region": "QLD",
-        "station_id": "QLD_TP157"
+        "station_id": "QLD_TP157",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 673,
@@ -2677,7 +3345,9 @@
         "lng": 146.995426,
         "name": "Lae",
         "region": "INT",
-        "station_id": "INT_TP013"
+        "station_id": "INT_TP013",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 359,
@@ -2685,7 +3355,9 @@
         "lng": 121.722284,
         "name": "Lagrange Bay",
         "region": "WA",
-        "station_id": "WA_TP119"
+        "station_id": "WA_TP119",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 262,
@@ -2693,7 +3365,9 @@
         "lng": 148.6696359,
         "name": "Laguna Quays",
         "region": "QLD",
-        "station_id": "QLD_TP137"
+        "station_id": "QLD_TP137",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 49,
@@ -2701,7 +3375,9 @@
         "lng": 147.994206,
         "name": "Lakes Entrance (Outer)",
         "region": "VIC",
-        "station_id": "VIC_TP001"
+        "station_id": "VIC_TP001",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 360,
@@ -2709,7 +3385,9 @@
         "lng": -122.2033657,
         "name": "Laminaria",
         "region": "WA",
-        "station_id": "WA_TP133"
+        "station_id": "WA_TP133",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 440,
@@ -2717,7 +3395,9 @@
         "lng": 115.3320355,
         "name": "Lancelin",
         "region": "WA",
-        "station_id": "WA_TP094"
+        "station_id": "WA_TP094",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 397,
@@ -2725,7 +3405,9 @@
         "lng": "",
         "name": "Large I.",
         "region": "WA",
-        "station_id": "WA_TP112"
+        "station_id": "WA_TP112",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 674,
@@ -2733,7 +3415,9 @@
         "lng": "",
         "name": "Lata Wharf",
         "region": "INT",
-        "station_id": "INT_TP050"
+        "station_id": "INT_TP050",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 544,
@@ -2741,7 +3425,9 @@
         "lng": 147.1385175,
         "name": "Launceston",
         "region": "TAS",
-        "station_id": "TAS_TP019"
+        "station_id": "TAS_TP019",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 675,
@@ -2749,7 +3435,9 @@
         "lng": 177.4558304,
         "name": "Lautoka",
         "region": "INT",
-        "station_id": "INT_TP003"
+        "station_id": "INT_TP003",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 398,
@@ -2757,7 +3445,9 @@
         "lng": 143.7310708,
         "name": "Learmonth",
         "region": "WA",
-        "station_id": "WA_TP108"
+        "station_id": "WA_TP108",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 441,
@@ -2765,7 +3455,9 @@
         "lng": 114.9826802,
         "name": "Leeman",
         "region": "WA",
-        "station_id": "WA_TP097"
+        "station_id": "WA_TP097",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 113,
@@ -2773,7 +3465,9 @@
         "lng": 144.8683177,
         "name": "Leggatt Island",
         "region": "QLD",
-        "station_id": "QLD_TP014"
+        "station_id": "QLD_TP014",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 361,
@@ -2781,7 +3475,9 @@
         "lng": 127.2713928,
         "name": "Lesueur Island",
         "region": "WA",
-        "station_id": "WA_TP051"
+        "station_id": "WA_TP051",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 263,
@@ -2789,7 +3485,9 @@
         "lng": -122.2844862,
         "name": "Lihou Reef",
         "region": "QLD",
-        "station_id": "QLD_TP015"
+        "station_id": "QLD_TP015",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 114,
@@ -2797,7 +3495,9 @@
         "lng": "",
         "name": "Lizard I. (Qld)",
         "region": "QLD",
-        "station_id": "QLD_TP016"
+        "station_id": "QLD_TP016",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 362,
@@ -2805,7 +3505,9 @@
         "lng": 145.46315,
         "name": "Lizard Island",
         "region": "WA",
-        "station_id": "WA_TP052"
+        "station_id": "WA_TP052",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 676,
@@ -2813,7 +3515,9 @@
         "lng": "",
         "name": "Lombrum",
         "region": "INT",
-        "station_id": "INT_TP015"
+        "station_id": "INT_TP015",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 21,
@@ -2821,7 +3525,9 @@
         "lng": 159.0663333,
         "name": "Lord Howe Island",
         "region": "NSW",
-        "station_id": "NSW_TP003"
+        "station_id": "NSW_TP003",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 50,
@@ -2829,7 +3535,9 @@
         "lng": 143.9753629,
         "name": "Lorne",
         "region": "VIC",
-        "station_id": "VIC_TP002"
+        "station_id": "VIC_TP002",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 545,
@@ -2837,7 +3545,9 @@
         "lng": 146.8045938,
         "name": "Low Head",
         "region": "TAS",
-        "station_id": "TAS_TP004"
+        "station_id": "TAS_TP004",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 202,
@@ -2845,7 +3555,9 @@
         "lng": "",
         "name": "Low I.",
         "region": "QLD",
-        "station_id": "QLD_TP213"
+        "station_id": "QLD_TP213",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 203,
@@ -2853,7 +3565,9 @@
         "lng": "",
         "name": "Low Wooded I.",
         "region": "QLD",
-        "station_id": "QLD_TP215"
+        "station_id": "QLD_TP215",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 608,
@@ -2861,7 +3575,9 @@
         "lng": "",
         "name": "Loxton Shoal",
         "region": "NT",
-        "station_id": "NT_TP037"
+        "station_id": "NT_TP037",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 217,
@@ -2869,7 +3585,9 @@
         "lng": 146.3340953,
         "name": "Lucinda (Offshore)",
         "region": "QLD",
-        "station_id": "QLD_TP017"
+        "station_id": "QLD_TP017",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 677,
@@ -2877,7 +3595,9 @@
         "lng": "",
         "name": "Luganville Wharf",
         "region": "INT",
-        "station_id": "INT_TP049"
+        "station_id": "INT_TP049",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 609,
@@ -2885,7 +3605,9 @@
         "lng": "",
         "name": "Lynedoch Bank",
         "region": "NT",
-        "station_id": "NT_TP023"
+        "station_id": "NT_TP023",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 363,
@@ -2893,7 +3615,9 @@
         "lng": "",
         "name": "Lynher Bank",
         "region": "WA",
-        "station_id": "WA_TP137"
+        "station_id": "WA_TP137",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 546,
@@ -2901,7 +3625,9 @@
         "lng": "",
         "name": "Maatsuyker I.",
         "region": "TAS",
-        "station_id": "TAS_TP040"
+        "station_id": "TAS_TP040",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 156,
@@ -2909,7 +3635,9 @@
         "lng": "",
         "name": "Mabuiag I. Barge",
         "region": "QLD",
-        "station_id": "QLD_TP262"
+        "station_id": "QLD_TP262",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 264,
@@ -2917,7 +3645,9 @@
         "lng": 149.2276362,
         "name": "Mackay Outer Harbour",
         "region": "QLD",
-        "station_id": "QLD_TP018"
+        "station_id": "QLD_TP018",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 364,
@@ -2925,7 +3655,9 @@
         "lng": "",
         "name": "Macleay I.",
         "region": "WA",
-        "station_id": "WA_TP124"
+        "station_id": "WA_TP124",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 115,
@@ -2933,7 +3665,9 @@
         "lng": "",
         "name": "Maclennan Cay",
         "region": "QLD",
-        "station_id": "QLD_TP241"
+        "station_id": "QLD_TP241",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 547,
@@ -2941,7 +3675,9 @@
         "lng": 158.8616037,
         "name": "Macquarie Island",
         "region": "TAS",
-        "station_id": "TAS_TP014"
+        "station_id": "TAS_TP014",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 678,
@@ -2949,7 +3685,9 @@
         "lng": "",
         "name": "Madang (Nagada Harbour)",
         "region": "INT",
-        "station_id": "INT_TP014"
+        "station_id": "INT_TP014",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 265,
@@ -2957,7 +3695,9 @@
         "lng": -121.82881378445136,
         "name": "Magdelaine Cays",
         "region": "QLD",
-        "station_id": "QLD_TP284"
+        "station_id": "QLD_TP284",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 679,
@@ -2965,7 +3705,9 @@
         "lng": 171.3801845,
         "name": "Majuro",
         "region": "INT",
-        "station_id": "INT_TP006"
+        "station_id": "INT_TP006",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 680,
@@ -2973,7 +3715,9 @@
         "lng": "",
         "name": "Malakal Harbour",
         "region": "INT",
-        "station_id": "INT_TP009"
+        "station_id": "INT_TP009",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 610,
@@ -2981,7 +3725,9 @@
         "lng": "",
         "name": "Mallison I.",
         "region": "NT",
-        "station_id": "NT_TP090"
+        "station_id": "NT_TP090",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 442,
@@ -2989,7 +3735,9 @@
         "lng": 115.7212125,
         "name": "Mandurah",
         "region": "WA",
-        "station_id": "WA_TP091"
+        "station_id": "WA_TP091",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 365,
@@ -2997,7 +3745,9 @@
         "lng": 124.9795988,
         "name": "Maret Island",
         "region": "WA",
-        "station_id": "WA_TP054"
+        "station_id": "WA_TP054",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 681,
@@ -3005,7 +3755,9 @@
         "lng": -121.9971301,
         "name": "Margarida",
         "region": "INT",
-        "station_id": "INT_TP040"
+        "station_id": "INT_TP040",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 266,
@@ -3013,7 +3765,9 @@
         "lng": "",
         "name": "Marion Reef",
         "region": "QLD",
-        "station_id": "QLD_TP281"
+        "station_id": "QLD_TP281",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 267,
@@ -3021,7 +3775,9 @@
         "lng": -122.0006174,
         "name": "Marquis I.",
         "region": "QLD",
-        "station_id": "QLD_TP172"
+        "station_id": "QLD_TP172",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 443,
@@ -3029,7 +3785,9 @@
         "lng": "",
         "name": "Mary Ann Haven",
         "region": "WA",
-        "station_id": "WA_TP085"
+        "station_id": "WA_TP085",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 399,
@@ -3037,7 +3795,9 @@
         "lng": -87.144413,
         "name": "Mawby Island",
         "region": "WA",
-        "station_id": "WA_TP055"
+        "station_id": "WA_TP055",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 710,
@@ -3045,7 +3805,9 @@
         "lng": -89.381892,
         "name": "Mawson",
         "region": "TAS",
-        "station_id": "TAS_TP012"
+        "station_id": "TAS_TP012",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 268,
@@ -3053,7 +3815,9 @@
         "lng": "",
         "name": "Mcewin Islet",
         "region": "QLD",
-        "station_id": "QLD_TP082"
+        "station_id": "QLD_TP082",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 157,
@@ -3061,7 +3825,9 @@
         "lng": "",
         "name": "Mcsweeny Reef",
         "region": "QLD",
-        "station_id": "QLD_TP235"
+        "station_id": "QLD_TP235",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 611,
@@ -3069,7 +3835,9 @@
         "lng": "",
         "name": "Medina Inlet South",
         "region": "NT",
-        "station_id": "NT_TP044"
+        "station_id": "NT_TP044",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 158,
@@ -3077,7 +3845,9 @@
         "lng": "",
         "name": "Meer I. Barge",
         "region": "QLD",
-        "station_id": "QLD_TP276"
+        "station_id": "QLD_TP276",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 51,
@@ -3085,7 +3855,9 @@
         "lng": 144.9663466,
         "name": "Melbourne (Williamstown)",
         "region": "VIC",
-        "station_id": "VIC_TP003"
+        "station_id": "VIC_TP003",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 269,
@@ -3093,7 +3865,9 @@
         "lng": 155.8567183,
         "name": "Mellish Reef",
         "region": "QLD",
-        "station_id": "QLD_TP282"
+        "station_id": "QLD_TP282",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 612,
@@ -3101,7 +3875,9 @@
         "lng": 136.6819846,
         "name": "Melville Bay (Gove Harbour)",
         "region": "NT",
-        "station_id": "NT_TP002"
+        "station_id": "NT_TP002",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 400,
@@ -3109,7 +3885,9 @@
         "lng": "",
         "name": "Mermaid Reef",
         "region": "WA",
-        "station_id": "WA_TP118"
+        "station_id": "WA_TP118",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 159,
@@ -3117,7 +3895,9 @@
         "lng": 8.8775496,
         "name": "Merrie England Sh.",
         "region": "QLD",
-        "station_id": "QLD_TP272"
+        "station_id": "QLD_TP272",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 218,
@@ -3125,7 +3905,9 @@
         "lng": -120.82272060018708,
         "name": "Michaelmas Cay",
         "region": "QLD",
-        "station_id": "QLD_TP083"
+        "station_id": "QLD_TP083",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 311,
@@ -3133,7 +3915,9 @@
         "lng": "",
         "name": "Middle I., Keppel I.",
         "region": "QLD",
-        "station_id": "QLD_TP165"
+        "station_id": "QLD_TP165",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 270,
@@ -3141,7 +3925,9 @@
         "lng": "",
         "name": "Middle I., Percy I.",
         "region": "QLD",
-        "station_id": "QLD_TP176"
+        "station_id": "QLD_TP176",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 613,
@@ -3149,7 +3935,9 @@
         "lng": 136.4151414,
         "name": "Milner Bay (Groote Eylandt)",
         "region": "NT",
-        "station_id": "NT_TP003"
+        "station_id": "NT_TP003",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 271,
@@ -3157,7 +3945,9 @@
         "lng": "",
         "name": "Molle I.",
         "region": "QLD",
-        "station_id": "QLD_TP187"
+        "station_id": "QLD_TP187",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 614,
@@ -3165,7 +3955,9 @@
         "lng": "",
         "name": "Money Shoal",
         "region": "NT",
-        "station_id": "NT_TP024"
+        "station_id": "NT_TP024",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 444,
@@ -3173,7 +3965,9 @@
         "lng": 113.7191026,
         "name": "Monkey Mia",
         "region": "WA",
-        "station_id": "WA_TP104"
+        "station_id": "WA_TP104",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 312,
@@ -3181,7 +3975,9 @@
         "lng": 153.1189922,
         "name": "Mooloolaba",
         "region": "QLD",
-        "station_id": "QLD_TP019"
+        "station_id": "QLD_TP019",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 52,
@@ -3189,7 +3985,9 @@
         "lng": 145.0450987,
         "name": "Mornington",
         "region": "VIC",
-        "station_id": "VIC_TP022"
+        "station_id": "VIC_TP022",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 88,
@@ -3197,7 +3995,9 @@
         "lng": 139.1801163,
         "name": "Mornington Island",
         "region": "QLD",
-        "station_id": "QLD_TP084"
+        "station_id": "QLD_TP084",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 116,
@@ -3205,7 +4005,9 @@
         "lng": -65.8977303,
         "name": "Morris Island",
         "region": "QLD",
-        "station_id": "QLD_TP085"
+        "station_id": "QLD_TP085",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 22,
@@ -3213,7 +4015,9 @@
         "lng": 150.0780438,
         "name": "Moruya",
         "region": "NSW",
-        "station_id": "NSW_TP030"
+        "station_id": "NSW_TP030",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 219,
@@ -3221,7 +4025,9 @@
         "lng": 146.119406,
         "name": "Mourilyan Harbour",
         "region": "QLD",
-        "station_id": "QLD_TP020"
+        "station_id": "QLD_TP020",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 272,
@@ -3229,7 +4035,9 @@
         "lng": -122.11531218508983,
         "name": "Mumford I.",
         "region": "QLD",
-        "station_id": "QLD_TP170"
+        "station_id": "QLD_TP170",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 615,
@@ -3237,7 +4045,9 @@
         "lng": "",
         "name": "Munkunuwa",
         "region": "NT",
-        "station_id": "NT_TP058"
+        "station_id": "NT_TP058",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 117,
@@ -3245,7 +4055,9 @@
         "lng": "",
         "name": "Munro Reef",
         "region": "QLD",
-        "station_id": "QLD_TP222"
+        "station_id": "QLD_TP222",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 160,
@@ -3253,7 +4065,9 @@
         "lng": "",
         "name": "Mutacomal Reef",
         "region": "QLD",
-        "station_id": "QLD_TP273"
+        "station_id": "QLD_TP273",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 366,
@@ -3261,7 +4075,9 @@
         "lng": 126.6066471,
         "name": "Napier Broome Bay",
         "region": "WA",
-        "station_id": "WA_TP080"
+        "station_id": "WA_TP080",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 161,
@@ -3269,7 +4085,9 @@
         "lng": "",
         "name": "Nardana Patches",
         "region": "QLD",
-        "station_id": "QLD_TP029"
+        "station_id": "QLD_TP029",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 89,
@@ -3277,7 +4095,9 @@
         "lng": "",
         "name": "Nassau River Offshore",
         "region": "QLD",
-        "station_id": "QLD_TP086"
+        "station_id": "QLD_TP086",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 222,
@@ -3285,7 +4105,9 @@
         "lng": "",
         "name": "Nathan Reef",
         "region": "QLD",
-        "station_id": "QLD_TP205"
+        "station_id": "QLD_TP205",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 616,
@@ -3293,7 +4115,9 @@
         "lng": "",
         "name": "Native Point",
         "region": "NT",
-        "station_id": "NT_TP053"
+        "station_id": "NT_TP053",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 682,
@@ -3301,7 +4125,9 @@
         "lng": "",
         "name": "Natovi Wharf",
         "region": "INT",
-        "station_id": "INT_TP052"
+        "station_id": "INT_TP052",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 683,
@@ -3309,7 +4135,9 @@
         "lng": 166.9231353,
         "name": "Nauru",
         "region": "INT",
-        "station_id": "INT_TP007"
+        "station_id": "INT_TP007",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 684,
@@ -3317,7 +4145,9 @@
         "lng": "",
         "name": "Neiafu",
         "region": "INT",
-        "station_id": "INT_TP053"
+        "station_id": "INT_TP053",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 313,
@@ -3325,7 +4155,9 @@
         "lng": "",
         "name": "Nerang R. (Bundall)",
         "region": "QLD",
-        "station_id": "QLD_TP145"
+        "station_id": "QLD_TP145",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 617,
@@ -3333,7 +4165,9 @@
         "lng": "",
         "name": "New Year I. - W",
         "region": "NT",
-        "station_id": "NT_TP085"
+        "station_id": "NT_TP085",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 618,
@@ -3341,7 +4175,9 @@
         "lng": "",
         "name": "Newby Shoal",
         "region": "NT",
-        "station_id": "NT_TP067"
+        "station_id": "NT_TP067",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 23,
@@ -3349,7 +4185,9 @@
         "lng": -1.6094462,
         "name": "Newcastle",
         "region": "NSW",
-        "station_id": "NSW_TP004"
+        "station_id": "NSW_TP004",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 118,
@@ -3357,7 +4195,9 @@
         "lng": 143.5765991,
         "name": "Night Island",
         "region": "QLD",
-        "station_id": "QLD_TP087"
+        "station_id": "QLD_TP087",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 619,
@@ -3365,7 +4205,9 @@
         "lng": "",
         "name": "Nightcliff",
         "region": "NT",
-        "station_id": "NT_TP063"
+        "station_id": "NT_TP063",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 685,
@@ -3373,7 +4215,9 @@
         "lng": -169.8601692,
         "name": "Niue Island",
         "region": "INT",
-        "station_id": "INT_TP024"
+        "station_id": "INT_TP024",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 314,
@@ -3381,7 +4225,9 @@
         "lng": "",
         "name": "Noosa Head",
         "region": "QLD",
-        "station_id": "QLD_TP021"
+        "station_id": "QLD_TP021",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 686,
@@ -3389,7 +4235,9 @@
         "lng": 167.9557209,
         "name": "Norfolk Island",
         "region": "NSW",
-        "station_id": "NSW_TP005"
+        "station_id": "NSW_TP005",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 119,
@@ -3397,7 +4245,9 @@
         "lng": -122.0385443,
         "name": "Normanby R.",
         "region": "QLD",
-        "station_id": "QLD_TP217"
+        "station_id": "QLD_TP217",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 90,
@@ -3405,7 +4255,9 @@
         "lng": 141.0792907,
         "name": "Normanton",
         "region": "QLD",
-        "station_id": "QLD_TP141"
+        "station_id": "QLD_TP141",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 446,
@@ -3413,7 +4265,9 @@
         "lng": 116.7278009,
         "name": "Nornalup Inlet",
         "region": "WA",
-        "station_id": "WA_TP056"
+        "station_id": "WA_TP056",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 224,
@@ -3421,7 +4275,9 @@
         "lng": -129.6460965,
         "name": "North Barnard Island",
         "region": "QLD",
-        "station_id": "QLD_TP088"
+        "station_id": "QLD_TP088",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 120,
@@ -3429,7 +4285,9 @@
         "lng": "",
         "name": "North Direction I.",
         "region": "QLD",
-        "station_id": "QLD_TP220"
+        "station_id": "QLD_TP220",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 620,
@@ -3437,7 +4295,9 @@
         "lng": "",
         "name": "North Goulburn I.",
         "region": "NT",
-        "station_id": "NT_TP088"
+        "station_id": "NT_TP088",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 447,
@@ -3445,7 +4305,9 @@
         "lng": -117.1962456,
         "name": "North Island",
         "region": "WA",
-        "station_id": "WA_TP057"
+        "station_id": "WA_TP057",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 401,
@@ -3453,7 +4315,9 @@
         "lng": "",
         "name": "North Muiron I.",
         "region": "WA",
-        "station_id": "WA_TP110"
+        "station_id": "WA_TP110",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 621,
@@ -3461,7 +4325,9 @@
         "lng": "",
         "name": "North Of Jones Shoal",
         "region": "NT",
-        "station_id": "NT_TP077"
+        "station_id": "NT_TP077",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 622,
@@ -3469,7 +4335,9 @@
         "lng": "",
         "name": "North Peron I.",
         "region": "NT",
-        "station_id": "NT_TP051"
+        "station_id": "NT_TP051",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 402,
@@ -3477,7 +4345,9 @@
         "lng": -84.661117,
         "name": "North Sandy Island",
         "region": "WA",
-        "station_id": "WA_TP058"
+        "station_id": "WA_TP058",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 623,
@@ -3485,7 +4355,9 @@
         "lng": 135.1583867,
         "name": "North West Crocodile Island",
         "region": "NT",
-        "station_id": "NT_TP025"
+        "station_id": "NT_TP025",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 403,
@@ -3493,7 +4365,9 @@
         "lng": 151.70753,
         "name": "North West Island",
         "region": "WA",
-        "station_id": "WA_TP059"
+        "station_id": "WA_TP059",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 445,
@@ -3501,7 +4375,9 @@
         "lng": 113.6654048,
         "name": "Norwegian Bay",
         "region": "WA",
-        "station_id": "WA_TP106"
+        "station_id": "WA_TP106",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 687,
@@ -3509,7 +4385,9 @@
         "lng": "",
         "name": "Nuku&apos;Alofa",
         "region": "INT",
-        "station_id": "INT_TP025"
+        "station_id": "INT_TP025",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 624,
@@ -3517,7 +4395,9 @@
         "lng": "",
         "name": "Nw Peacock I.",
         "region": "NT",
-        "station_id": "NT_TP076"
+        "station_id": "NT_TP076",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 24,
@@ -3525,7 +4405,9 @@
         "lng": "",
         "name": "Nw Solitary I.",
         "region": "NSW",
-        "station_id": "NSW_TP039"
+        "station_id": "NSW_TP039",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 688,
@@ -3533,7 +4415,9 @@
         "lng": "",
         "name": "Omati",
         "region": "INT",
-        "station_id": "INT_TP041"
+        "station_id": "INT_TP041",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 315,
@@ -3541,7 +4425,9 @@
         "lng": -122.2585557,
         "name": "One Tree I.",
         "region": "QLD",
-        "station_id": "QLD_TP160"
+        "station_id": "QLD_TP160",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 625,
@@ -3549,7 +4435,9 @@
         "lng": -123.3068867,
         "name": "One Tree Point",
         "region": "NT",
-        "station_id": "NT_TP084"
+        "station_id": "NT_TP084",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 404,
@@ -3557,7 +4445,9 @@
         "lng": 115.1133241,
         "name": "Onslow (Beadon Creek)",
         "region": "WA",
-        "station_id": "WA_TP018"
+        "station_id": "WA_TP018",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 286,
@@ -3565,7 +4455,9 @@
         "lng": "",
         "name": "Oom Shoal - Mackay",
         "region": "stream_QLD",
-        "station_id": "stream_QLD_TS006"
+        "station_id": "stream_QLD_TS006",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 689,
@@ -3573,7 +4465,9 @@
         "lng": -122.7067987,
         "name": "Oro Bay",
         "region": "INT",
-        "station_id": "INT_TP042"
+        "station_id": "INT_TP042",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 273,
@@ -3581,7 +4475,9 @@
         "lng": -122.21984220450156,
         "name": "Osborn I.",
         "region": "QLD",
-        "station_id": "QLD_TP171"
+        "station_id": "QLD_TP171",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 121,
@@ -3589,7 +4485,9 @@
         "lng": "",
         "name": "Osprey Reef - W",
         "region": "QLD",
-        "station_id": "QLD_TP275"
+        "station_id": "QLD_TP275",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 162,
@@ -3597,7 +4495,9 @@
         "lng": -96.1802788,
         "name": "Packe I.",
         "region": "QLD",
-        "station_id": "QLD_TP248"
+        "station_id": "QLD_TP248",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 204,
@@ -3605,7 +4505,9 @@
         "lng": -122.06635546175485,
         "name": "Palm Cove",
         "region": "QLD",
-        "station_id": "QLD_TP209"
+        "station_id": "QLD_TP209",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 163,
@@ -3613,7 +4515,9 @@
         "lng": "",
         "name": "Papou Point",
         "region": "QLD",
-        "station_id": "QLD_TP120"
+        "station_id": "QLD_TP120",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 626,
@@ -3621,7 +4525,9 @@
         "lng": "",
         "name": "Parsons Bank",
         "region": "NT",
-        "station_id": "NT_TP060"
+        "station_id": "NT_TP060",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 548,
@@ -3629,7 +4535,9 @@
         "lng": -122.113671,
         "name": "Parsons Bay",
         "region": "TAS",
-        "station_id": "TAS_TP026"
+        "station_id": "TAS_TP026",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 25,
@@ -3637,7 +4545,9 @@
         "lng": 151.2728972,
         "name": "Patonga",
         "region": "NSW",
-        "station_id": "NSW_TP020"
+        "station_id": "NSW_TP020",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 627,
@@ -3645,7 +4555,9 @@
         "lng": "",
         "name": "Paxie Shoal",
         "region": "NT",
-        "station_id": "NT_TP026"
+        "station_id": "NT_TP026",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 628,
@@ -3653,7 +4565,9 @@
         "lng": -121.99797268217272,
         "name": "Peacock I.",
         "region": "NT",
-        "station_id": "NT_TP078"
+        "station_id": "NT_TP078",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 316,
@@ -3661,7 +4575,9 @@
         "lng": "",
         "name": "Peaked I.",
         "region": "QLD",
-        "station_id": "QLD_TP167"
+        "station_id": "QLD_TP167",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 164,
@@ -3669,7 +4585,9 @@
         "lng": 143.2876939,
         "name": "Pearce Cay",
         "region": "QLD",
-        "station_id": "QLD_TP279"
+        "station_id": "QLD_TP279",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 475,
@@ -3677,7 +4595,9 @@
         "lng": -124.0808101,
         "name": "Pearson Island",
         "region": "SA",
-        "station_id": "SA_TP023"
+        "station_id": "SA_TP023",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 223,
@@ -3685,7 +4605,9 @@
         "lng": "",
         "name": "Peart Reef",
         "region": "QLD",
-        "station_id": "QLD_TP204"
+        "station_id": "QLD_TP204",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 367,
@@ -3693,7 +4615,9 @@
         "lng": "",
         "name": "Pee Shoal",
         "region": "WA",
-        "station_id": "WA_TP139"
+        "station_id": "WA_TP139",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 368,
@@ -3701,7 +4625,9 @@
         "lng": -74.0891787,
         "name": "Pelican Island",
         "region": "WA",
-        "station_id": "WA_TP061"
+        "station_id": "WA_TP061",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 449,
@@ -3709,7 +4635,9 @@
         "lng": "",
         "name": "Pelsaert I.",
         "region": "WA",
-        "station_id": "WA_TP098"
+        "station_id": "WA_TP098",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 369,
@@ -3717,7 +4645,9 @@
         "lng": -122.2434974,
         "name": "Pender Point",
         "region": "WA",
-        "station_id": "WA_TP142"
+        "station_id": "WA_TP142",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 91,
@@ -3725,7 +4655,9 @@
         "lng": 141.7864615,
         "name": "Pennefather River",
         "region": "QLD",
-        "station_id": "QLD_TP092"
+        "station_id": "QLD_TP092",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 476,
@@ -3733,7 +4665,9 @@
         "lng": 137.9388106,
         "name": "Penneshaw",
         "region": "SA",
-        "station_id": "SA_TP020"
+        "station_id": "SA_TP020",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 274,
@@ -3741,7 +4675,9 @@
         "lng": 149.9034881,
         "name": "Penrith Island",
         "region": "QLD",
-        "station_id": "QLD_TP093"
+        "station_id": "QLD_TP093",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 448,
@@ -3749,7 +4685,9 @@
         "lng": 115.8602204,
         "name": "Perth (Barrack Street Jetty)",
         "region": "WA",
-        "station_id": "WA_TP062"
+        "station_id": "WA_TP062",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 165,
@@ -3757,7 +4695,9 @@
         "lng": "",
         "name": "Phipi Reef",
         "region": "QLD",
-        "station_id": "QLD_TP121"
+        "station_id": "QLD_TP121",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 549,
@@ -3765,7 +4705,9 @@
         "lng": "",
         "name": "Pieman R.",
         "region": "TAS",
-        "station_id": "TAS_TP027"
+        "station_id": "TAS_TP027",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 122,
@@ -3773,7 +4715,9 @@
         "lng": 144.5269504,
         "name": "Pipon Islands",
         "region": "QLD",
-        "station_id": "QLD_TP094"
+        "station_id": "QLD_TP094",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 550,
@@ -3781,7 +4725,9 @@
         "lng": 144.7710737,
         "name": "Pirates Bay",
         "region": "TAS",
-        "station_id": "TAS_TP025"
+        "station_id": "TAS_TP025",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 225,
@@ -3789,7 +4735,9 @@
         "lng": -122.2844862,
         "name": "Pith Reef",
         "region": "QLD",
-        "station_id": "QLD_TP095"
+        "station_id": "QLD_TP095",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 690,
@@ -3797,7 +4745,9 @@
         "lng": "",
         "name": "Pohnpei",
         "region": "INT",
-        "station_id": "INT_TP002"
+        "station_id": "INT_TP002",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 629,
@@ -3805,7 +4755,9 @@
         "lng": "",
         "name": "Point David",
         "region": "NT",
-        "station_id": "NT_TP079"
+        "station_id": "NT_TP079",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 630,
@@ -3813,7 +4765,9 @@
         "lng": -122.29108939759497,
         "name": "Point Fawcett (Off)",
         "region": "NT",
-        "station_id": "NT_TP056"
+        "station_id": "NT_TP056",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 54,
@@ -3821,7 +4775,9 @@
         "lng": "",
         "name": "Point Hicks",
         "region": "VIC",
-        "station_id": "VIC_TP041"
+        "station_id": "VIC_TP041",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 631,
@@ -3829,7 +4785,9 @@
         "lng": "",
         "name": "Point Jahleel (Off)",
         "region": "NT",
-        "station_id": "NT_TP072"
+        "station_id": "NT_TP072",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 632,
@@ -3837,7 +4795,9 @@
         "lng": "",
         "name": "Point Jenny",
         "region": "NT",
-        "station_id": "NT_TP052"
+        "station_id": "NT_TP052",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 55,
@@ -3845,7 +4805,9 @@
         "lng": 144.6187057,
         "name": "Point Lonsdale",
         "region": "VIC",
-        "station_id": "VIC_TP009"
+        "station_id": "VIC_TP009",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 405,
@@ -3853,7 +4815,9 @@
         "lng": "",
         "name": "Point Murat",
         "region": "WA",
-        "station_id": "WA_TP019"
+        "station_id": "WA_TP019",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 56,
@@ -3861,7 +4825,9 @@
         "lng": "",
         "name": "Point Richards (Corio Bay)",
         "region": "VIC",
-        "station_id": "VIC_TP004"
+        "station_id": "VIC_TP004",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 691,
@@ -3869,7 +4835,9 @@
         "lng": "",
         "name": "Point Stone Island",
         "region": "INT",
-        "station_id": "INT_TP018"
+        "station_id": "INT_TP018",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 633,
@@ -3877,7 +4845,9 @@
         "lng": -80.2556246,
         "name": "Point Stuart",
         "region": "NT",
-        "station_id": "NT_TP027"
+        "station_id": "NT_TP027",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 498,
@@ -3885,7 +4855,9 @@
         "lng": 137.3507744,
         "name": "Point Turton",
         "region": "SA",
-        "station_id": "SA_TP024"
+        "station_id": "SA_TP024",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 166,
@@ -3893,7 +4865,9 @@
         "lng": -87.144413,
         "name": "Poll Island",
         "region": "QLD",
-        "station_id": "QLD_TP122"
+        "station_id": "QLD_TP122",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 317,
@@ -3901,7 +4875,9 @@
         "lng": "",
         "name": "Polmaise Reef",
         "region": "QLD",
-        "station_id": "QLD_TP161"
+        "station_id": "QLD_TP161",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 499,
@@ -3909,7 +4885,9 @@
         "lng": 136.8376136,
         "name": "Pondalowie Bay",
         "region": "SA",
-        "station_id": "SA_TP059"
+        "station_id": "SA_TP059",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 500,
@@ -3917,7 +4895,9 @@
         "lng": 138.5136304,
         "name": "Port Adelaide (Outer Harbor)",
         "region": "SA",
-        "station_id": "SA_TP001"
+        "station_id": "SA_TP001",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 318,
@@ -3925,7 +4905,9 @@
         "lng": 150.7194611,
         "name": "Port Alma",
         "region": "QLD",
-        "station_id": "QLD_TP022"
+        "station_id": "QLD_TP022",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 501,
@@ -3933,7 +4915,9 @@
         "lng": 137.7636494,
         "name": "Port Augusta",
         "region": "SA",
-        "station_id": "SA_TP025"
+        "station_id": "SA_TP025",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 502,
@@ -3941,7 +4925,9 @@
         "lng": "",
         "name": "Port Bonython",
         "region": "SA",
-        "station_id": "SA_TP026"
+        "station_id": "SA_TP026",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 503,
@@ -3949,7 +4935,9 @@
         "lng": 137.9298753,
         "name": "Port Broughton",
         "region": "SA",
-        "station_id": "SA_TP027"
+        "station_id": "SA_TP027",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 59,
@@ -3957,7 +4945,9 @@
         "lng": 142.9961383,
         "name": "Port Campbell",
         "region": "VIC",
-        "station_id": "VIC_TP040"
+        "station_id": "VIC_TP040",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 319,
@@ -3965,7 +4955,9 @@
         "lng": -82.9411595,
         "name": "Port Clinton",
         "region": "QLD",
-        "station_id": "QLD_TP166"
+        "station_id": "QLD_TP166",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 450,
@@ -3973,7 +4965,9 @@
         "lng": 114.9211312,
         "name": "Port Denison",
         "region": "WA",
-        "station_id": "WA_TP096"
+        "station_id": "WA_TP096",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 226,
@@ -3981,7 +4975,9 @@
         "lng": 145.4641161,
         "name": "Port Douglas",
         "region": "QLD",
-        "station_id": "QLD_TP023"
+        "station_id": "QLD_TP023",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 634,
@@ -3989,7 +4985,9 @@
         "lng": 132.1141633,
         "name": "Port Essington",
         "region": "NT",
-        "station_id": "NT_TP074"
+        "station_id": "NT_TP074",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 477,
@@ -3997,7 +4995,9 @@
         "lng": "",
         "name": "Port Eyre (Fowlers Bay)",
         "region": "SA",
-        "station_id": "SA_TP028"
+        "station_id": "SA_TP028",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 53,
@@ -4005,7 +5005,9 @@
         "lng": 142.2366974,
         "name": "Port Fairy",
         "region": "VIC",
-        "station_id": "VIC_TP025"
+        "station_id": "VIC_TP025",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 504,
@@ -4013,7 +5015,9 @@
         "lng": 137.760422,
         "name": "Port Giles",
         "region": "SA",
-        "station_id": "SA_TP002"
+        "station_id": "SA_TP002",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 451,
@@ -4021,7 +5025,9 @@
         "lng": -99.431999,
         "name": "Port Gregory",
         "region": "WA",
-        "station_id": "WA_TP063"
+        "station_id": "WA_TP063",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 26,
@@ -4029,7 +5035,9 @@
         "lng": 151.1227349,
         "name": "Port Hacking",
         "region": "NSW",
-        "station_id": "NSW_TP021"
+        "station_id": "NSW_TP021",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 406,
@@ -4037,7 +5045,9 @@
         "lng": 118.6030315,
         "name": "Port Hedland",
         "region": "WA",
-        "station_id": "WA_TP020"
+        "station_id": "WA_TP020",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 551,
@@ -4045,7 +5055,9 @@
         "lng": 146.961936,
         "name": "Port Huon",
         "region": "TAS",
-        "station_id": "TAS_TP022"
+        "station_id": "TAS_TP022",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 635,
@@ -4053,7 +5065,9 @@
         "lng": 129.522366,
         "name": "Port Keats",
         "region": "NT",
-        "station_id": "NT_TP042"
+        "station_id": "NT_TP042",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 27,
@@ -4061,7 +5075,9 @@
         "lng": "",
         "name": "Port Kembla",
         "region": "NSW",
-        "station_id": "NSW_TP006"
+        "station_id": "NSW_TP006",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 478,
@@ -4069,7 +5085,9 @@
         "lng": 134.6853865,
         "name": "Port Kenny",
         "region": "SA",
-        "station_id": "SA_TP063"
+        "station_id": "SA_TP063",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 505,
@@ -4077,7 +5095,9 @@
         "lng": 135.8508182,
         "name": "Port Lincoln",
         "region": "SA",
-        "station_id": "SA_TP003"
+        "station_id": "SA_TP003",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 479,
@@ -4085,7 +5105,9 @@
         "lng": 140.7005162,
         "name": "Port Macdonnell",
         "region": "SA",
-        "station_id": "SA_TP029"
+        "station_id": "SA_TP029",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 28,
@@ -4093,7 +5115,9 @@
         "lng": 152.9081913,
         "name": "Port Macquarie",
         "region": "NSW",
-        "station_id": "NSW_TP026"
+        "station_id": "NSW_TP026",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 692,
@@ -4101,7 +5125,9 @@
         "lng": 147.1927267,
         "name": "Port Moresby",
         "region": "INT",
-        "station_id": "INT_TP019"
+        "station_id": "INT_TP019",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 507,
@@ -4109,7 +5135,9 @@
         "lng": 136.3472801,
         "name": "Port Neill",
         "region": "SA",
-        "station_id": "SA_TP030"
+        "station_id": "SA_TP030",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 508,
@@ -4117,7 +5145,9 @@
         "lng": 138.4642669,
         "name": "Port Noarlunga",
         "region": "SA",
-        "station_id": "SA_TP031"
+        "station_id": "SA_TP031",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 509,
@@ -4125,7 +5155,9 @@
         "lng": 138.0107523,
         "name": "Port Pirie",
         "region": "SA",
-        "station_id": "SA_TP004"
+        "station_id": "SA_TP004",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 510,
@@ -4133,7 +5165,9 @@
         "lng": 138.4707499,
         "name": "Port Stanvac",
         "region": "SA",
-        "station_id": "SA_TP032"
+        "station_id": "SA_TP032",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 29,
@@ -4141,7 +5175,9 @@
         "lng": 151.8688864,
         "name": "Port Stephens",
         "region": "NSW",
-        "station_id": "NSW_TP015"
+        "station_id": "NSW_TP015",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 370,
@@ -4149,7 +5185,9 @@
         "lng": "",
         "name": "Port Usborne",
         "region": "WA",
-        "station_id": "WA_TP064"
+        "station_id": "WA_TP064",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 511,
@@ -4157,7 +5195,9 @@
         "lng": 137.4831978,
         "name": "Port Victoria",
         "region": "SA",
-        "station_id": "SA_TP033"
+        "station_id": "SA_TP033",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 693,
@@ -4165,7 +5205,9 @@
         "lng": 168.3211899,
         "name": "Port Vila",
         "region": "INT",
-        "station_id": "INT_TP027"
+        "station_id": "INT_TP027",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 506,
@@ -4173,7 +5215,9 @@
         "lng": 137.861173,
         "name": "Port Vincent",
         "region": "SA",
-        "station_id": "SA_TP053"
+        "station_id": "SA_TP053",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 407,
@@ -4181,7 +5225,9 @@
         "lng": 117.1916573,
         "name": "Port Walcott (Cape Lambert)",
         "region": "WA",
-        "station_id": "WA_TP021"
+        "station_id": "WA_TP021",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 371,
@@ -4189,7 +5235,9 @@
         "lng": 125.8774252,
         "name": "Port Warrender",
         "region": "WA",
-        "station_id": "WA_TP065"
+        "station_id": "WA_TP065",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 57,
@@ -4197,7 +5245,9 @@
         "lng": 146.4649249,
         "name": "Port Welshpool Pier",
         "region": "VIC",
-        "station_id": "VIC_TP010"
+        "station_id": "VIC_TP010",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 58,
@@ -4205,7 +5255,9 @@
         "lng": -122.679485,
         "name": "Portland",
         "region": "VIC",
-        "station_id": "VIC_TP011"
+        "station_id": "VIC_TP011",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 167,
@@ -4213,7 +5265,9 @@
         "lng": -122.3762495,
         "name": "Possession I.",
         "region": "QLD",
-        "station_id": "QLD_TP245"
+        "station_id": "QLD_TP245",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 30,
@@ -4221,7 +5275,9 @@
         "lng": "",
         "name": "Princess Jetty",
         "region": "NSW",
-        "station_id": "NSW_TP022"
+        "station_id": "NSW_TP022",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 275,
@@ -4229,7 +5285,9 @@
         "lng": -121.3543941,
         "name": "Prudhoe I.",
         "region": "QLD",
-        "station_id": "QLD_TP175"
+        "station_id": "QLD_TP175",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 60,
@@ -4237,7 +5295,9 @@
         "lng": 151.2928298,
         "name": "Queenscliff",
         "region": "VIC",
-        "station_id": "VIC_TP007"
+        "station_id": "VIC_TP007",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 636,
@@ -4245,7 +5305,9 @@
         "lng": 151.286091,
         "name": "Quoin Island",
         "region": "NT",
-        "station_id": "NT_TP029"
+        "station_id": "NT_TP029",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 694,
@@ -4253,7 +5315,9 @@
         "lng": -121.8253541,
         "name": "Rabaul",
         "region": "INT",
-        "station_id": "INT_TP017"
+        "station_id": "INT_TP017",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 61,
@@ -4261,7 +5325,9 @@
         "lng": -93.3835773,
         "name": "Rabbit Island",
         "region": "VIC",
-        "station_id": "VIC_TP012"
+        "station_id": "VIC_TP012",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 123,
@@ -4269,7 +5335,9 @@
         "lng": 125.8287974,
         "name": "Raine Island",
         "region": "QLD",
-        "station_id": "QLD_TP097"
+        "station_id": "QLD_TP097",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 695,
@@ -4277,7 +5345,9 @@
         "lng": -159.7787237,
         "name": "Rarotonga (Avarua Harbour)",
         "region": "INT",
-        "station_id": "INT_TP001"
+        "station_id": "INT_TP001",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 552,
@@ -4285,7 +5355,9 @@
         "lng": 146.9022961,
         "name": "Recherche Bay",
         "region": "TAS",
-        "station_id": "TAS_TP039"
+        "station_id": "TAS_TP039",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 372,
@@ -4293,7 +5365,9 @@
         "lng": -122.235063,
         "name": "Red Bluff",
         "region": "WA",
-        "station_id": "WA_TP120"
+        "station_id": "WA_TP120",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 512,
@@ -4301,7 +5375,9 @@
         "lng": -121.96728155133002,
         "name": "Red Cliff Point (Beacon 5)",
         "region": "SA",
-        "station_id": "SA_TP034"
+        "station_id": "SA_TP034",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 168,
@@ -4309,7 +5385,9 @@
         "lng": -55.8668764,
         "name": "Red Island Point",
         "region": "QLD",
-        "station_id": "QLD_TP098"
+        "station_id": "QLD_TP098",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 169,
@@ -4317,7 +5395,9 @@
         "lng": "",
         "name": "Red Wallis I.",
         "region": "QLD",
-        "station_id": "QLD_TP247"
+        "station_id": "QLD_TP247",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 276,
@@ -4325,7 +5405,9 @@
         "lng": -122.9709048,
         "name": "Reef Point",
         "region": "QLD",
-        "station_id": "QLD_TP173"
+        "station_id": "QLD_TP173",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 513,
@@ -4333,7 +5415,9 @@
         "lng": "",
         "name": "Reevesby I.",
         "region": "SA",
-        "station_id": "SA_TP060"
+        "station_id": "SA_TP060",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 170,
@@ -4341,7 +5425,9 @@
         "lng": "",
         "name": "Rennel I.",
         "region": "QLD",
-        "station_id": "QLD_TP267"
+        "station_id": "QLD_TP267",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 373,
@@ -4349,7 +5435,9 @@
         "lng": 127.8124542,
         "name": "Reveley Island",
         "region": "WA",
-        "station_id": "WA_TP066"
+        "station_id": "WA_TP066",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 228,
@@ -4357,7 +5445,9 @@
         "lng": "",
         "name": "Rib Reef",
         "region": "QLD",
-        "station_id": "QLD_TP099"
+        "station_id": "QLD_TP099",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 124,
@@ -4365,7 +5455,9 @@
         "lng": "",
         "name": "Ribbon Reef No.9",
         "region": "QLD",
-        "station_id": "QLD_TP100"
+        "station_id": "QLD_TP100",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 480,
@@ -4373,7 +5465,9 @@
         "lng": 139.7624471,
         "name": "Robe",
         "region": "SA",
-        "station_id": "SA_TP035"
+        "station_id": "SA_TP035",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 320,
@@ -4381,7 +5475,9 @@
         "lng": "",
         "name": "Rock Cod Shoal",
         "region": "QLD",
-        "station_id": "QLD_TP163"
+        "station_id": "QLD_TP163",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 125,
@@ -4389,7 +5485,9 @@
         "lng": -125.4916593,
         "name": "Rocky Island",
         "region": "QLD",
-        "station_id": "QLD_TP101"
+        "station_id": "QLD_TP101",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 374,
@@ -4397,7 +5495,9 @@
         "lng": -125.4916593,
         "name": "Rocky Island",
         "region": "WA",
-        "station_id": "WA_TP067"
+        "station_id": "WA_TP067",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 408,
@@ -4405,7 +5505,9 @@
         "lng": -76.8066422,
         "name": "Roller",
         "region": "WA",
-        "station_id": "WA_TP111"
+        "station_id": "WA_TP111",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 62,
@@ -4413,7 +5515,9 @@
         "lng": 144.9007742,
         "name": "Rosebud Jetty",
         "region": "VIC",
-        "station_id": "VIC_TP026"
+        "station_id": "VIC_TP026",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 321,
@@ -4421,7 +5525,9 @@
         "lng": 150.9376894,
         "name": "Rosslyn Bay",
         "region": "QLD",
-        "station_id": "QLD_TP024"
+        "station_id": "QLD_TP024",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 452,
@@ -4429,7 +5535,9 @@
         "lng": "",
         "name": "Rottnest I.",
         "region": "WA",
-        "station_id": "WA_TP092"
+        "station_id": "WA_TP092",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 322,
@@ -4437,7 +5545,9 @@
         "lng": -122.2535718,
         "name": "Round Hill Head",
         "region": "QLD",
-        "station_id": "QLD_TP156"
+        "station_id": "QLD_TP156",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 171,
@@ -4445,7 +5555,9 @@
         "lng": "",
         "name": "Round I.",
         "region": "QLD",
-        "station_id": "QLD_TP254"
+        "station_id": "QLD_TP254",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 126,
@@ -4453,7 +5565,9 @@
         "lng": "",
         "name": "Round Point",
         "region": "QLD",
-        "station_id": "QLD_TP239"
+        "station_id": "QLD_TP239",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 323,
@@ -4461,7 +5575,9 @@
         "lng": -97.867204,
         "name": "Runaway Bay",
         "region": "QLD",
-        "station_id": "QLD_TP146"
+        "station_id": "QLD_TP146",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 229,
@@ -4469,7 +5585,9 @@
         "lng": 153.3817874,
         "name": "Russell Island",
         "region": "QLD",
-        "station_id": "QLD_TP102"
+        "station_id": "QLD_TP102",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 172,
@@ -4477,7 +5595,9 @@
         "lng": "",
         "name": "Saibai I.",
         "region": "QLD",
-        "station_id": "QLD_TP265"
+        "station_id": "QLD_TP265",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 696,
@@ -4485,7 +5605,9 @@
         "lng": "",
         "name": "Saidor",
         "region": "INT",
-        "station_id": "INT_TP043"
+        "station_id": "INT_TP043",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 63,
@@ -4493,7 +5615,9 @@
         "lng": 145.3688341,
         "name": "San Remo",
         "region": "VIC",
-        "station_id": "VIC_TP029"
+        "station_id": "VIC_TP029",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 31,
@@ -4501,7 +5625,9 @@
         "lng": -121.804743,
         "name": "Sand Pt (Pittwater)",
         "region": "NSW",
-        "station_id": "NSW_TP032"
+        "station_id": "NSW_TP032",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 64,
@@ -4509,7 +5635,9 @@
         "lng": 145.0195069,
         "name": "Sandringham",
         "region": "VIC",
-        "station_id": "VIC_TP030"
+        "station_id": "VIC_TP030",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 277,
@@ -4517,7 +5645,9 @@
         "lng": "",
         "name": "Saumarez Reef",
         "region": "QLD",
-        "station_id": "QLD_TP280"
+        "station_id": "QLD_TP280",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 278,
@@ -4525,7 +5655,9 @@
         "lng": "",
         "name": "Scawfell I.",
         "region": "QLD",
-        "station_id": "QLD_TP179"
+        "station_id": "QLD_TP179",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 375,
@@ -4533,7 +5665,9 @@
         "lng": -121.9207569,
         "name": "Scott Reef (Wa)",
         "region": "WA",
-        "station_id": "WA_TP121"
+        "station_id": "WA_TP121",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 553,
@@ -4541,7 +5675,9 @@
         "lng": 137.3087004,
         "name": "Seal Bay",
         "region": "TAS",
-        "station_id": "TAS_TP029"
+        "station_id": "TAS_TP029",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 514,
@@ -4549,7 +5685,9 @@
         "lng": -122.4807868,
         "name": "Second Valley",
         "region": "SA",
-        "station_id": "SA_TP037"
+        "station_id": "SA_TP037",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 324,
@@ -4557,7 +5695,9 @@
         "lng": 116.6028783,
         "name": "Serpentine Creek",
         "region": "QLD",
-        "station_id": "QLD_TP104"
+        "station_id": "QLD_TP104",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 127,
@@ -4565,7 +5705,9 @@
         "lng": "",
         "name": "Shadwell Reef",
         "region": "QLD",
-        "station_id": "QLD_TP237"
+        "station_id": "QLD_TP237",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 376,
@@ -4573,7 +5715,9 @@
         "lng": -121.9280218733737,
         "name": "Shale I.",
         "region": "WA",
-        "station_id": "WA_TP127"
+        "station_id": "WA_TP127",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 453,
@@ -4581,7 +5725,9 @@
         "lng": 114.179741,
         "name": "Shark Bay",
         "region": "WA",
-        "station_id": "WA_TP068"
+        "station_id": "WA_TP068",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 454,
@@ -4589,7 +5735,9 @@
         "lng": 131.9279464,
         "name": "Shark Bay (Inr Bn)",
         "region": "WA",
-        "station_id": "WA_TP102"
+        "station_id": "WA_TP102",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 697,
@@ -4597,7 +5745,9 @@
         "lng": -125.8681797,
         "name": "Sharp Island",
         "region": "INT",
-        "station_id": "INT_TP047"
+        "station_id": "INT_TP047",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 173,
@@ -4605,7 +5755,9 @@
         "lng": -121.9432692,
         "name": "Sharp Point",
         "region": "QLD",
-        "station_id": "QLD_TP106"
+        "station_id": "QLD_TP106",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 481,
@@ -4613,7 +5765,9 @@
         "lng": "",
         "name": "Shelf Edge Mooring",
         "region": "SA",
-        "station_id": "SA_TP038"
+        "station_id": "SA_TP038",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 409,
@@ -4621,7 +5775,9 @@
         "lng": 115.8934479,
         "name": "Sholl Island",
         "region": "WA",
-        "station_id": "WA_TP069"
+        "station_id": "WA_TP069",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 237,
@@ -4629,7 +5785,9 @@
         "lng": -122.2844862,
         "name": "Shrimp Reef",
         "region": "QLD",
-        "station_id": "QLD_TP196"
+        "station_id": "QLD_TP196",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 279,
@@ -4637,7 +5795,9 @@
         "lng": 148.7845338,
         "name": "Shute Harbour",
         "region": "QLD",
-        "station_id": "QLD_TP025"
+        "station_id": "QLD_TP025",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 129,
@@ -4645,7 +5805,9 @@
         "lng": "",
         "name": "Sir Charles Hardy I.",
         "region": "QLD",
-        "station_id": "QLD_TP232"
+        "station_id": "QLD_TP232",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 377,
@@ -4653,7 +5815,9 @@
         "lng": 138.2849734,
         "name": "Skua No. 4 Well",
         "region": "WA",
-        "station_id": "WA_TP130"
+        "station_id": "WA_TP130",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 637,
@@ -4661,7 +5825,9 @@
         "lng": -94.7604746,
         "name": "Smith Point - W",
         "region": "NT",
-        "station_id": "NT_TP075"
+        "station_id": "NT_TP075",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 638,
@@ -4669,7 +5835,9 @@
         "lng": 130.7417684,
         "name": "Snake Bay",
         "region": "NT",
-        "station_id": "NT_TP070"
+        "station_id": "NT_TP070",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 325,
@@ -4677,7 +5845,9 @@
         "lng": "",
         "name": "Snapper Rocks",
         "region": "QLD",
-        "station_id": "QLD_TP108"
+        "station_id": "QLD_TP108",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 698,
@@ -4685,7 +5855,9 @@
         "lng": "",
         "name": "Soroken",
         "region": "INT",
-        "station_id": "INT_TP044"
+        "station_id": "INT_TP044",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 639,
@@ -4693,7 +5865,9 @@
         "lng": "",
         "name": "South Barlow Point",
         "region": "NT",
-        "station_id": "NT_TP045"
+        "station_id": "NT_TP045",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 65,
@@ -4701,7 +5875,9 @@
         "lng": -80.9302754,
         "name": "South Channel",
         "region": "VIC",
-        "station_id": "VIC_TP032"
+        "station_id": "VIC_TP032",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 326,
@@ -4709,7 +5885,9 @@
         "lng": 151.2774509,
         "name": "South Trees (Storm Surge)",
         "region": "QLD",
-        "station_id": "QLD_TP110"
+        "station_id": "QLD_TP110",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 32,
@@ -4717,7 +5895,9 @@
         "lng": 153.0413517,
         "name": "South West Rocks",
         "region": "NSW",
-        "station_id": "NSW_TP023"
+        "station_id": "NSW_TP023",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 554,
@@ -4725,7 +5905,9 @@
         "lng": 153.4099181,
         "name": "Southport Jetty",
         "region": "TAS",
-        "station_id": "TAS_TP006"
+        "station_id": "TAS_TP006",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 555,
@@ -4733,7 +5915,9 @@
         "lng": -89.519747,
         "name": "Spring Bay",
         "region": "TAS",
-        "station_id": "TAS_TP007"
+        "station_id": "TAS_TP007",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 281,
@@ -4741,7 +5925,9 @@
         "lng": -122.2844862,
         "name": "Square Reef",
         "region": "QLD",
-        "station_id": "QLD_TP185"
+        "station_id": "QLD_TP185",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 482,
@@ -4749,7 +5935,9 @@
         "lng": -74.525446,
         "name": "St Francis Island",
         "region": "SA",
-        "station_id": "SA_TP036"
+        "station_id": "SA_TP036",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 558,
@@ -4757,7 +5945,9 @@
         "lng": -122.7969377,
         "name": "St Helens",
         "region": "TAS",
-        "station_id": "TAS_TP035"
+        "station_id": "TAS_TP035",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 66,
@@ -4765,7 +5955,9 @@
         "lng": 144.9817972,
         "name": "St Kilda",
         "region": "VIC",
-        "station_id": "VIC_TP027"
+        "station_id": "VIC_TP027",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 67,
@@ -4773,7 +5965,9 @@
         "lng": "",
         "name": "St Leonards",
         "region": "VIC",
-        "station_id": "VIC_TP028"
+        "station_id": "VIC_TP028",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 174,
@@ -4781,7 +5975,9 @@
         "lng": -78.973478,
         "name": "St Pauls (Moa Island)",
         "region": "QLD",
-        "station_id": "QLD_TP143"
+        "station_id": "QLD_TP143",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 640,
@@ -4789,7 +5985,9 @@
         "lng": "",
         "name": "St. Asaph Bay",
         "region": "NT",
-        "station_id": "NT_TP043"
+        "station_id": "NT_TP043",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 280,
@@ -4797,7 +5995,9 @@
         "lng": "",
         "name": "St. Bees I.",
         "region": "QLD",
-        "station_id": "QLD_TP178"
+        "station_id": "QLD_TP178",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 556,
@@ -4805,7 +6005,9 @@
         "lng": "",
         "name": "Stack I.",
         "region": "TAS",
-        "station_id": "TAS_TP024"
+        "station_id": "TAS_TP024",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 557,
@@ -4813,7 +6015,9 @@
         "lng": -114.9359158,
         "name": "Stanley",
         "region": "TAS",
-        "station_id": "TAS_TP008"
+        "station_id": "TAS_TP008",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 128,
@@ -4821,7 +6025,9 @@
         "lng": -122.3160411,
         "name": "Stanley I.",
         "region": "QLD",
-        "station_id": "QLD_TP224"
+        "station_id": "QLD_TP224",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 238,
@@ -4829,7 +6035,9 @@
         "lng": "",
         "name": "Stanley Reef",
         "region": "QLD",
-        "station_id": "QLD_TP192"
+        "station_id": "QLD_TP192",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 410,
@@ -4837,7 +6045,9 @@
         "lng": -122.9403325,
         "name": "Steamboat Island",
         "region": "WA",
-        "station_id": "WA_TP071"
+        "station_id": "WA_TP071",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 515,
@@ -4845,7 +6055,9 @@
         "lng": 136.937417,
         "name": "Stenhouse Bay",
         "region": "SA",
-        "station_id": "SA_TP048"
+        "station_id": "SA_TP048",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 175,
@@ -4853,7 +6065,9 @@
         "lng": -130.6845703,
         "name": "Stephens Island ",
         "region": "QLD",
-        "station_id": "QLD_TP111"
+        "station_id": "QLD_TP111",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 641,
@@ -4861,7 +6075,9 @@
         "lng": -122.06580530380096,
         "name": "Stevens I.",
         "region": "NT",
-        "station_id": "NT_TP091"
+        "station_id": "NT_TP091",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 176,
@@ -4869,7 +6085,9 @@
         "lng": "",
         "name": "Suarji I.",
         "region": "QLD",
-        "station_id": "QLD_TP257"
+        "station_id": "QLD_TP257",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 205,
@@ -4877,7 +6095,9 @@
         "lng": -80.9913944,
         "name": "Sudbury Cay",
         "region": "QLD",
-        "station_id": "QLD_TP206"
+        "station_id": "QLD_TP206",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 177,
@@ -4885,7 +6105,9 @@
         "lng": -121.84510199620135,
         "name": "Sue I.",
         "region": "QLD",
-        "station_id": "QLD_TP258"
+        "station_id": "QLD_TP258",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 378,
@@ -4893,7 +6115,9 @@
         "lng": 146.6323547,
         "name": "Sunday Island",
         "region": "WA",
-        "station_id": "WA_TP072"
+        "station_id": "WA_TP072",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 699,
@@ -4901,7 +6125,9 @@
         "lng": 178.4270104,
         "name": "Suva",
         "region": "INT",
-        "station_id": "INT_TP004"
+        "station_id": "INT_TP004",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 206,
@@ -4909,7 +6135,9 @@
         "lng": -122.0025671,
         "name": "Swallows Landing",
         "region": "QLD",
-        "station_id": "QLD_TP208"
+        "station_id": "QLD_TP208",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 559,
@@ -4917,7 +6145,9 @@
         "lng": "",
         "name": "Swan I.",
         "region": "TAS",
-        "station_id": "TAS_TP033"
+        "station_id": "TAS_TP033",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 33,
@@ -4925,7 +6155,9 @@
         "lng": -3.941436,
         "name": "Swansea",
         "region": "NSW",
-        "station_id": "NSW_TP024"
+        "station_id": "NSW_TP024",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 92,
@@ -4933,7 +6165,9 @@
         "lng": 139.5980499,
         "name": "Sweers Island",
         "region": "QLD",
-        "station_id": "QLD_TP112"
+        "station_id": "QLD_TP112",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 34,
@@ -4941,7 +6175,9 @@
         "lng": 151.2056942,
         "name": "Sydney (Fort Denison)",
         "region": "NSW",
-        "station_id": "NSW_TP007"
+        "station_id": "NSW_TP007",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 327,
@@ -4949,7 +6185,9 @@
         "lng": "",
         "name": "Tangalooma Point",
         "region": "QLD",
-        "station_id": "QLD_TP149"
+        "station_id": "QLD_TP149",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 455,
@@ -4957,7 +6195,9 @@
         "lng": "",
         "name": "Tantabiddi",
         "region": "WA",
-        "station_id": "WA_TP107"
+        "station_id": "WA_TP107",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 642,
@@ -4965,7 +6205,9 @@
         "lng": 130.6055895,
         "name": "Tapa Bay",
         "region": "NT",
-        "station_id": "NT_TP055"
+        "station_id": "NT_TP055",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 700,
@@ -4973,7 +6215,9 @@
         "lng": -119.89153067326083,
         "name": "Tarawa (Betio)",
         "region": "INT",
-        "station_id": "INT_TP005"
+        "station_id": "INT_TP005",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 701,
@@ -4981,7 +6225,9 @@
         "lng": "",
         "name": "Tarekukure Wharf",
         "region": "INT",
-        "station_id": "INT_TP051"
+        "station_id": "INT_TP051",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 516,
@@ -4989,7 +6235,9 @@
         "lng": -121.97669685993979,
         "name": "Taylors Landing",
         "region": "SA",
-        "station_id": "SA_TP039"
+        "station_id": "SA_TP039",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 178,
@@ -4997,7 +6245,9 @@
         "lng": "",
         "name": "Tetley I.",
         "region": "QLD",
-        "station_id": "QLD_TP243"
+        "station_id": "QLD_TP243",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 643,
@@ -5005,7 +6255,9 @@
         "lng": -121.9776478,
         "name": "The Boxers",
         "region": "NT",
-        "station_id": "NT_TP031"
+        "station_id": "NT_TP031",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 78,
@@ -5013,7 +6265,9 @@
         "lng": 144.6112535,
         "name": "The Rip",
         "region": "stream_VIC",
-        "station_id": "stream_VIC_TS001"
+        "station_id": "stream_VIC_TS001",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 483,
@@ -5021,7 +6275,9 @@
         "lng": 133.6515125,
         "name": "Thevenard",
         "region": "SA",
-        "station_id": "SA_TP005"
+        "station_id": "SA_TP005",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 411,
@@ -5029,7 +6285,9 @@
         "lng": 114.9992294,
         "name": "Thevenard Island",
         "region": "WA",
-        "station_id": "WA_TP022"
+        "station_id": "WA_TP022",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 283,
@@ -5037,7 +6295,9 @@
         "lng": -127.4841665,
         "name": "Thomas Island",
         "region": "QLD",
-        "station_id": "QLD_TP114"
+        "station_id": "QLD_TP114",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 560,
@@ -5045,7 +6305,9 @@
         "lng": -121.874472,
         "name": "Three Hummock I.",
         "region": "TAS",
-        "station_id": "TAS_TP042"
+        "station_id": "TAS_TP042",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 179,
@@ -5053,7 +6315,9 @@
         "lng": 142.2180381,
         "name": "Thursday Island",
         "region": "QLD",
-        "station_id": "QLD_TP030"
+        "station_id": "QLD_TP030",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 282,
@@ -5061,7 +6325,9 @@
         "lng": "",
         "name": "Tideway Reef",
         "region": "QLD",
-        "station_id": "QLD_TP183"
+        "station_id": "QLD_TP183",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 517,
@@ -5069,7 +6335,9 @@
         "lng": "",
         "name": "Tiparra Reef Light",
         "region": "SA",
-        "station_id": "SA_TP040"
+        "station_id": "SA_TP040",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 68,
@@ -5077,7 +6345,9 @@
         "lng": 145.3806412,
         "name": "Tooradin",
         "region": "VIC",
-        "station_id": "VIC_TP033"
+        "station_id": "VIC_TP033",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 230,
@@ -5085,7 +6355,9 @@
         "lng": 146.8136205,
         "name": "Townsville",
         "region": "QLD",
-        "station_id": "QLD_TP033"
+        "station_id": "QLD_TP033",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 180,
@@ -5093,7 +6365,9 @@
         "lng": "",
         "name": "Triangle Reef",
         "region": "QLD",
-        "station_id": "QLD_TP244"
+        "station_id": "QLD_TP244",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 412,
@@ -5101,7 +6375,9 @@
         "lng": "",
         "name": "Trimouille I.",
         "region": "WA",
-        "station_id": "WA_TP113"
+        "station_id": "WA_TP113",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 379,
@@ -5109,7 +6385,9 @@
         "lng": "",
         "name": "Troughton I.",
         "region": "WA",
-        "station_id": "WA_TP134"
+        "station_id": "WA_TP134",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 644,
@@ -5117,7 +6395,9 @@
         "lng": 136.8273468,
         "name": "Truant Island",
         "region": "NT",
-        "station_id": "NT_TP032"
+        "station_id": "NT_TP032",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 328,
@@ -5125,7 +6405,9 @@
         "lng": "",
         "name": "Tryon I.",
         "region": "QLD",
-        "station_id": "QLD_TP162"
+        "station_id": "QLD_TP162",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 518,
@@ -5133,7 +6415,9 @@
         "lng": 136.1033098,
         "name": "Tumby Bay",
         "region": "SA",
-        "station_id": "SA_TP051"
+        "station_id": "SA_TP051",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 181,
@@ -5141,7 +6425,9 @@
         "lng": "",
         "name": "Turtle Head",
         "region": "QLD",
-        "station_id": "QLD_TP031"
+        "station_id": "QLD_TP031",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 182,
@@ -5149,7 +6435,9 @@
         "lng": 142.6876221,
         "name": "Turtle Head Island",
         "region": "QLD",
-        "station_id": "QLD_TP125"
+        "station_id": "QLD_TP125",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 35,
@@ -5157,7 +6445,9 @@
         "lng": 153.543316,
         "name": "Tweed Heads",
         "region": "NSW",
-        "station_id": "NSW_TP028"
+        "station_id": "NSW_TP028",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 456,
@@ -5165,7 +6455,9 @@
         "lng": -122.0224831,
         "name": "Twilight Cove",
         "region": "WA",
-        "station_id": "WA_TP073"
+        "station_id": "WA_TP073",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 183,
@@ -5173,7 +6465,9 @@
         "lng": "",
         "name": "Twin Island",
         "region": "QLD",
-        "station_id": "QLD_TP032"
+        "station_id": "QLD_TP032",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 645,
@@ -5181,7 +6475,9 @@
         "lng": -122.186632,
         "name": "Two Hills Bay",
         "region": "NT",
-        "station_id": "NT_TP033"
+        "station_id": "NT_TP033",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 646,
@@ -5189,7 +6485,9 @@
         "lng": -122.0773523,
         "name": "Two Island Bay",
         "region": "NT",
-        "station_id": "NT_TP093"
+        "station_id": "NT_TP093",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 457,
@@ -5197,7 +6495,9 @@
         "lng": "",
         "name": "Two Rocks Marina",
         "region": "WA",
-        "station_id": "WA_TP093"
+        "station_id": "WA_TP093",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 36,
@@ -5205,7 +6505,9 @@
         "lng": 150.4805234,
         "name": "Ulladulla Harbour",
         "region": "NSW",
-        "station_id": "NSW_TP025"
+        "station_id": "NSW_TP025",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 702,
@@ -5213,7 +6515,9 @@
         "lng": 143.7571623,
         "name": "Umuda Island",
         "region": "INT",
-        "station_id": "INT_TP020"
+        "station_id": "INT_TP020",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 329,
@@ -5221,7 +6525,9 @@
         "lng": 152.9921338,
         "name": "Ungowa",
         "region": "QLD",
-        "station_id": "QLD_TP153"
+        "station_id": "QLD_TP153",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 184,
@@ -5229,7 +6535,9 @@
         "lng": "",
         "name": "Unnamed Cay",
         "region": "QLD",
-        "station_id": "QLD_TP278"
+        "station_id": "QLD_TP278",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 239,
@@ -5237,7 +6545,9 @@
         "lng": "",
         "name": "Unnamed Reef No. 1",
         "region": "QLD",
-        "station_id": "QLD_TP201"
+        "station_id": "QLD_TP201",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 240,
@@ -5245,7 +6555,9 @@
         "lng": "",
         "name": "Unnamed Reef No. 2",
         "region": "QLD",
-        "station_id": "QLD_TP194"
+        "station_id": "QLD_TP194",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 130,
@@ -5253,7 +6565,9 @@
         "lng": "",
         "name": "Unnamed Reef No. 3",
         "region": "QLD",
-        "station_id": "QLD_TP228"
+        "station_id": "QLD_TP228",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 647,
@@ -5261,7 +6575,9 @@
         "lng": "",
         "name": "Unnamed Shoal",
         "region": "NT",
-        "station_id": "NT_TP046"
+        "station_id": "NT_TP046",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 330,
@@ -5269,7 +6585,9 @@
         "lng": 152.8939897,
         "name": "Urangan",
         "region": "QLD",
-        "station_id": "QLD_TP034"
+        "station_id": "QLD_TP034",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 458,
@@ -5277,7 +6595,9 @@
         "lng": 113.4172582,
         "name": "Useless Loop",
         "region": "WA",
-        "station_id": "WA_TP103"
+        "station_id": "WA_TP103",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 380,
@@ -5285,7 +6605,9 @@
         "lng": -91.9969281,
         "name": "Valentine Island",
         "region": "WA",
-        "station_id": "WA_TP074"
+        "station_id": "WA_TP074",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 381,
@@ -5293,7 +6615,9 @@
         "lng": "",
         "name": "Van Cloon Shoal",
         "region": "WA",
-        "station_id": "WA_TP075"
+        "station_id": "WA_TP075",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 484,
@@ -5301,7 +6625,9 @@
         "lng": 145.8206969,
         "name": "Venus Bay",
         "region": "SA",
-        "station_id": "SA_TP064"
+        "station_id": "SA_TP064",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 485,
@@ -5309,7 +6635,9 @@
         "lng": 138.6209202,
         "name": "Victor Harbor",
         "region": "SA",
-        "station_id": "SA_TP006"
+        "station_id": "SA_TP006",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 486,
@@ -5317,7 +6645,9 @@
         "lng": 137.1798908,
         "name": "Vivonne Bay",
         "region": "SA",
-        "station_id": "SA_TP041"
+        "station_id": "SA_TP041",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 93,
@@ -5325,7 +6655,9 @@
         "lng": "",
         "name": "Vrilya Point",
         "region": "QLD",
-        "station_id": "QLD_TP128"
+        "station_id": "QLD_TP128",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 331,
@@ -5333,7 +6665,9 @@
         "lng": "",
         "name": "Waddy Point (Fraser Island)",
         "region": "QLD",
-        "station_id": "QLD_TP035"
+        "station_id": "QLD_TP035",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 241,
@@ -5341,7 +6675,9 @@
         "lng": "",
         "name": "Wallaby Reef",
         "region": "QLD",
-        "station_id": "QLD_TP129"
+        "station_id": "QLD_TP129",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 519,
@@ -5349,7 +6685,9 @@
         "lng": 137.631266,
         "name": "Wallaroo",
         "region": "SA",
-        "station_id": "SA_TP007"
+        "station_id": "SA_TP007",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 69,
@@ -5357,7 +6695,9 @@
         "lng": 146.0300898,
         "name": "Waratah Bay",
         "region": "VIC",
-        "station_id": "VIC_TP044"
+        "station_id": "VIC_TP044",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 459,
@@ -5365,7 +6705,9 @@
         "lng": 115.7148458,
         "name": "Warnbro Sound",
         "region": "WA",
-        "station_id": "WA_TP076"
+        "station_id": "WA_TP076",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 70,
@@ -5373,7 +6715,9 @@
         "lng": 142.4820821,
         "name": "Warrnambool",
         "region": "VIC",
-        "station_id": "VIC_TP047"
+        "station_id": "VIC_TP047",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 703,
@@ -5381,7 +6725,9 @@
         "lng": "",
         "name": "Wasu",
         "region": "INT",
-        "station_id": "INT_TP046"
+        "station_id": "INT_TP046",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 487,
@@ -5389,7 +6735,9 @@
         "lng": "",
         "name": "Wedge Island Mooring",
         "region": "SA",
-        "station_id": "SA_TP042"
+        "station_id": "SA_TP042",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 94,
@@ -5397,7 +6745,9 @@
         "lng": 141.8740079,
         "name": "Weipa (Humbug Point)",
         "region": "QLD",
-        "station_id": "QLD_TP036"
+        "station_id": "QLD_TP036",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 71,
@@ -5405,7 +6755,9 @@
         "lng": 144.6618529,
         "name": "Werribee",
         "region": "VIC",
-        "station_id": "VIC_TP034"
+        "station_id": "VIC_TP034",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 648,
@@ -5413,7 +6765,9 @@
         "lng": "",
         "name": "West Alligator Head",
         "region": "NT",
-        "station_id": "NT_TP034"
+        "station_id": "NT_TP034",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 72,
@@ -5421,7 +6775,9 @@
         "lng": "",
         "name": "West Channel Pile",
         "region": "VIC",
-        "station_id": "VIC_TP008"
+        "station_id": "VIC_TP008",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 73,
@@ -5429,7 +6785,9 @@
         "lng": "",
         "name": "West Channel Pile Light",
         "region": "VIC",
-        "station_id": "VIC_TP035"
+        "station_id": "VIC_TP035",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 74,
@@ -5437,7 +6795,9 @@
         "lng": "",
         "name": "West Channel Wedge Light",
         "region": "VIC",
-        "station_id": "VIC_TP036"
+        "station_id": "VIC_TP036",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 382,
@@ -5445,7 +6805,9 @@
         "lng": "",
         "name": "West Holothuria Reef",
         "region": "WA",
-        "station_id": "WA_TP136"
+        "station_id": "WA_TP136",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 649,
@@ -5453,7 +6815,9 @@
         "lng": -121.7795029,
         "name": "West Island",
         "region": "NT",
-        "station_id": "NT_TP035"
+        "station_id": "NT_TP035",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 704,
@@ -5461,7 +6825,9 @@
         "lng": -122.0485147419732,
         "name": "West Jetty",
         "region": "WA",
-        "station_id": "WA_TP039"
+        "station_id": "WA_TP039",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 95,
@@ -5469,7 +6835,9 @@
         "lng": 139.1623001,
         "name": "West Wellesley Islands",
         "region": "QLD",
-        "station_id": "QLD_TP142"
+        "station_id": "QLD_TP142",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 75,
@@ -5477,7 +6845,9 @@
         "lng": 145.2941626,
         "name": "Western Port (Sandy Point)",
         "region": "VIC",
-        "station_id": "VIC_TP031"
+        "station_id": "VIC_TP031",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 76,
@@ -5485,7 +6855,9 @@
         "lng": 145.2941626,
         "name": "Western Port (Stony Point)",
         "region": "VIC",
-        "station_id": "VIC_TP013"
+        "station_id": "VIC_TP013",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 520,
@@ -5493,7 +6865,9 @@
         "lng": "",
         "name": "Western Shoal Beacon",
         "region": "SA",
-        "station_id": "SA_TP052"
+        "station_id": "SA_TP052",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 705,
@@ -5501,7 +6875,9 @@
         "lng": 131.7089839,
         "name": "Wewak",
         "region": "INT",
-        "station_id": "INT_TP021"
+        "station_id": "INT_TP021",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 488,
@@ -5509,7 +6885,9 @@
         "lng": 116.6718281,
         "name": "Whalers Bay",
         "region": "SA",
-        "station_id": "SA_TP043"
+        "station_id": "SA_TP043",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 383,
@@ -5517,7 +6895,9 @@
         "lng": -121.9726733,
         "name": "White I.",
         "region": "WA",
-        "station_id": "WA_TP129"
+        "station_id": "WA_TP129",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 185,
@@ -5525,7 +6905,9 @@
         "lng": "",
         "name": "White Rocks Area",
         "region": "QLD",
-        "station_id": "QLD_TP252"
+        "station_id": "QLD_TP252",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 284,
@@ -5533,7 +6915,9 @@
         "lng": "",
         "name": "Whitetip Reef Front",
         "region": "QLD",
-        "station_id": "QLD_TP131"
+        "station_id": "QLD_TP131",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 285,
@@ -5541,7 +6925,9 @@
         "lng": "",
         "name": "Whitetip Reef Rear",
         "region": "QLD",
-        "station_id": "QLD_TP132"
+        "station_id": "QLD_TP132",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 522,
@@ -5549,7 +6935,9 @@
         "lng": 137.5768823,
         "name": "Whyalla",
         "region": "SA",
-        "station_id": "SA_TP008"
+        "station_id": "SA_TP008",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 242,
@@ -5557,7 +6945,9 @@
         "lng": -125.3411856,
         "name": "Willis Island",
         "region": "QLD",
-        "station_id": "QLD_TP134"
+        "station_id": "QLD_TP134",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 460,
@@ -5565,7 +6955,9 @@
         "lng": -122.0574911,
         "name": "Wilson Head",
         "region": "WA",
-        "station_id": "WA_TP087"
+        "station_id": "WA_TP087",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 77,
@@ -5573,7 +6965,9 @@
         "lng": -122.0574911,
         "name": "Wilson Spit",
         "region": "VIC",
-        "station_id": "VIC_TP037"
+        "station_id": "VIC_TP037",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 461,
@@ -5581,7 +6975,9 @@
         "lng": 116.0254535,
         "name": "Windy Harbour",
         "region": "WA",
-        "station_id": "WA_TP077"
+        "station_id": "WA_TP077",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 521,
@@ -5589,7 +6985,9 @@
         "lng": "",
         "name": "Wirrina",
         "region": "SA",
-        "station_id": "SA_TP057"
+        "station_id": "SA_TP057",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 413,
@@ -5597,7 +6995,9 @@
         "lng": 116.7880722,
         "name": "Withnell Bay",
         "region": "WA",
-        "station_id": "WA_TP078"
+        "station_id": "WA_TP078",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 462,
@@ -5605,7 +7005,9 @@
         "lng": "",
         "name": "Withnell Point",
         "region": "WA",
-        "station_id": "WA_TP101"
+        "station_id": "WA_TP101",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 186,
@@ -5613,7 +7015,9 @@
         "lng": "",
         "name": "Wyborn Reef Light",
         "region": "QLD",
-        "station_id": "QLD_TP242"
+        "station_id": "QLD_TP242",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 384,
@@ -5621,7 +7025,9 @@
         "lng": 128.1238808,
         "name": "Wyndham",
         "region": "WA",
-        "station_id": "WA_TP023"
+        "station_id": "WA_TP023",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 414,
@@ -5629,7 +7035,9 @@
         "lng": -121.55594124993385,
         "name": "Y I.",
         "region": "WA",
-        "station_id": "WA_TP109"
+        "station_id": "WA_TP109",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 650,
@@ -5637,7 +7045,9 @@
         "lng": 134.9496853,
         "name": "Yabooma Island",
         "region": "NT",
-        "station_id": "NT_TP038"
+        "station_id": "NT_TP038",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 187,
@@ -5645,7 +7055,9 @@
         "lng": 142.7692646,
         "name": "Yam Island",
         "region": "QLD",
-        "station_id": "QLD_TP123"
+        "station_id": "QLD_TP123",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 37,
@@ -5653,7 +7065,9 @@
         "lng": 153.3606569,
         "name": "Yamba",
         "region": "NSW",
-        "station_id": "NSW_TP008"
+        "station_id": "NSW_TP008",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 385,
@@ -5661,7 +7075,9 @@
         "lng": 123.6587593,
         "name": "Yampi Sound (Koolan Island)",
         "region": "WA",
-        "station_id": "WA_TP024"
+        "station_id": "WA_TP024",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 188,
@@ -5669,7 +7085,9 @@
         "lng": "",
         "name": "Yorke I. Barge",
         "region": "QLD",
-        "station_id": "QLD_TP266"
+        "station_id": "QLD_TP266",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 207,
@@ -5677,7 +7095,9 @@
         "lng": 145.7210626,
         "name": "Yorkeys Knob",
         "region": "QLD",
-        "station_id": "QLD_TP210"
+        "station_id": "QLD_TP210",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 189,
@@ -5685,7 +7105,9 @@
         "lng": 142.920639,
         "name": "Zagai Island",
         "region": "QLD",
-        "station_id": "QLD_TP124"
+        "station_id": "QLD_TP124",
+        "timezone": "",
+        "tz": ""
     },
     {
         "id": 711,

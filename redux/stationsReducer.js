@@ -10,7 +10,8 @@ const stationsReducer = (state = initialState, action) => {
         case GET_STATIONS:
             return { ...state, stations: action.payload };
         case SEARCH_STATIONS: {
-            const filteredStations = state.stations.filter((station) => station.name.toLowerCase().startsWith(action.payload.toLowerCase()))
+            const filteredStations = state.stations.filter((station) => 
+                station.name.toLowerCase().startsWith(action.payload.toLowerCase()) || station.region.toLowerCase().startsWith(action.payload.toLowerCase()))
             return { ...state, stations: filteredStations };
         } 
         case SET_STATION:

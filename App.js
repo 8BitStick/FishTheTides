@@ -1,5 +1,5 @@
-import React, { useEffect } from 'react'
-import ReactNative , { StatusBar, Text } from 'react-native'
+import React from 'react'
+import { StatusBar, Text } from 'react-native'
 import { NavigationContainer, DefaultTheme } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Icon from 'react-native-vector-icons/FontAwesome5';
@@ -9,34 +9,33 @@ import { store, persistor } from './redux/store';
 import Tides from './screens/Tides'
 import Locations from './screens/Locations';
 
-const { AccessibilityManager } = ReactNative.NativeModules
+// const { AccessibilityManager } = ReactNative.NativeModules
 
 const App = () => {
   const Tab = createBottomTabNavigator();
 
-  const setAccessibility = () => {
-    AccessibilityManager.setAccessibilityContentSizeMultipliers({
-      // 'extraSmall': 1.0,
-      // 'small': 2.0,
-      // 'medium': 3.0,
-      // 'large': 4.0,
-      // 'extraLarge': 5.0,
-      // 'extraExtraLarge': 6.0,
-      // 'extraExtraExtraLarge': 7.0,
-      'accessibilityMedium': 1.0,
-      'accessibilityLarge': 1.0,
-      'accessibilityExtraLarge': 1.0,
-      'accessibilityExtraExtraLarge': 1.0,
-      'accessibilityExtraExtraExtraLarge': 1.0,
-    });
-    AccessibilityManager
-  }
+  // const setAccessibility = () => {
+  //   AccessibilityManager.setAccessibilityContentSizeMultipliers({
+  //     // 'extraSmall': 1.0,
+  //     // 'small': 2.0,
+  //     // 'medium': 3.0,
+  //     // 'large': 4.0,
+  //     // 'extraLarge': 5.0,
+  //     // 'extraExtraLarge': 6.0,
+  //     // 'extraExtraExtraLarge': 7.0,
+  //     'accessibilityMedium': 1.0,
+  //     'accessibilityLarge': 1.0,
+  //     'accessibilityExtraLarge': 1.0,
+  //     'accessibilityExtraExtraLarge': 1.0,
+  //     'accessibilityExtraExtraExtraLarge': 1.0,
+  //   });
+  //   AccessibilityManager
+  // }
 
-  useEffect(() => {
-    //setAccessibility()
-  }, [])
+  // useEffect(() => {
+  //   setAccessibility()
+  // }, [])
 
-  
   
   return (
     <Provider store={store}>
