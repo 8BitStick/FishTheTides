@@ -5,7 +5,8 @@ A Simple React Native App that scraps the Australian Bureau of Meterology http:/
 
 
 <div style="width:60px ; height:60px">
-![screenshot1](/assets/screenshot1.png?raw=true "screenshot1")
+  <img src="/assets/screenshot1.png" alt="alt text" title="image" width="33%"/>
+  ![screenshot1](/assets/screenshot1.png?raw=true "screenshot1")
 <div>
 
 
