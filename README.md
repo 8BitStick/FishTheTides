@@ -3,6 +3,8 @@ Tidal Times in Australia
 
 A Simple React Native App that scraps the Australian Bureau of Meterology http://www.bom.gov.au/australia/tides/ for tidal information using 'react-native-cheerio'
 
+ - For a list of supported locations see http://www.bom.gov.au/australia/tides/
+
 
 ## Screenshots
 <div>
