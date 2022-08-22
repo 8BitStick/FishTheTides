@@ -1434,10 +1434,10 @@
         "lat": -10.488897,
         "lng": 105.6394828,
         "name": "Christmas Island",
-        "region": "WA",
+        "region": "CXR",
         "station_id": "WA_TP009",
-        "timezone": "Australia/Perth",
-        "tz": "AWST"
+        "timezone": "Indian/Christmas",
+        "tz": "CXT"
     },
     {
         "id": 249,
@@ -2690,16 +2690,6 @@
         "tz": "AWST"
     },
     {
-        "id": 190,
-        "lat": -6.7835924,
-        "lng": 39.332516,
-        "name": "Hammond Rock",
-        "region": "stream_QLD",
-        "station_id": "stream_QLD_TS001",
-        "timezone": "",
-        "tz": ""
-    },
-    {
         "id": 602,
         "lat": "",
         "lng": "",
@@ -2934,10 +2924,10 @@
         "lat": 63.4270499,
         "lng": -20.2693172,
         "name": "Home Island",
-        "region": "WA",
+        "region": "CCK",
         "station_id": "WA_TP010",
         "timezone": "Australia/Perth",
-        "tz": "AWST"
+        "tz": "CCT"
     },
     {
         "id": 668,
@@ -3044,10 +3034,10 @@
         "lat": 35.9118434,
         "lng": -95.3118391,
         "name": "Jackson Bay",
-        "region": "INT",
+        "region": "NZL",
         "station_id": "INT_TP008",
-        "timezone": "",
-        "tz": ""
+        "timezone": "Pacific/Auckland",
+        "tz": "NZDT"
     },
     {
         "id": 234,
@@ -4130,16 +4120,6 @@
         "tz": "FJST"
     },
     {
-        "id": 683,
-        "lat": -0.528743,
-        "lng": 166.9231353,
-        "name": "Nauru",
-        "region": "INT",
-        "station_id": "INT_TP007",
-        "timezone": "",
-        "tz": ""
-    },
-    {
         "id": 684,
         "lat": -18.6476779,
         "lng": -173.9836854,
@@ -4450,24 +4430,14 @@
         "tz": "AWST"
     },
     {
-        "id": 286,
-        "lat": -21.05408638586649,
-        "lng": 149.3030890435775,
-        "name": "Oom Shoal - Mackay",
-        "region": "stream_QLD",
-        "station_id": "stream_QLD_TS006",
-        "timezone": "",
-        "tz": ""
-    },
-    {
         "id": 689,
         "lat": 47.1409384,
         "lng": -122.7067987,
         "name": "Oro Bay",
-        "region": "INT",
+        "region": "PNG",
         "station_id": "INT_TP042",
-        "timezone": "",
-        "tz": ""
+        "timezone": "Pacific/Port_Moresby",
+        "tz": "PGT"
     },
     {
         "id": 273,
@@ -6258,16 +6228,6 @@
         "station_id": "NT_TP031",
         "timezone": "Australia/Darwin",
         "tz": "ACST"
-    },
-    {
-        "id": 78,
-        "lat": -38.3162036,
-        "lng": 144.6112535,
-        "name": "The Rip",
-        "region": "stream_VIC",
-        "station_id": "stream_VIC_TS001",
-        "timezone": "",
-        "tz": ""
     },
     {
         "id": 483,

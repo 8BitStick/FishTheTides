@@ -20,14 +20,30 @@ const Locations = ({ navigation }) => {
     }
   }, []);
 
-  const qldStations = [{ region: "QLD", data: stations.filter((station) => station.region === "QLD") }]
-  const nswStations = [{ region: "NSW", data: stations.filter((station) => station.region === "NSW") }]
-  const ntStations = [{ region: "NT", data: stations.filter((station) => station.region === "NT") }]
-  const saStations = [{ region: "SA", data: stations.filter((station) => station.region === "SA") }]
-  const tasStations = [{ region: "TAS", data: stations.filter((station) => station.region === "TAS") }]
-  const vicStations = [{ region: "VIC", data: stations.filter((station) => station.region === "VIC") }]
-  const waStations = [{ region: "WA", data: stations.filter((station) => station.region === "WA") }]
-  const intStations = [{ region: "INT", data: stations.filter((station) => station.region === "INT") }]
+  const qldStations = [{ region: "Queensland", data: stations.filter((station) => station.region === "QLD") }]
+  const nswStations = [{ region: "New South Wales", data: stations.filter((station) => station.region === "NSW") }]
+  const ntStations = [{ region: "Northern Territory", data: stations.filter((station) => station.region === "NT") }]
+  const saStations = [{ region: "Sourthern Australia", data: stations.filter((station) => station.region === "SA") }]
+  const tasStations = [{ region: "Tasmania", data: stations.filter((station) => station.region === "TAS") }]
+  const vicStations = [{ region: "Victoria", data: stations.filter((station) => station.region === "VIC") }]
+  const waStations = [{ region: "Western Australia", data: stations.filter((station) => station.region === "WA") }]
+  const pngStations = [{ region: "Papua New Guinea", data: stations.filter((station) => station.region === "PNG") }]
+  const ataStations = [{ region: "Antarctica", data: stations.filter((station) => station.region === "ATA") }]
+  const nzlStations = [{ region: "New Zealand", data: stations.filter((station) => station.region === "NZL") }]
+  const fjiStations = [{ region: "Fiji", data: stations.filter((station) => station.region === "FJI") }]
+  const wsmStations = [{ region: "Samoa", data: stations.filter((station) => station.region === "WSM") }]
+  const tuvStations = [{ region: "Tuvalu", data: stations.filter((station) => station.region === "TUV") }]
+  const slbStations = [{ region: "Solomon Islands", data: stations.filter((station) => station.region === "SLB") }]
+  const vutStations = [{ region: "Vanuatu", data: stations.filter((station) => station.region === "VUT") }]
+  const mhlStations = [{ region: "Marshall Islands", data: stations.filter((station) => station.region === "MHL") }]
+  const palauStations = [{ region: "Palau", data: stations.filter((station) => station.region === "PALAU") }]
+  const tonStations = [{ region: "Tonga", data: stations.filter((station) => station.region === "TON") }]
+  const niueStations = [{ region: "Niue", data: stations.filter((station) => station.region === "NIUE") }]
+  const cokStations = [{ region: "Cook Islands", data: stations.filter((station) => station.region === "COK") }]
+  const kirStations = [{ region: "Kiribati", data: stations.filter((station) => station.region === "KIR") }]
+  const cckStations = [{ region: "Cocos Islands", data: stations.filter((station) => station.region === "CCK") }]
+  const cxrStations = [{ region: "Christmas Island", data: stations.filter((station) => station.region === "CXR") }]
+
 
   // const pythagorasEquirectangular = (lat1, lon1, lat2, lon2) => {
   //   const R = 6371;
@@ -101,7 +117,22 @@ const Locations = ({ navigation }) => {
               ...tasStations,
               ...vicStations,
               ...waStations,
-              ...intStations
+              ...pngStations,
+              ...nzlStations,
+              ...fjiStations,
+              ...wsmStations,
+              ...tuvStations,
+              ...slbStations,
+              ...vutStations,
+              ...mhlStations,
+              ...palauStations,
+              ...tonStations,
+              ...niueStations,
+              ...cokStations,
+              ...kirStations,
+              ...cckStations,
+              ...cxrStations,
+              ...ataStations,
             ]}
             renderItem={({ item }) => (
               <Box borderBottomWidth="1" borderColor="muted.400" pl={["0", "4"]} pr={["0", "5"]} py="2">
