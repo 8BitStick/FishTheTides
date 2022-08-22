@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import { ScrollView, SafeAreaView } from 'react-native'
-import { NativeBaseProvider, Box, Heading, Text, Divider } from 'native-base';
+import { NativeBaseProvider, Box, Heading, Text, Divider, HStack, Center } from 'native-base';
 import { useSelector, useDispatch } from 'react-redux';
 import { getTides } from '../redux/actions';
 import { useIsFocused } from '@react-navigation/core';
@@ -33,13 +33,16 @@ const Tides = ({ route }) => {
             <ScrollView>
                 <NativeBaseProvider>
                     <Box margin={1}>
-                        <Box flex={1} justifyContent="center" margin={2}>
-                            <Heading size="xl" color="#f05c2c">{station.name}
-                                <Box flex={1} justifyContent="center" alignItems="center">
+                        <Box marginLeft={2} marginRight={2}>
+                            <HStack space={1} justifyContent="flex-start">
+                                <Center>
+                                    <Heading size="xl" color="#f05c2c">{station.name}</Heading>
+                                </Center>
+                                <Center>
                                     <Heading size="xs" color="muted.400">  ({station.region})</Heading>
-                                </Box>
-                            </Heading>
-                            <Divider marginTop={3} marginBottom={3} />
+                                </Center>
+                            </HStack>
+                            <Divider marginTop={3} marginBottom={4} />
                         </Box>
                         <Box bg="#fff" borderStyle="solid" rounded="md" shadow={3} marginLeft={2} marginRight={2}>
                             <Box flex={1} justifyContent="space-between" flexDirection="row" alignItems="center" marginLeft={2} marginRight={2}>
