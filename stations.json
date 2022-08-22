@@ -1794,10 +1794,10 @@
         "lat": 38.5462903,
         "lng": -121.7466799,
         "name": "Davis",
-        "region": "TAS",
+        "region": "ATA",
         "station_id": "TAS_TP011",
-        "timezone": "Australia/Hobart",
-        "tz": "AEDT"
+        "timezone": "Antarctica/Davis",
+        "tz": "DAVT"
     },
     {
         "id": 427,
@@ -3794,10 +3794,10 @@
         "lat": 43.07217,
         "lng": -89.381892,
         "name": "Mawson",
-        "region": "TAS",
+        "region": "ATA",
         "station_id": "TAS_TP012",
-        "timezone": "Australia/Hobart",
-        "tz": "AEDT"
+        "timezone": "Antarctica/Mawson",
+        "tz": "MAWT"
     },
     {
         "id": 268,
